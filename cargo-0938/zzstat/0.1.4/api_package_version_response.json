@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1913079,
+        "crate": "zzstat",
+        "num": "0.1.4",
+        "dl_path": "/api/v1/crates/zzstat/0.1.4/download",
+        "readme_path": "/api/v1/crates/zzstat/0.1.4/readme",
+        "updated_at": "2025-12-31T14:03:12.150506Z",
+        "created_at": "2025-12-31T14:03:12.150506Z",
+        "downloads": 88,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zzstat/0.1.4/dependencies",
+            "version_downloads": "/api/v1/crates/zzstat/0.1.4/downloads",
+            "authors": "/api/v1/crates/zzstat/0.1.4/authors"
+        },
+        "crate_size": 21237,
+        "published_by": {
+            "id": 341596,
+            "login": "singoesdeep",
+            "name": "singoesdeep",
+            "avatar": "https://avatars.githubusercontent.com/u/135269948?v=4",
+            "url": "https://github.com/singoesdeep"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 341596,
+                    "login": "singoesdeep",
+                    "name": "singoesdeep",
+                    "avatar": "https://avatars.githubusercontent.com/u/135269948?v=4",
+                    "url": "https://github.com/singoesdeep"
+                },
+                "time": "2025-12-31T14:03:12.150506Z"
+            }
+        ],
+        "checksum": "c5e86ba9a1c94ca64a1b71cb7bf375efe0e6c4d0effeee150cb2c281978f66cf",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A deterministic, hardcode-free stat calculation engine designed for MMORPGs",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/singoesdeep/zzstat",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 876,
+                    "comment_lines": 37,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 876,
+            "total_comment_lines": 37
+        }
+    }
+}

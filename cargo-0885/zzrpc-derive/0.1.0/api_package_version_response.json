@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 688465,
+        "crate": "zzrpc-derive",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zzrpc-derive/0.1.0/download",
+        "readme_path": "/api/v1/crates/zzrpc-derive/0.1.0/readme",
+        "updated_at": "2022-12-20T15:15:59.668305Z",
+        "created_at": "2022-12-20T15:15:59.668305Z",
+        "downloads": 1117,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zzrpc-derive/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zzrpc-derive/0.1.0/downloads",
+            "authors": "/api/v1/crates/zzrpc-derive/0.1.0/authors"
+        },
+        "crate_size": 12197,
+        "published_by": {
+            "id": 80981,
+            "login": "zduny",
+            "name": "Daniel Zduniak",
+            "avatar": "https://avatars.githubusercontent.com/u/135984?v=4",
+            "url": "https://github.com/zduny"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80981,
+                    "login": "zduny",
+                    "name": "Daniel Zduniak",
+                    "avatar": "https://avatars.githubusercontent.com/u/135984?v=4",
+                    "url": "https://github.com/zduny"
+                },
+                "time": "2022-12-20T15:15:59.668305Z"
+            }
+        ],
+        "checksum": "6ed4ce55d935a5c9bacce1f35384e8b59c3ff49ce4581c8765e8684d191bb1f7",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Macros for zzrpc.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zzrpc/",
+        "repository": "https://github.com/zduny/zzrpc",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1229,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 1229,
+            "total_comment_lines": 0
+        }
+    }
+}

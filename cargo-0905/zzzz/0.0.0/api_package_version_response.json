@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 532951,
+        "crate": "zzzz",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zzzz/0.0.0/download",
+        "readme_path": "/api/v1/crates/zzzz/0.0.0/readme",
+        "updated_at": "2022-04-15T08:49:37.259910Z",
+        "created_at": "2022-04-15T08:49:37.259910Z",
+        "downloads": 1642,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zzzz/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zzzz/0.0.0/downloads",
+            "authors": "/api/v1/crates/zzzz/0.0.0/authors"
+        },
+        "crate_size": 8461,
+        "published_by": {
+            "id": 3991,
+            "login": "azriel91",
+            "name": "Azriel Hoh",
+            "avatar": "https://avatars.githubusercontent.com/u/2993230?v=4",
+            "url": "https://github.com/azriel91"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 3991,
+                    "login": "azriel91",
+                    "name": "Azriel Hoh",
+                    "avatar": "https://avatars.githubusercontent.com/u/2993230?v=4",
+                    "url": "https://github.com/azriel91"
+                },
+                "time": "2022-04-15T08:49:37.259910Z"
+            }
+        ],
+        "checksum": "05eeee79f267e39f1afc6ffafefcf3d14f5639bf5b6b0c443445bf3e4c908dd1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Automate with your eyes closed.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zzzz/",
+        "repository": "https://github.com/azriel91/zzzz",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 1,
+            "total_comment_lines": 0
+        }
+    }
+}

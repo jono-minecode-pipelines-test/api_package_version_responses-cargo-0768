@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1317574,
+        "crate": "zzzmycrate",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zzzmycrate/0.1.0/download",
+        "readme_path": "/api/v1/crates/zzzmycrate/0.1.0/readme",
+        "updated_at": "2024-10-28T11:29:30.065224Z",
+        "created_at": "2024-10-28T11:29:30.065224Z",
+        "downloads": 1025,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zzzmycrate/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zzzmycrate/0.1.0/downloads",
+            "authors": "/api/v1/crates/zzzmycrate/0.1.0/authors"
+        },
+        "crate_size": 1241,
+        "published_by": {
+            "id": 297134,
+            "login": "ycaihua",
+            "name": "ppsoft",
+            "avatar": "https://avatars.githubusercontent.com/u/5791117?v=4",
+            "url": "https://github.com/ycaihua"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297134,
+                    "login": "ycaihua",
+                    "name": "ppsoft",
+                    "avatar": "https://avatars.githubusercontent.com/u/5791117?v=4",
+                    "url": "https://github.com/ycaihua"
+                },
+                "time": "2024-10-28T11:29:30.065224Z"
+            }
+        ],
+        "checksum": "e93b435f1a63ef92cc23e7c20e83b2bfa8fad6c26842fa9a0b521015fb9a1950",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zzzmycrate"
+        ],
+        "edition": "2021",
+        "description": "A fun game where you guess what number the computer has chosen.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 23,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 23,
+            "total_comment_lines": 0
+        }
+    }
+}

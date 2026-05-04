@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 2287587,
+        "crate": "zzignal",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zzignal/0.1.0/download",
+        "readme_path": "/api/v1/crates/zzignal/0.1.0/readme",
+        "updated_at": "2026-04-21T15:58:25.878214Z",
+        "created_at": "2026-04-21T15:58:25.878214Z",
+        "downloads": 11,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zzignal/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zzignal/0.1.0/downloads",
+            "authors": "/api/v1/crates/zzignal/0.1.0/authors"
+        },
+        "crate_size": 62307,
+        "published_by": {
+            "id": 408696,
+            "login": "compascafe",
+            "name": "David Tello",
+            "avatar": "https://avatars.githubusercontent.com/u/2190553?v=4",
+            "url": "https://github.com/compascafe"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 408696,
+                    "login": "compascafe",
+                    "name": "David Tello",
+                    "avatar": "https://avatars.githubusercontent.com/u/2190553?v=4",
+                    "url": "https://github.com/compascafe"
+                },
+                "time": "2026-04-21T15:58:25.878214Z"
+            }
+        ],
+        "checksum": "e65437a9ac909c5e81c993a5f05da16161e4b61219c084b416eda0fec049560e",
+        "rust_version": "1.91",
+        "has_lib": false,
+        "bin_names": [
+            "setup",
+            "zzignal"
+        ],
+        "edition": "2021",
+        "description": "Async Polymarket trading backend \u2014 REST API, WebSocket server, and BTC market worker",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/compascafe/zzignal",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2032,
+                    "comment_lines": 114,
+                    "files": 7
+                },
+                "SQL": {
+                    "code_lines": 26,
+                    "comment_lines": 3,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 2058,
+            "total_comment_lines": 117
+        }
+    }
+}

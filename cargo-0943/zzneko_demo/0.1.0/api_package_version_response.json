@@ -1,0 +1,99 @@
+{
+    "version": {
+        "id": 972051,
+        "crate": "zzneko_demo",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zzneko_demo/0.1.0/download",
+        "readme_path": "/api/v1/crates/zzneko_demo/0.1.0/readme",
+        "updated_at": "2023-11-30T06:33:10.628822Z",
+        "created_at": "2023-11-30T06:20:32.711360Z",
+        "downloads": 1188,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zzneko_demo/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zzneko_demo/0.1.0/downloads",
+            "authors": "/api/v1/crates/zzneko_demo/0.1.0/authors"
+        },
+        "crate_size": 2461,
+        "published_by": {
+            "id": 242119,
+            "login": "AiClvGu",
+            "name": "AiClvGu",
+            "avatar": "https://avatars.githubusercontent.com/u/72239228?v=4",
+            "url": "https://github.com/AiClvGu"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 242119,
+                    "login": "AiClvGu",
+                    "name": "AiClvGu",
+                    "avatar": "https://avatars.githubusercontent.com/u/72239228?v=4",
+                    "url": "https://github.com/AiClvGu"
+                },
+                "time": "2023-11-30T06:20:32.711360Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 242119,
+                    "login": "AiClvGu",
+                    "name": "AiClvGu",
+                    "avatar": "https://avatars.githubusercontent.com/u/72239228?v=4",
+                    "url": "https://github.com/AiClvGu"
+                },
+                "time": "2023-11-30T06:23:20.747216Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 242119,
+                    "login": "AiClvGu",
+                    "name": "AiClvGu",
+                    "avatar": "https://avatars.githubusercontent.com/u/72239228?v=4",
+                    "url": "https://github.com/AiClvGu"
+                },
+                "time": "2023-11-30T06:23:24.934446Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 242119,
+                    "login": "AiClvGu",
+                    "name": "AiClvGu",
+                    "avatar": "https://avatars.githubusercontent.com/u/72239228?v=4",
+                    "url": "https://github.com/AiClvGu"
+                },
+                "time": "2023-11-30T06:33:10.633709Z"
+            }
+        ],
+        "checksum": "5ec7d221b3fa386fd72a513738db46d75db6215eba4ec112df746772c06f632b",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zzneko_demo"
+        ],
+        "edition": null,
+        "description": "A tool to search files",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 9,
+                    "comment_lines": 1,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 9,
+            "total_comment_lines": 1
+        }
+    }
+}

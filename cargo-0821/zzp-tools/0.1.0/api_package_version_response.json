@@ -1,0 +1,67 @@
+{
+    "version": {
+        "id": 331184,
+        "crate": "zzp-tools",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zzp-tools/0.1.0/download",
+        "readme_path": "/api/v1/crates/zzp-tools/0.1.0/readme",
+        "updated_at": "2021-01-24T13:31:10.809913Z",
+        "created_at": "2021-01-24T13:31:10.809913Z",
+        "downloads": 1681,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-2-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zzp-tools/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zzp-tools/0.1.0/downloads",
+            "authors": "/api/v1/crates/zzp-tools/0.1.0/authors"
+        },
+        "crate_size": 6583,
+        "published_by": {
+            "id": 35980,
+            "login": "de-vri-es",
+            "name": "Maarten de Vries",
+            "avatar": "https://avatars.githubusercontent.com/u/786213?v=4",
+            "url": "https://github.com/de-vri-es"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 35980,
+                    "login": "de-vri-es",
+                    "name": "Maarten de Vries",
+                    "avatar": "https://avatars.githubusercontent.com/u/786213?v=4",
+                    "url": "https://github.com/de-vri-es"
+                },
+                "time": "2021-01-24T13:31:10.809913Z"
+            }
+        ],
+        "checksum": "8b83bfd9b5b2a1adafd793437e0b1a367dbf3cf9799eb86196ad8951dffb320c",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "grootboek",
+            "uurlog"
+        ],
+        "edition": "2018",
+        "description": "bookkeeping tools for freelancers",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/de-vri-es/zzp-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 289,
+                    "comment_lines": 6,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 289,
+            "total_comment_lines": 6
+        }
+    }
+}

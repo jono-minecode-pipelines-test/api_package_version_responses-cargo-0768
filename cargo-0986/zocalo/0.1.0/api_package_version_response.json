@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1949344,
+        "crate": "zocalo",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zocalo/0.1.0/download",
+        "readme_path": "/api/v1/crates/zocalo/0.1.0/readme",
+        "updated_at": "2026-01-16T11:44:00.393001Z",
+        "created_at": "2026-01-16T11:44:00.393001Z",
+        "downloads": 22,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zocalo/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zocalo/0.1.0/downloads",
+            "authors": "/api/v1/crates/zocalo/0.1.0/authors"
+        },
+        "crate_size": 17167,
+        "published_by": {
+            "id": 347978,
+            "login": "ndevenish",
+            "name": "Nicholas Devenish",
+            "avatar": "https://avatars.githubusercontent.com/u/529963?v=4",
+            "url": "https://github.com/ndevenish"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 347978,
+                    "login": "ndevenish",
+                    "name": "Nicholas Devenish",
+                    "avatar": "https://avatars.githubusercontent.com/u/529963?v=4",
+                    "url": "https://github.com/ndevenish"
+                },
+                "time": "2026-01-16T11:44:00.393001Z"
+            }
+        ],
+        "checksum": "95fd920b970650342cef03c36b6f756ba66f5b91b7679479c3abaee904f6974b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Tools for interfacing with python-Zocalo distributed systems",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/ndevenish/zocalo-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 857,
+                    "comment_lines": 24,
+                    "files": 15
+                }
+            },
+            "total_code_lines": 857,
+            "total_comment_lines": 24
+        }
+    }
+}

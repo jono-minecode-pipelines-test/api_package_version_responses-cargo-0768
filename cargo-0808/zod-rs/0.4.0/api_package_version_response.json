@@ -1,0 +1,81 @@
+{
+    "version": {
+        "id": 1951262,
+        "crate": "zod-rs",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zod-rs/0.4.0/download",
+        "readme_path": "/api/v1/crates/zod-rs/0.4.0/readme",
+        "updated_at": "2026-01-17T06:32:17.944673Z",
+        "created_at": "2026-01-17T06:32:17.944673Z",
+        "downloads": 66,
+        "features": {
+            "axum": [
+                "dep:axum",
+                "dep:tokio",
+                "dep:tower"
+            ],
+            "default": [
+                "macros"
+            ],
+            "macros": [
+                "dep:zod-rs-macros"
+            ],
+            "ts": [
+                "dep:zod-rs-ts"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zod-rs/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zod-rs/0.4.0/downloads",
+            "authors": "/api/v1/crates/zod-rs/0.4.0/authors"
+        },
+        "crate_size": 25292,
+        "published_by": {
+            "id": 332031,
+            "login": "maulanasdqn",
+            "name": "Maulana Sodiqin",
+            "avatar": "https://avatars.githubusercontent.com/u/53475078?v=4",
+            "url": "https://github.com/maulanasdqn"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 332031,
+                    "login": "maulanasdqn",
+                    "name": "Maulana Sodiqin",
+                    "avatar": "https://avatars.githubusercontent.com/u/53475078?v=4",
+                    "url": "https://github.com/maulanasdqn"
+                },
+                "time": "2026-01-17T06:32:17.944673Z"
+            }
+        ],
+        "checksum": "6b3d6798b23cf9be839aa5dc002b72ae21b52c0a112920b4397252eb152ce10b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "demo"
+        ],
+        "edition": "2021",
+        "description": "TypeScript Zod-inspired schema validation library for Rust with static type inference",
+        "homepage": "https://github.com/maulanasdqn/zod-rs",
+        "documentation": "https://docs.rs/zod-rs",
+        "repository": "https://github.com/maulanasdqn/zod-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2472,
+                    "comment_lines": 101,
+                    "files": 13
+                }
+            },
+            "total_code_lines": 2472,
+            "total_comment_lines": 101
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 740853,
+        "crate": "zod-derive",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zod-derive/0.1.0/download",
+        "readme_path": "/api/v1/crates/zod-derive/0.1.0/readme",
+        "updated_at": "2023-03-04T06:02:38.131979Z",
+        "created_at": "2023-03-04T06:02:38.131979Z",
+        "downloads": 2325,
+        "features": {
+            "default": [
+                "rpc"
+            ],
+            "rpc": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zod-derive/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zod-derive/0.1.0/downloads",
+            "authors": "/api/v1/crates/zod-derive/0.1.0/authors"
+        },
+        "crate_size": 10726,
+        "published_by": {
+            "id": 101832,
+            "login": "nicolaiunrein",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/30074233?v=4",
+            "url": "https://github.com/nicolaiunrein"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 101832,
+                    "login": "nicolaiunrein",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/30074233?v=4",
+                    "url": "https://github.com/nicolaiunrein"
+                },
+                "time": "2023-03-04T06:02:38.131979Z"
+            }
+        ],
+        "checksum": "19671a6eed8f9ea52a889c7203b0441200cf62121f59433ab7f187fe5abfb008",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Rust integraions with the `zod` typescript library.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zod",
+        "repository": "https://github.com/nicolaiunrein/zod",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1484,
+                    "comment_lines": 14,
+                    "files": 16
+                }
+            },
+            "total_code_lines": 1484,
+            "total_comment_lines": 14
+        }
+    }
+}

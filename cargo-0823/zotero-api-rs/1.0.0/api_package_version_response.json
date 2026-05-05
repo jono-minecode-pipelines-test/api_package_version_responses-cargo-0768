@@ -1,0 +1,76 @@
+{
+    "version": {
+        "id": 2136869,
+        "crate": "zotero-api-rs",
+        "num": "1.0.0",
+        "dl_path": "/api/v1/crates/zotero-api-rs/1.0.0/download",
+        "readme_path": "/api/v1/crates/zotero-api-rs/1.0.0/readme",
+        "updated_at": "2026-03-18T09:19:26.069182Z",
+        "created_at": "2026-03-18T09:19:26.069182Z",
+        "downloads": 18,
+        "features": {
+            "default": [
+                "rustls-tls"
+            ],
+            "file-upload": [],
+            "native-tls": [
+                "reqwest/native-tls"
+            ],
+            "oauth": [],
+            "rustls-tls": [
+                "reqwest/rustls"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zotero-api-rs/1.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zotero-api-rs/1.0.0/downloads",
+            "authors": "/api/v1/crates/zotero-api-rs/1.0.0/authors"
+        },
+        "crate_size": 43694,
+        "published_by": {
+            "id": 181040,
+            "login": "vishvish",
+            "name": "Vish",
+            "avatar": "https://avatars.githubusercontent.com/u/184423?v=4",
+            "url": "https://github.com/vishvish"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 181040,
+                    "login": "vishvish",
+                    "name": "Vish",
+                    "avatar": "https://avatars.githubusercontent.com/u/184423?v=4",
+                    "url": "https://github.com/vishvish"
+                },
+                "time": "2026-03-18T09:19:26.069182Z"
+            }
+        ],
+        "checksum": "c9da6686d8c3a4b96081663b12b3f36eed0af1d111bebcc2f1be276be81968a2",
+        "rust_version": "1.82",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A secure, typed Rust client for the Zotero Web API v3",
+        "homepage": "https://github.com/vish/zotero_rs",
+        "documentation": "https://docs.rs/zotero-api-rs",
+        "repository": "https://github.com/vish/zotero_rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2286,
+                    "comment_lines": 1,
+                    "files": 70
+                }
+            },
+            "total_code_lines": 2286,
+            "total_comment_lines": 1
+        }
+    }
+}

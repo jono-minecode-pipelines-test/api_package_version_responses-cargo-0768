@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1801205,
+        "crate": "zotify-genre-tagger",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zotify-genre-tagger/0.1.0/download",
+        "readme_path": "/api/v1/crates/zotify-genre-tagger/0.1.0/readme",
+        "updated_at": "2025-10-31T02:49:02.103582Z",
+        "created_at": "2025-10-31T02:49:02.103582Z",
+        "downloads": 42,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zotify-genre-tagger/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zotify-genre-tagger/0.1.0/downloads",
+            "authors": "/api/v1/crates/zotify-genre-tagger/0.1.0/authors"
+        },
+        "crate_size": 21817,
+        "published_by": {
+            "id": 365451,
+            "login": "ariririos",
+            "name": "Ari Rios",
+            "avatar": "https://avatars.githubusercontent.com/u/6045595?v=4",
+            "url": "https://github.com/ariririos"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 365451,
+                    "login": "ariririos",
+                    "name": "Ari Rios",
+                    "avatar": "https://avatars.githubusercontent.com/u/6045595?v=4",
+                    "url": "https://github.com/ariririos"
+                },
+                "time": "2025-10-31T02:49:02.103582Z"
+            }
+        ],
+        "checksum": "ac718cf004bc4cc198437ad0810d1564ffb694e11022d533e1c46fe1ce1626d5",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zotify-genre-tagger"
+        ],
+        "edition": "2024",
+        "description": "For when you forgot to enable genre tagging in Zotify",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 382,
+                    "comment_lines": 6,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 382,
+            "total_comment_lines": 6
+        }
+    }
+}

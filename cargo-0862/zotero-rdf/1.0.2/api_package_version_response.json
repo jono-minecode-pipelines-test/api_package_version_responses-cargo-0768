@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2101868,
+        "crate": "zotero-rdf",
+        "num": "1.0.2",
+        "dl_path": "/api/v1/crates/zotero-rdf/1.0.2/download",
+        "readme_path": "/api/v1/crates/zotero-rdf/1.0.2/readme",
+        "updated_at": "2026-03-09T02:59:31.748219Z",
+        "created_at": "2026-03-09T02:59:31.748219Z",
+        "downloads": 18,
+        "features": {
+            "default": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zotero-rdf/1.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zotero-rdf/1.0.2/downloads",
+            "authors": "/api/v1/crates/zotero-rdf/1.0.2/authors"
+        },
+        "crate_size": 20815,
+        "published_by": {
+            "id": 256698,
+            "login": "spartajet",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/8477178?v=4",
+            "url": "https://github.com/spartajet"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 256698,
+                    "login": "spartajet",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/8477178?v=4",
+                    "url": "https://github.com/spartajet"
+                },
+                "time": "2026-03-09T02:59:31.748219Z"
+            }
+        ],
+        "checksum": "bc0458cddf1e50a33fb1523301f1c9e88d087593643e6ddc92b881669d3c37e5",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A Rust library for parsing Zotero RDF/XML export files",
+        "homepage": null,
+        "documentation": "https://docs.rs/zotero-rdf",
+        "repository": "https://github.com/spartajet/zotero-rdf",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 804,
+                    "comment_lines": 81,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 804,
+            "total_comment_lines": 81
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1903086,
+        "crate": "zrx-stream",
+        "num": "0.0.3",
+        "dl_path": "/api/v1/crates/zrx-stream/0.0.3/download",
+        "readme_path": "/api/v1/crates/zrx-stream/0.0.3/readme",
+        "updated_at": "2025-12-26T09:55:35.117043Z",
+        "created_at": "2025-12-26T09:55:35.117043Z",
+        "downloads": 24,
+        "features": {
+            "default": [],
+            "tracing": [
+                "dep:tracing"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zrx-stream/0.0.3/dependencies",
+            "version_downloads": "/api/v1/crates/zrx-stream/0.0.3/downloads",
+            "authors": "/api/v1/crates/zrx-stream/0.0.3/authors"
+        },
+        "crate_size": 39200,
+        "published_by": {
+            "id": 319220,
+            "login": "zensical-bot",
+            "name": "Zensical",
+            "avatar": "https://avatars.githubusercontent.com/u/201893989?v=4",
+            "url": "https://github.com/zensical-bot"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 319220,
+                    "login": "zensical-bot",
+                    "name": "Zensical",
+                    "avatar": "https://avatars.githubusercontent.com/u/201893989?v=4",
+                    "url": "https://github.com/zensical-bot"
+                },
+                "time": "2025-12-26T09:55:35.117043Z"
+            }
+        ],
+        "checksum": "c56ece837ef749b2b555f8ff91f45c191dd8682444452eb1e1cb3800eed3ca0b",
+        "rust_version": "1.86",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Stream interface",
+        "homepage": "https://github.com/zensical/zrx",
+        "documentation": "https://github.com/zensical/zrx",
+        "repository": "https://github.com/zensical/zrx",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4078,
+                    "comment_lines": 2060,
+                    "files": 72
+                }
+            },
+            "total_code_lines": 4078,
+            "total_comment_lines": 2060
+        }
+    }
+}

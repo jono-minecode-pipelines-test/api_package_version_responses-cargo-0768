@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 1505974,
+        "crate": "zone",
+        "num": "0.3.1",
+        "dl_path": "/api/v1/crates/zone/0.3.1/download",
+        "readme_path": "/api/v1/crates/zone/0.3.1/readme",
+        "updated_at": "2025-04-01T21:14:31.814865Z",
+        "created_at": "2025-04-01T21:14:31.814865Z",
+        "downloads": 132288,
+        "features": {
+            "async": [
+                "dep:tokio"
+            ],
+            "default": [
+                "sync"
+            ],
+            "sync": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zone/0.3.1/dependencies",
+            "version_downloads": "/api/v1/crates/zone/0.3.1/downloads",
+            "authors": "/api/v1/crates/zone/0.3.1/authors"
+        },
+        "crate_size": 13095,
+        "published_by": {
+            "id": 86039,
+            "login": "smklein",
+            "name": "Sean Klein",
+            "avatar": "https://avatars.githubusercontent.com/u/3258857?v=4",
+            "url": "https://github.com/smklein"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 86039,
+                    "login": "smklein",
+                    "name": "Sean Klein",
+                    "avatar": "https://avatars.githubusercontent.com/u/3258857?v=4",
+                    "url": "https://github.com/smklein"
+                },
+                "time": "2025-04-01T21:14:31.814865Z"
+            }
+        ],
+        "checksum": "5d9ff514599b819915af2745e8adf6304030b28c072b2b1eb895e5739381bd0c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Rust bindings for Zone management",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/oxidecomputer/zone",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 964,
+                    "comment_lines": 16,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 964,
+            "total_comment_lines": 16
+        }
+    }
+}

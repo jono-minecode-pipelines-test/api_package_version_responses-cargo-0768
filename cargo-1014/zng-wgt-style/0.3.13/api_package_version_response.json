@@ -1,0 +1,68 @@
+{
+    "version": {
+        "id": 1199568,
+        "crate": "zng-wgt-style",
+        "num": "0.3.13",
+        "dl_path": "/api/v1/crates/zng-wgt-style/0.3.13/download",
+        "readme_path": "/api/v1/crates/zng-wgt-style/0.3.13/readme",
+        "updated_at": "2024-07-11T03:58:31.094002Z",
+        "created_at": "2024-07-11T03:58:31.094002Z",
+        "downloads": 1073,
+        "features": {
+            "trace_widget": [
+                "zng-app/trace_widget"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-style/0.3.13/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-style/0.3.13/downloads",
+            "authors": "/api/v1/crates/zng-wgt-style/0.3.13/authors"
+        },
+        "crate_size": 6426,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-07-11T03:58:31.094002Z"
+            }
+        ],
+        "checksum": "79a16c64dd9b71465f55c709c95c915a588c33cc66e7de7e621a6e5e1f76d6f5",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_style",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 293,
+                    "comment_lines": 10,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 293,
+            "total_comment_lines": 10
+        }
+    }
+}

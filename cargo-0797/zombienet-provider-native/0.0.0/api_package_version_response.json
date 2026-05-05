@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 932688,
+        "crate": "zombienet-provider-native",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zombienet-provider-native/0.0.0/download",
+        "readme_path": "/api/v1/crates/zombienet-provider-native/0.0.0/readme",
+        "updated_at": "2023-10-23T11:30:55.863187Z",
+        "created_at": "2023-10-23T11:30:55.863187Z",
+        "downloads": 1445,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zombienet-provider-native/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zombienet-provider-native/0.0.0/downloads",
+            "authors": "/api/v1/crates/zombienet-provider-native/0.0.0/authors"
+        },
+        "crate_size": 987,
+        "published_by": {
+            "id": 96881,
+            "login": "pepoviola",
+            "name": "Javier Viola",
+            "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+            "url": "https://github.com/pepoviola"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 96881,
+                    "login": "pepoviola",
+                    "name": "Javier Viola",
+                    "avatar": "https://avatars.githubusercontent.com/u/363911?v=4",
+                    "url": "https://github.com/pepoviola"
+                },
+                "time": "2023-10-23T11:30:55.863187Z"
+            }
+        ],
+        "checksum": "1462087a70304bad4b94ee8cd4cfb8e6929d6842a077108643dffaabc8425aaf",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zombienet-provider-native"
+        ],
+        "edition": "2021",
+        "description": "Zombienet provider, run nodes as local processes",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/pepoviola/zombienet-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}

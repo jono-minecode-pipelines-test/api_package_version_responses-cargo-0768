@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 1690974,
+        "crate": "zng-ext-window",
+        "num": "0.7.1",
+        "dl_path": "/api/v1/crates/zng-ext-window/0.7.1/download",
+        "readme_path": "/api/v1/crates/zng-ext-window/0.7.1/readme",
+        "updated_at": "2025-08-18T20:00:52.408598Z",
+        "created_at": "2025-08-18T20:00:52.408598Z",
+        "downloads": 578,
+        "features": {
+            "http": [
+                "zng-task/http",
+                "zng-ext-image/http"
+            ],
+            "test_util": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-ext-window/0.7.1/dependencies",
+            "version_downloads": "/api/v1/crates/zng-ext-window/0.7.1/downloads",
+            "authors": "/api/v1/crates/zng-ext-window/0.7.1/authors"
+        },
+        "crate_size": 78442,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-08-18T20:00:52.408598Z"
+            }
+        ],
+        "checksum": "2e8f0482519f89d1dde03be621615ad3fd736d2663d5dc4cc541e2eb7db9a0e2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_ext_window",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "FreeMarker": {
+                    "code_lines": 54,
+                    "comment_lines": 0,
+                    "files": 3
+                },
+                "Rust": {
+                    "code_lines": 5403,
+                    "comment_lines": 112,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 5457,
+            "total_comment_lines": 112
+        }
+    }
+}

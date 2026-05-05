@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1263987,
+        "crate": "zz-data",
+        "num": "0.1.13",
+        "dl_path": "/api/v1/crates/zz-data/0.1.13/download",
+        "readme_path": "/api/v1/crates/zz-data/0.1.13/readme",
+        "updated_at": "2024-09-08T16:03:19.832378Z",
+        "created_at": "2024-09-08T16:03:19.832378Z",
+        "downloads": 944,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zz-data/0.1.13/dependencies",
+            "version_downloads": "/api/v1/crates/zz-data/0.1.13/downloads",
+            "authors": "/api/v1/crates/zz-data/0.1.13/authors"
+        },
+        "crate_size": 3008,
+        "published_by": {
+            "id": 245983,
+            "login": "pegnoly",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/47292077?v=4",
+            "url": "https://github.com/pegnoly"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 245983,
+                    "login": "pegnoly",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/47292077?v=4",
+                    "url": "https://github.com/pegnoly"
+                },
+                "time": "2024-09-08T16:03:19.832378Z"
+            }
+        ],
+        "checksum": "fca6f0228bbd30522dabe1efeaac69c5659376485f7bba4bdfebf09da7ff6753",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Data structures for Zanzarah apis",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 272,
+                    "comment_lines": 4,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 272,
+            "total_comment_lines": 4
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "version": {
+        "id": 1261473,
+        "crate": "zoneparser",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zoneparser/0.1.1/download",
+        "readme_path": "/api/v1/crates/zoneparser/0.1.1/readme",
+        "updated_at": "2024-09-06T06:25:55.671841Z",
+        "created_at": "2024-09-06T06:25:55.671841Z",
+        "downloads": 1010,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoneparser/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zoneparser/0.1.1/downloads",
+            "authors": "/api/v1/crates/zoneparser/0.1.1/authors"
+        },
+        "crate_size": 8222,
+        "published_by": {
+            "id": 288708,
+            "login": "erikoest",
+            "name": "Erik Pihl \u00d8stlyngen",
+            "avatar": "https://avatars.githubusercontent.com/u/4376000?v=4",
+            "url": "https://github.com/erikoest"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 288708,
+                    "login": "erikoest",
+                    "name": "Erik Pihl \u00d8stlyngen",
+                    "avatar": "https://avatars.githubusercontent.com/u/4376000?v=4",
+                    "url": "https://github.com/erikoest"
+                },
+                "time": "2024-09-06T06:25:55.671841Z"
+            }
+        ],
+        "checksum": "e3e3a0ae21e4875a58db66b71265dae2d4efed12f4d5f2a587998c5b76a6a423",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zonecount",
+            "zonediff"
+        ],
+        "edition": "2021",
+        "description": "A fast zonefile parser",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/erikoest/zoneparser",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 557,
+                    "comment_lines": 47,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 557,
+            "total_comment_lines": 47
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 2009687,
+        "crate": "zparse",
+        "num": "2.0.0",
+        "dl_path": "/api/v1/crates/zparse/2.0.0/download",
+        "readme_path": "/api/v1/crates/zparse/2.0.0/readme",
+        "updated_at": "2026-02-08T18:36:46.946792Z",
+        "created_at": "2026-02-08T18:36:46.946792Z",
+        "downloads": 63,
+        "features": {
+            "default": [
+                "serde"
+            ],
+            "serde": [
+                "dep:serde"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zparse/2.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zparse/2.0.0/downloads",
+            "authors": "/api/v1/crates/zparse/2.0.0/authors"
+        },
+        "crate_size": 59611,
+        "published_by": {
+            "id": 319988,
+            "login": "pixincreate",
+            "name": "Pa1NarK ",
+            "avatar": "https://avatars.githubusercontent.com/u/69745008?v=4",
+            "url": "https://github.com/pixincreate"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 319988,
+                    "login": "pixincreate",
+                    "name": "Pa1NarK ",
+                    "avatar": "https://avatars.githubusercontent.com/u/69745008?v=4",
+                    "url": "https://github.com/pixincreate"
+                },
+                "time": "2026-02-08T18:36:46.946792Z"
+            }
+        ],
+        "checksum": "73b3e8509697d35ce4e8b025279edcd53a1cb05c2f0bca4e45bb0e5fbbf9464f",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "High-performance JSON/TOML/YAML/XML parser with zero-allocation support",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/pixincreate/zParse",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5806,
+                    "comment_lines": 42,
+                    "files": 23
+                }
+            },
+            "total_code_lines": 5806,
+            "total_comment_lines": 42
+        }
+    }
+}

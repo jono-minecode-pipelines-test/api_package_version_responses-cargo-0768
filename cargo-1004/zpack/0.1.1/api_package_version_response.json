@@ -1,0 +1,76 @@
+{
+    "version": {
+        "id": 1712024,
+        "crate": "zpack",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zpack/0.1.1/download",
+        "readme_path": "/api/v1/crates/zpack/0.1.1/readme",
+        "updated_at": "2025-09-02T21:35:01.119941Z",
+        "created_at": "2025-09-02T21:35:01.119941Z",
+        "downloads": 291,
+        "features": {
+            "cheap_errors": [],
+            "mpi": [
+                "dep:mpi"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zpack/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zpack/0.1.1/downloads",
+            "authors": "/api/v1/crates/zpack/0.1.1/authors"
+        },
+        "crate_size": 32780,
+        "published_by": {
+            "id": 141561,
+            "login": "Pencilcaseman",
+            "name": "Toby Davis",
+            "avatar": "https://avatars.githubusercontent.com/u/52111185?v=4",
+            "url": "https://github.com/Pencilcaseman"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 141561,
+                    "login": "Pencilcaseman",
+                    "name": "Toby Davis",
+                    "avatar": "https://avatars.githubusercontent.com/u/52111185?v=4",
+                    "url": "https://github.com/Pencilcaseman"
+                },
+                "time": "2025-09-02T21:35:01.119941Z"
+            }
+        ],
+        "checksum": "a28dd933c781f2b5e5e3ae61295ad8f598975d5d6f63128c9d68e3fe1d2b7518",
+        "rust_version": "1.85.1",
+        "has_lib": true,
+        "bin_names": [
+            "zpack"
+        ],
+        "edition": "2024",
+        "description": "A fast, configurable package manager which builds programs from source",
+        "homepage": "https://github.com/Pencilcaseman/zpack",
+        "documentation": null,
+        "repository": "https://github.com/Pencilcaseman/zpack",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Python": {
+                    "code_lines": 17,
+                    "comment_lines": 3,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 702,
+                    "comment_lines": 75,
+                    "files": 9
+                }
+            },
+            "total_code_lines": 719,
+            "total_comment_lines": 78
+        }
+    }
+}

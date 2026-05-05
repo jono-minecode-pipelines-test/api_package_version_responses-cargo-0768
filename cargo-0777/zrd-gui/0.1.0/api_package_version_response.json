@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1913241,
+        "crate": "zrd-gui",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zrd-gui/0.1.0/download",
+        "readme_path": "/api/v1/crates/zrd-gui/0.1.0/readme",
+        "updated_at": "2025-12-31T16:05:55.037855Z",
+        "created_at": "2025-12-31T16:05:55.037855Z",
+        "downloads": 17,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zrd-gui/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zrd-gui/0.1.0/downloads",
+            "authors": "/api/v1/crates/zrd-gui/0.1.0/authors"
+        },
+        "crate_size": 63024,
+        "published_by": {
+            "id": 345253,
+            "login": "douglance",
+            "name": "doug",
+            "avatar": "https://avatars.githubusercontent.com/u/4741454?v=4",
+            "url": "https://github.com/douglance"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 345253,
+                    "login": "douglance",
+                    "name": "doug",
+                    "avatar": "https://avatars.githubusercontent.com/u/4741454?v=4",
+                    "url": "https://github.com/douglance"
+                },
+                "time": "2025-12-31T16:05:55.037855Z"
+            }
+        ],
+        "checksum": "a87338d1e96a933630750f9a613381658b4ffda46245f15c6ed162929d1ba9b8",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zrd-gui"
+        ],
+        "edition": "2021",
+        "description": "A minimal text editor built with GPUI",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/douglance/zrd",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2264,
+                    "comment_lines": 13,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 2264,
+            "total_comment_lines": 13
+        }
+    }
+}

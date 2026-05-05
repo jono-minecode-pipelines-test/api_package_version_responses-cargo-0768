@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 786614,
+        "crate": "zrpc-macros",
+        "num": "0.6.1-alpha.1",
+        "dl_path": "/api/v1/crates/zrpc-macros/0.6.1-alpha.1/download",
+        "readme_path": "/api/v1/crates/zrpc-macros/0.6.1-alpha.1/readme",
+        "updated_at": "2023-04-27T13:37:22.993549Z",
+        "created_at": "2023-04-27T13:37:22.993549Z",
+        "downloads": 1720,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": " EPL-2.0 OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zrpc-macros/0.6.1-alpha.1/dependencies",
+            "version_downloads": "/api/v1/crates/zrpc-macros/0.6.1-alpha.1/downloads",
+            "authors": "/api/v1/crates/zrpc-macros/0.6.1-alpha.1/authors"
+        },
+        "crate_size": 34649,
+        "published_by": {
+            "id": 158929,
+            "login": "gabrik",
+            "name": "Gabriele Baldoni",
+            "avatar": "https://avatars.githubusercontent.com/u/4215504?v=4",
+            "url": "https://github.com/gabrik"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 158929,
+                    "login": "gabrik",
+                    "name": "Gabriele Baldoni",
+                    "avatar": "https://avatars.githubusercontent.com/u/4215504?v=4",
+                    "url": "https://github.com/gabrik"
+                },
+                "time": "2023-04-27T13:37:22.993549Z"
+            }
+        ],
+        "checksum": "9c5b83792957663d50837100915834cb4b0944a717233ae94ef6404e2a65388b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Framework for decentralized and distributed microservices over Zenoh.",
+        "homepage": "https://github.com/ZettaScaleLabs/zenoh-rpc",
+        "documentation": null,
+        "repository": "https://github.com/ZettaScaleLabs/zenoh-rpc",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1341,
+                    "comment_lines": 102,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 1341,
+            "total_comment_lines": 102
+        }
+    }
+}

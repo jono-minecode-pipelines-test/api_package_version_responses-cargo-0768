@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 799955,
+        "crate": "zrpc-macros",
+        "num": "0.6.1-alpha.2",
+        "dl_path": "/api/v1/crates/zrpc-macros/0.6.1-alpha.2/download",
+        "readme_path": "/api/v1/crates/zrpc-macros/0.6.1-alpha.2/readme",
+        "updated_at": "2023-05-15T12:47:07.276177Z",
+        "created_at": "2023-05-15T12:47:07.276177Z",
+        "downloads": 3257,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": " EPL-2.0 OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zrpc-macros/0.6.1-alpha.2/dependencies",
+            "version_downloads": "/api/v1/crates/zrpc-macros/0.6.1-alpha.2/downloads",
+            "authors": "/api/v1/crates/zrpc-macros/0.6.1-alpha.2/authors"
+        },
+        "crate_size": 34312,
+        "published_by": {
+            "id": 212541,
+            "login": "J-Loudet",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/62309821?v=4",
+            "url": "https://github.com/J-Loudet"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 212541,
+                    "login": "J-Loudet",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/62309821?v=4",
+                    "url": "https://github.com/J-Loudet"
+                },
+                "time": "2023-05-15T12:47:07.276177Z"
+            }
+        ],
+        "checksum": "d324ce3521a2d346ef1ce54c60250b2c5e14edc3140169630269c00ed804c7dd",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Framework for decentralized and distributed microservices over Zenoh.",
+        "homepage": "https://github.com/ZettaScaleLabs/zenoh-rpc",
+        "documentation": null,
+        "repository": "https://github.com/ZettaScaleLabs/zenoh-rpc",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1341,
+                    "comment_lines": 102,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 1341,
+            "total_comment_lines": 102
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 1277150,
+        "crate": "zng-var",
+        "num": "0.5.6",
+        "dl_path": "/api/v1/crates/zng-var/0.5.6/download",
+        "readme_path": "/api/v1/crates/zng-var/0.5.6/readme",
+        "updated_at": "2024-09-21T22:39:48.280462Z",
+        "created_at": "2024-09-21T22:39:48.280462Z",
+        "downloads": 1779,
+        "features": {
+            "debug_default": [],
+            "default": [
+                "debug_default"
+            ],
+            "dyn_closure": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-var/0.5.6/dependencies",
+            "version_downloads": "/api/v1/crates/zng-var/0.5.6/downloads",
+            "authors": "/api/v1/crates/zng-var/0.5.6/authors"
+        },
+        "crate_size": 68061,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-09-21T22:39:48.280462Z"
+            }
+        ],
+        "checksum": "0527f86cf86af3511766a67110772d229d9ad5961bc6900f6c248531f2b36b31",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_var",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 8516,
+                    "comment_lines": 119,
+                    "files": 22
+                }
+            },
+            "total_code_lines": 8516,
+            "total_comment_lines": 119
+        }
+    }
+}

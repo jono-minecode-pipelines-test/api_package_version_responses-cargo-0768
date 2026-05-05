@@ -1,0 +1,82 @@
+{
+    "version": {
+        "id": 2316370,
+        "crate": "zstd-pure-rs",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zstd-pure-rs/0.1.1/download",
+        "readme_path": "/api/v1/crates/zstd-pure-rs/0.1.1/readme",
+        "updated_at": "2026-04-27T18:35:48.427834Z",
+        "created_at": "2026-04-27T18:35:48.427834Z",
+        "downloads": 28,
+        "features": {
+            "cli": [
+                "std",
+                "dep:clap"
+            ],
+            "default": [
+                "std"
+            ],
+            "mt": [
+                "std",
+                "dep:rayon"
+            ],
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause OR GPL-2.0-only",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-pure-rs/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-pure-rs/0.1.1/downloads",
+            "authors": "/api/v1/crates/zstd-pure-rs/0.1.1/authors"
+        },
+        "crate_size": 1038612,
+        "published_by": {
+            "id": 329007,
+            "login": "mahogny",
+            "name": "Johan Henriksson",
+            "avatar": "https://avatars.githubusercontent.com/u/681620?v=4",
+            "url": "https://github.com/mahogny"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 329007,
+                    "login": "mahogny",
+                    "name": "Johan Henriksson",
+                    "avatar": "https://avatars.githubusercontent.com/u/681620?v=4",
+                    "url": "https://github.com/mahogny"
+                },
+                "time": "2026-04-27T18:35:48.427834Z"
+            }
+        ],
+        "checksum": "5ce022be20a46a5bf7c6b61f0fe68e29ff7a004ebc76bb829079eb201ec2d633",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "bench",
+            "bench_c",
+            "bench_dec",
+            "zstd"
+        ],
+        "edition": "2021",
+        "description": "Pure-Rust port of the Zstandard (zstd) compression library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/henriksson-lab/zstd-pure-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 52568,
+                    "comment_lines": 3937,
+                    "files": 42
+                }
+            },
+            "total_code_lines": 52568,
+            "total_comment_lines": 3937
+        }
+    }
+}

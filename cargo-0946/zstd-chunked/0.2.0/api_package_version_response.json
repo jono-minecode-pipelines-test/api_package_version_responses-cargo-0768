@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1587780,
+        "crate": "zstd-chunked",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zstd-chunked/0.2.0/download",
+        "readme_path": "/api/v1/crates/zstd-chunked/0.2.0/readme",
+        "updated_at": "2025-06-02T13:13:59.491172Z",
+        "created_at": "2025-06-02T13:13:59.491172Z",
+        "downloads": 542,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-chunked/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-chunked/0.2.0/downloads",
+            "authors": "/api/v1/crates/zstd-chunked/0.2.0/authors"
+        },
+        "crate_size": 32651,
+        "published_by": {
+            "id": 298829,
+            "login": "allisonkarlitskaya",
+            "name": "Allison Karlitskaya",
+            "avatar": "https://avatars.githubusercontent.com/u/36541154?v=4",
+            "url": "https://github.com/allisonkarlitskaya"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 298829,
+                    "login": "allisonkarlitskaya",
+                    "name": "Allison Karlitskaya",
+                    "avatar": "https://avatars.githubusercontent.com/u/36541154?v=4",
+                    "url": "https://github.com/allisonkarlitskaya"
+                },
+                "time": "2025-06-02T13:13:59.491172Z"
+            }
+        ],
+        "checksum": "9d327603d25ed5ce30df5303525b8c4a3e9a72948984765b753037121266af3e",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Read zstd:chunked files",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/containers/zstd-chunked-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 235,
+                    "comment_lines": 8,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 235,
+            "total_comment_lines": 8
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 2201174,
+        "crate": "zlayer-overlay",
+        "num": "0.10.58",
+        "dl_path": "/api/v1/crates/zlayer-overlay/0.10.58/download",
+        "readme_path": "/api/v1/crates/zlayer-overlay/0.10.58/readme",
+        "updated_at": "2026-04-02T08:06:51.771608Z",
+        "created_at": "2026-04-02T08:06:51.771608Z",
+        "downloads": 15,
+        "features": {
+            "default": [],
+            "nat": [
+                "dep:rand",
+                "dep:socket2"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-overlay/0.10.58/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-overlay/0.10.58/downloads",
+            "authors": "/api/v1/crates/zlayer-overlay/0.10.58/authors"
+        },
+        "crate_size": 87997,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-02T08:06:51.771608Z"
+            }
+        ],
+        "checksum": "792d8db1d828b723eb7d25e2c74f83dd6972392e36b1541fb0d85825f48674f9",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Encrypted overlay networking for containers using boringtun userspace WireGuard",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zachhandley/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 6201,
+                    "comment_lines": 373,
+                    "files": 16
+                }
+            },
+            "total_code_lines": 6201,
+            "total_comment_lines": 373
+        }
+    }
+}

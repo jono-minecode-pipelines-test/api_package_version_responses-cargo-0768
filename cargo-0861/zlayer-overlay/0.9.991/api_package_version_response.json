@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2084402,
+        "crate": "zlayer-overlay",
+        "num": "0.9.991",
+        "dl_path": "/api/v1/crates/zlayer-overlay/0.9.991/download",
+        "readme_path": "/api/v1/crates/zlayer-overlay/0.9.991/readme",
+        "updated_at": "2026-03-04T02:11:22.693352Z",
+        "created_at": "2026-03-04T02:11:22.693352Z",
+        "downloads": 17,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-overlay/0.9.991/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-overlay/0.9.991/downloads",
+            "authors": "/api/v1/crates/zlayer-overlay/0.9.991/authors"
+        },
+        "crate_size": 46541,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-03-04T02:11:22.693352Z"
+            }
+        ],
+        "checksum": "77b994bb4a4e9bc3b6fc5475b34b645da127ab3879e8f161db953ee183da4bee",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Encrypted overlay networking for containers using boringtun userspace WireGuard",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zachhandley/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2063,
+                    "comment_lines": 117,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 2063,
+            "total_comment_lines": 117
+        }
+    }
+}

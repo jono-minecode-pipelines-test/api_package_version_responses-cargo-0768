@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 2332020,
+        "crate": "zlayer-overlay",
+        "num": "0.11.9",
+        "dl_path": "/api/v1/crates/zlayer-overlay/0.11.9/download",
+        "readme_path": "/api/v1/crates/zlayer-overlay/0.11.9/readme",
+        "updated_at": "2026-04-30T21:36:33.873855Z",
+        "created_at": "2026-04-30T21:36:33.873855Z",
+        "downloads": 11,
+        "features": {
+            "default": [],
+            "nat": [
+                "dep:rand",
+                "dep:socket2"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-overlay/0.11.9/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-overlay/0.11.9/downloads",
+            "authors": "/api/v1/crates/zlayer-overlay/0.11.9/authors"
+        },
+        "crate_size": 126263,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-30T21:36:33.873855Z"
+            }
+        ],
+        "checksum": "cbb39e2a0d857cd6fe0684444b39dcbe3d6c439b30cad5448b041f3ddafce907",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Encrypted overlay networking for containers using boringtun userspace WireGuard",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 8293,
+                    "comment_lines": 606,
+                    "files": 26
+                }
+            },
+            "total_code_lines": 8293,
+            "total_comment_lines": 606
+        }
+    }
+}

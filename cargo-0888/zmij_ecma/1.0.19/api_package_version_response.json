@@ -1,0 +1,57 @@
+{
+    "version": {
+        "id": 1994630,
+        "crate": "zmij_ecma",
+        "num": "1.0.19",
+        "dl_path": "/api/v1/crates/zmij_ecma/1.0.19/download",
+        "readme_path": "/api/v1/crates/zmij_ecma/1.0.19/readme",
+        "updated_at": "2026-02-03T12:20:03.707850Z",
+        "created_at": "2026-02-03T12:20:03.707850Z",
+        "downloads": 17,
+        "features": {
+            "default": [
+                "ecma"
+            ],
+            "ecma": [],
+            "original_zmij": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zmij_ecma/1.0.19/dependencies",
+            "version_downloads": "/api/v1/crates/zmij_ecma/1.0.19/downloads",
+            "authors": "/api/v1/crates/zmij_ecma/1.0.19/authors"
+        },
+        "crate_size": 26128,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "0b74379cb804b0f08af07796159fe39bec75d71e615ad43e5635e59e9fdee544",
+        "rust_version": "1.68",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A double-to-string conversion algorithm based on Schubfach and yy",
+        "homepage": null,
+        "documentation": "https://docs.rs/zmij_ecma",
+        "repository": "https://github.com/magic-akari/zmij_ecma",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "magic-akari/zmij_ecma",
+            "run_id": "21629944254",
+            "sha": "58ddb2d7053bf2226462ade62fc7a8a022d8794b"
+        },
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1251,
+                    "comment_lines": 145,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 1251,
+            "total_comment_lines": 145
+        }
+    }
+}

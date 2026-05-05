@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1639327,
+        "crate": "zmcp",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zmcp/0.0.1/download",
+        "readme_path": "/api/v1/crates/zmcp/0.0.1/readme",
+        "updated_at": "2025-07-13T01:59:29.912433Z",
+        "created_at": "2025-07-13T01:59:29.912433Z",
+        "downloads": 451,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zmcp/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zmcp/0.0.1/downloads",
+            "authors": "/api/v1/crates/zmcp/0.0.1/authors"
+        },
+        "crate_size": 1279,
+        "published_by": {
+            "id": 343838,
+            "login": "evolutionengine",
+            "name": "Anil Kulkarni",
+            "avatar": "https://avatars.githubusercontent.com/u/17006331?v=4",
+            "url": "https://github.com/evolutionengine"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 343838,
+                    "login": "evolutionengine",
+                    "name": "Anil Kulkarni",
+                    "avatar": "https://avatars.githubusercontent.com/u/17006331?v=4",
+                    "url": "https://github.com/evolutionengine"
+                },
+                "time": "2025-07-13T01:59:29.912433Z"
+            }
+        ],
+        "checksum": "9594248b1847b2b45504f3ec9141bb8acbac20c7dd3a7846231a8583c41a8282",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "ZMCP - Full-Stack AI Framework for Agent Coordination. Rust implementation coming Q2 2025.",
+        "homepage": "https://zpkg.ai",
+        "documentation": "https://zpkg.ai",
+        "repository": "https://github.com/octallium/zmcp-rust",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 12,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 12,
+            "total_comment_lines": 0
+        }
+    }
+}

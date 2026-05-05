@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1971654,
+        "crate": "zsh-prompt-helper-derive",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zsh-prompt-helper-derive/0.1.0/download",
+        "readme_path": "/api/v1/crates/zsh-prompt-helper-derive/0.1.0/readme",
+        "updated_at": "2026-01-25T14:19:18.769251Z",
+        "created_at": "2026-01-25T14:19:18.769251Z",
+        "downloads": 71,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsh-prompt-helper-derive/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zsh-prompt-helper-derive/0.1.0/downloads",
+            "authors": "/api/v1/crates/zsh-prompt-helper-derive/0.1.0/authors"
+        },
+        "crate_size": 2098,
+        "published_by": {
+            "id": 291666,
+            "login": "czt08883",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/3933937?v=4",
+            "url": "https://github.com/czt08883"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 291666,
+                    "login": "czt08883",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/3933937?v=4",
+                    "url": "https://github.com/czt08883"
+                },
+                "time": "2026-01-25T14:19:18.769251Z"
+            }
+        ],
+        "checksum": "0b90fca4dcf3f5d5dcab3709d47753bcfcc47921b4913c6648285ccf333cf4bc",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "zsh-promt-helper's derive macros",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 52,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 52,
+            "total_comment_lines": 0
+        }
+    }
+}

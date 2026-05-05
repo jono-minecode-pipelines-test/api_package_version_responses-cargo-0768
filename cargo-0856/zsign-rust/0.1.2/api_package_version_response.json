@@ -1,0 +1,78 @@
+{
+    "version": {
+        "id": 1678061,
+        "crate": "zsign-rust",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zsign-rust/0.1.2/download",
+        "readme_path": "/api/v1/crates/zsign-rust/0.1.2/readme",
+        "updated_at": "2025-08-09T20:43:07.772191Z",
+        "created_at": "2025-08-09T20:43:07.772191Z",
+        "downloads": 347,
+        "features": {
+            "vendored-openssl": [
+                "openssl-sys/vendored"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsign-rust/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zsign-rust/0.1.2/downloads",
+            "authors": "/api/v1/crates/zsign-rust/0.1.2/authors"
+        },
+        "crate_size": 64626,
+        "published_by": {
+            "id": 348667,
+            "login": "nab138",
+            "name": "Nicholas Sharp",
+            "avatar": "https://avatars.githubusercontent.com/u/56705177?v=4",
+            "url": "https://github.com/nab138"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 348667,
+                    "login": "nab138",
+                    "name": "Nicholas Sharp",
+                    "avatar": "https://avatars.githubusercontent.com/u/56705177?v=4",
+                    "url": "https://github.com/nab138"
+                },
+                "time": "2025-08-09T20:43:07.772191Z"
+            }
+        ],
+        "checksum": "7ce7a0eed461e2228b070bd8801e20be6308957204e8193dc87a1b7e51c1b5d3",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Rust bindings for zsign",
+        "homepage": null,
+        "documentation": "https://docs.rs/zsign-rust",
+        "repository": "https://github.com/nab138/zsign-rust",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C Header": {
+                    "code_lines": 1350,
+                    "comment_lines": 72,
+                    "files": 16
+                },
+                "C++": {
+                    "code_lines": 6930,
+                    "comment_lines": 46,
+                    "files": 13
+                },
+                "Rust": {
+                    "code_lines": 233,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 8513,
+            "total_comment_lines": 118
+        }
+    }
+}

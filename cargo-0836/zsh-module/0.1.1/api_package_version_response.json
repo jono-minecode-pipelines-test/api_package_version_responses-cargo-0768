@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 704546,
+        "crate": "zsh-module",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zsh-module/0.1.1/download",
+        "readme_path": "/api/v1/crates/zsh-module/0.1.1/readme",
+        "updated_at": "2023-01-16T12:28:02.000419Z",
+        "created_at": "2023-01-16T12:28:02.000419Z",
+        "downloads": 1141,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsh-module/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zsh-module/0.1.1/downloads",
+            "authors": "/api/v1/crates/zsh-module/0.1.1/authors"
+        },
+        "crate_size": 5056,
+        "published_by": {
+            "id": 154765,
+            "login": "Diegovsky",
+            "name": "Diego Augusto",
+            "avatar": "https://avatars.githubusercontent.com/u/46163903?v=4",
+            "url": "https://github.com/Diegovsky"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 154765,
+                    "login": "Diegovsky",
+                    "name": "Diego Augusto",
+                    "avatar": "https://avatars.githubusercontent.com/u/46163903?v=4",
+                    "url": "https://github.com/Diegovsky"
+                },
+                "time": "2023-01-16T12:28:02.000419Z"
+            }
+        ],
+        "checksum": "0fd964aa0ee294feb89f193244e58a607c1e225636d46b3fdaa16140d854685a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A High-level framework for creating zsh modules",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 310,
+                    "comment_lines": 3,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 310,
+            "total_comment_lines": 3
+        }
+    }
+}

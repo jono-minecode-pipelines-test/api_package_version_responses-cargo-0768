@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 2241658,
+        "crate": "zsh-patina",
+        "num": "1.4.0",
+        "dl_path": "/api/v1/crates/zsh-patina/1.4.0/download",
+        "readme_path": "/api/v1/crates/zsh-patina/1.4.0/readme",
+        "updated_at": "2026-04-11T13:53:12.421402Z",
+        "created_at": "2026-04-11T13:53:12.421402Z",
+        "downloads": 34,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsh-patina/1.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zsh-patina/1.4.0/downloads",
+            "authors": "/api/v1/crates/zsh-patina/1.4.0/authors"
+        },
+        "crate_size": 113890,
+        "published_by": {
+            "id": 217309,
+            "login": "michel-kraemer",
+            "name": "Michel Kr\u00e4mer",
+            "avatar": "https://avatars.githubusercontent.com/u/295407?v=4",
+            "url": "https://github.com/michel-kraemer"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 217309,
+                    "login": "michel-kraemer",
+                    "name": "Michel Kr\u00e4mer",
+                    "avatar": "https://avatars.githubusercontent.com/u/295407?v=4",
+                    "url": "https://github.com/michel-kraemer"
+                },
+                "time": "2026-04-11T13:53:12.421402Z"
+            }
+        ],
+        "checksum": "e522f702ea2dd37f3887281b672d22227231370fe4a28aa4c4566f48bb7bb748",
+        "rust_version": "1.88",
+        "has_lib": false,
+        "bin_names": [
+            "zsh-patina"
+        ],
+        "edition": "2024",
+        "description": "$ A blazingly fast Zsh plugin performing syntax highlighting of your command line while you type \ud83c\udf08",
+        "homepage": "https://github.com/michel-kraemer/zsh-patina",
+        "documentation": null,
+        "repository": "https://github.com/michel-kraemer/zsh-patina",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 5567,
+                    "comment_lines": 264,
+                    "files": 18
+                },
+                "Zsh": {
+                    "code_lines": 157,
+                    "comment_lines": 61,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 5724,
+            "total_comment_lines": 325
+        }
+    }
+}

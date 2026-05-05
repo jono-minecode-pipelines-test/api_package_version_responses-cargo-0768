@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1909109,
+        "crate": "zsign-rs",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zsign-rs/0.1.0/download",
+        "readme_path": "/api/v1/crates/zsign-rs/0.1.0/readme",
+        "updated_at": "2025-12-29T18:43:15.894252Z",
+        "created_at": "2025-12-29T18:43:15.894252Z",
+        "downloads": 17,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsign-rs/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zsign-rs/0.1.0/downloads",
+            "authors": "/api/v1/crates/zsign-rs/0.1.0/authors"
+        },
+        "crate_size": 82743,
+        "published_by": {
+            "id": 377928,
+            "login": "jveko",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/78899070?v=4",
+            "url": "https://github.com/jveko"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 377928,
+                    "login": "jveko",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/78899070?v=4",
+                    "url": "https://github.com/jveko"
+                },
+                "time": "2025-12-29T18:43:15.894252Z"
+            }
+        ],
+        "checksum": "cba5a4df29d2be71ac300a75e54e35fb4842ad6672928f93340d6750bc1f5be6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Cross-platform iOS code signing library - Rust port of zsign",
+        "homepage": "https://github.com/jveko/zsign-rs",
+        "documentation": "https://docs.rs/zsign-rs",
+        "repository": "https://github.com/jveko/zsign-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4391,
+                    "comment_lines": 401,
+                    "files": 21
+                }
+            },
+            "total_code_lines": 4391,
+            "total_comment_lines": 401
+        }
+    }
+}

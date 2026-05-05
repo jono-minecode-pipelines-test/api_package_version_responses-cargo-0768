@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 813087,
+        "crate": "zsim-hooks",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zsim-hooks/0.1.0/download",
+        "readme_path": "/api/v1/crates/zsim-hooks/0.1.0/readme",
+        "updated_at": "2023-06-01T11:45:27.437536Z",
+        "created_at": "2023-06-01T11:45:27.437536Z",
+        "downloads": 1546,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsim-hooks/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zsim-hooks/0.1.0/downloads",
+            "authors": "/api/v1/crates/zsim-hooks/0.1.0/authors"
+        },
+        "crate_size": 1990,
+        "published_by": {
+            "id": 104004,
+            "login": "caizixian",
+            "name": "Zixian Cai",
+            "avatar": "https://avatars.githubusercontent.com/u/2891235?v=4",
+            "url": "https://github.com/caizixian"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 104004,
+                    "login": "caizixian",
+                    "name": "Zixian Cai",
+                    "avatar": "https://avatars.githubusercontent.com/u/2891235?v=4",
+                    "url": "https://github.com/caizixian"
+                },
+                "time": "2023-06-01T11:45:27.437536Z"
+            }
+        ],
+        "checksum": "550b23f34d83b4160ce5cc857e4a4ca0ce220751f748689ef7946c25c4e09748",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zsim-hooks-test"
+        ],
+        "edition": "2021",
+        "description": "Hooks for zsim",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/caizixian/zsim-hooks-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 54,
+                    "comment_lines": 2,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 54,
+            "total_comment_lines": 2
+        }
+    }
+}

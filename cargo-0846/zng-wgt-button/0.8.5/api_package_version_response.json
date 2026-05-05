@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 1727817,
+        "crate": "zng-wgt-button",
+        "num": "0.8.5",
+        "dl_path": "/api/v1/crates/zng-wgt-button/0.8.5/download",
+        "readme_path": "/api/v1/crates/zng-wgt-button/0.8.5/readme",
+        "updated_at": "2025-09-13T06:23:38.618766Z",
+        "created_at": "2025-09-13T06:23:38.618766Z",
+        "downloads": 342,
+        "features": {
+            "default": [
+                "tooltip"
+            ],
+            "tooltip": [
+                "dep:zng-wgt-tooltip"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wgt-button/0.8.5/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wgt-button/0.8.5/downloads",
+            "authors": "/api/v1/crates/zng-wgt-button/0.8.5/authors"
+        },
+        "crate_size": 24588,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-09-13T06:23:38.618766Z"
+            }
+        ],
+        "checksum": "e1b474056584e546008d07339513695979b8f080aa66773aedfad729e05c182a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_wgt_button",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 317,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 317,
+            "total_comment_lines": 0
+        }
+    }
+}

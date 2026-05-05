@@ -1,0 +1,80 @@
+{
+    "version": {
+        "id": 1568880,
+        "crate": "zng-app-proc-macros",
+        "num": "0.5.0",
+        "dl_path": "/api/v1/crates/zng-app-proc-macros/0.5.0/download",
+        "readme_path": "/api/v1/crates/zng-app-proc-macros/0.5.0/readme",
+        "updated_at": "2025-05-19T00:38:18.778145Z",
+        "created_at": "2025-05-18T21:40:31.908790Z",
+        "downloads": 445,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-app-proc-macros/0.5.0/dependencies",
+            "version_downloads": "/api/v1/crates/zng-app-proc-macros/0.5.0/downloads",
+            "authors": "/api/v1/crates/zng-app-proc-macros/0.5.0/authors"
+        },
+        "crate_size": 36433,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-05-18T21:40:31.908790Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-05-19T00:38:18.784302Z"
+            }
+        ],
+        "checksum": "e5c3fbc8cc408dca0c9f578bfd144d5f4d5aeb24bd0229033532177d5b48bd1c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_app_proc_macros",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "JavaScript": {
+                    "code_lines": 342,
+                    "comment_lines": 14,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 3961,
+                    "comment_lines": 108,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 4303,
+            "total_comment_lines": 122
+        }
+    }
+}

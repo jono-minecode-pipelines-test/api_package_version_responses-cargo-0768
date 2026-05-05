@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1135295,
+        "crate": "zng-app-proc-macros",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zng-app-proc-macros/0.3.0/download",
+        "readme_path": "/api/v1/crates/zng-app-proc-macros/0.3.0/readme",
+        "updated_at": "2024-05-05T16:25:09.077876Z",
+        "created_at": "2024-05-05T16:25:09.077876Z",
+        "downloads": 1221,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-app-proc-macros/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zng-app-proc-macros/0.3.0/downloads",
+            "authors": "/api/v1/crates/zng-app-proc-macros/0.3.0/authors"
+        },
+        "crate_size": 34772,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-05-05T16:25:09.077876Z"
+            }
+        ],
+        "checksum": "b7237f4071750971777c370b5e8cc903ba01b442ab7979008378a45dfc2942e3",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_app_proc_macros",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "JavaScript": {
+                    "code_lines": 335,
+                    "comment_lines": 13,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 3938,
+                    "comment_lines": 105,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 4273,
+            "total_comment_lines": 118
+        }
+    }
+}

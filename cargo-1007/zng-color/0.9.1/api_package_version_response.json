@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1774956,
+        "crate": "zng-color",
+        "num": "0.9.1",
+        "dl_path": "/api/v1/crates/zng-color/0.9.1/download",
+        "readme_path": "/api/v1/crates/zng-color/0.9.1/readme",
+        "updated_at": "2025-10-15T03:08:48.074994Z",
+        "created_at": "2025-10-15T03:08:48.074994Z",
+        "downloads": 377,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-color/0.9.1/dependencies",
+            "version_downloads": "/api/v1/crates/zng-color/0.9.1/downloads",
+            "authors": "/api/v1/crates/zng-color/0.9.1/authors"
+        },
+        "crate_size": 38483,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-10-15T03:08:48.074994Z"
+            }
+        ],
+        "checksum": "6ef791b17330a424f4f2bc9566e2a17d4e7e2d3b3a9f27c41d70dceca33fd3d9",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_color",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2836,
+                    "comment_lines": 64,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 2836,
+            "total_comment_lines": 64
+        }
+    }
+}

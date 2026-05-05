@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 949357,
+        "crate": "zmxn_test_art",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zmxn_test_art/0.1.1/download",
+        "readme_path": "/api/v1/crates/zmxn_test_art/0.1.1/readme",
+        "updated_at": "2023-11-08T18:07:31.774552Z",
+        "created_at": "2023-11-08T18:07:31.774552Z",
+        "downloads": 1503,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zmxn_test_art/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zmxn_test_art/0.1.1/downloads",
+            "authors": "/api/v1/crates/zmxn_test_art/0.1.1/authors"
+        },
+        "crate_size": 1258,
+        "published_by": {
+            "id": 237493,
+            "login": "stanisgo",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/52935412?v=4",
+            "url": "https://github.com/stanisgo"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 237493,
+                    "login": "stanisgo",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/52935412?v=4",
+                    "url": "https://github.com/stanisgo"
+                },
+                "time": "2023-11-08T18:07:31.774552Z"
+            }
+        ],
+        "checksum": "9173800f6ffb0d60b9dab4b49bc75059d233d33d13a98207b58564649306fd52",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zmxn_test_art"
+        ],
+        "edition": "2021",
+        "description": "ZMXN test art project in Rust",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 31,
+                    "comment_lines": 2,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 31,
+            "total_comment_lines": 2
+        }
+    }
+}

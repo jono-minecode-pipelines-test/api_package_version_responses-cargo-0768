@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 507211,
+        "crate": "zmq2",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zmq2/0.1.0/download",
+        "readme_path": "/api/v1/crates/zmq2/0.1.0/readme",
+        "updated_at": "2022-02-27T00:28:33.793105Z",
+        "created_at": "2022-02-27T00:28:33.793105Z",
+        "downloads": 1155,
+        "features": {
+            "default": [
+                "zmq_has"
+            ],
+            "zmq_has": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zmq2/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zmq2/0.1.0/downloads",
+            "authors": "/api/v1/crates/zmq2/0.1.0/authors"
+        },
+        "crate_size": 55731,
+        "published_by": {
+            "id": 35281,
+            "login": "Jasper-Bekkers",
+            "name": "Jasper Bekkers",
+            "avatar": "https://avatars.githubusercontent.com/u/49594?v=4",
+            "url": "https://github.com/Jasper-Bekkers"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 35281,
+                    "login": "Jasper-Bekkers",
+                    "name": "Jasper Bekkers",
+                    "avatar": "https://avatars.githubusercontent.com/u/49594?v=4",
+                    "url": "https://github.com/Jasper-Bekkers"
+                },
+                "time": "2022-02-27T00:28:33.793105Z"
+            }
+        ],
+        "checksum": "f6f4c70d737d7668748b2be2f4c2be97430158883ed4735f26ac855c3eae1765",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Maintained high-level bindings to the zeromq library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/erickt/rust-zmq",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1217,
+                    "comment_lines": 45,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 1217,
+            "total_comment_lines": 45
+        }
+    }
+}

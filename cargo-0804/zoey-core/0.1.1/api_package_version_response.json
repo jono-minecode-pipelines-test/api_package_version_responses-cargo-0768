@@ -1,0 +1,72 @@
+{
+    "version": {
+        "id": 1932783,
+        "crate": "zoey-core",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zoey-core/0.1.1/download",
+        "readme_path": "/api/v1/crates/zoey-core/0.1.1/readme",
+        "updated_at": "2026-01-09T23:58:36.862430Z",
+        "created_at": "2026-01-09T23:58:36.862430Z",
+        "downloads": 27,
+        "features": {
+            "default": [],
+            "otel": [
+                "dep:opentelemetry",
+                "dep:opentelemetry_sdk",
+                "dep:opentelemetry-otlp",
+                "dep:tracing-opentelemetry"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoey-core/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zoey-core/0.1.1/downloads",
+            "authors": "/api/v1/crates/zoey-core/0.1.1/authors"
+        },
+        "crate_size": 299434,
+        "published_by": {
+            "id": 379967,
+            "login": "Freytes",
+            "name": "Christopher Freytes",
+            "avatar": "https://avatars.githubusercontent.com/u/4147278?v=4",
+            "url": "https://github.com/Freytes"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 379967,
+                    "login": "Freytes",
+                    "name": "Christopher Freytes",
+                    "avatar": "https://avatars.githubusercontent.com/u/4147278?v=4",
+                    "url": "https://github.com/Freytes"
+                },
+                "time": "2026-01-09T23:58:36.862430Z"
+            }
+        ],
+        "checksum": "d965188daa2ef2c8ed854536676d57a67dad1a26933c6788a55bd6aab19d5ed0",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZoeyAI core runtime and types \u2014 privacy-first AI agent framework optimized for local models",
+        "homepage": "https://github.com/Agent-Zoey/Zoey",
+        "documentation": "https://docs.rs/zoey-core",
+        "repository": "https://github.com/Agent-Zoey/Zoey",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 29555,
+                    "comment_lines": 1328,
+                    "files": 110
+                }
+            },
+            "total_code_lines": 29555,
+            "total_comment_lines": 1328
+        }
+    }
+}

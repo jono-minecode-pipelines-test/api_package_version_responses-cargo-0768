@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2030057,
+        "crate": "zoff",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zoff/0.1.0/download",
+        "readme_path": "/api/v1/crates/zoff/0.1.0/readme",
+        "updated_at": "2026-02-15T12:39:15.604872Z",
+        "created_at": "2026-02-15T12:39:15.604872Z",
+        "downloads": 20,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zoff/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zoff/0.1.0/downloads",
+            "authors": "/api/v1/crates/zoff/0.1.0/authors"
+        },
+        "crate_size": 20375,
+        "published_by": {
+            "id": 387171,
+            "login": "terry-li-hm",
+            "name": "Terry Li",
+            "avatar": "https://avatars.githubusercontent.com/u/12233004?v=4",
+            "url": "https://github.com/terry-li-hm"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 387171,
+                    "login": "terry-li-hm",
+                    "name": "Terry Li",
+                    "avatar": "https://avatars.githubusercontent.com/u/12233004?v=4",
+                    "url": "https://github.com/terry-li-hm"
+                },
+                "time": "2026-02-15T12:39:15.604872Z"
+            }
+        ],
+        "checksum": "c4ccb799181ec4c8a22f2aa07714a7aecc35a9ef6a4715a2d3d3b63ae14caa12",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zoff"
+        ],
+        "edition": "2024",
+        "description": "CLI to scrape and track Zoff HK glasses catalog",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 485,
+                    "comment_lines": 4,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 485,
+            "total_comment_lines": 4
+        }
+    }
+}

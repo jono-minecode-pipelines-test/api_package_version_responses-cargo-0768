@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1475965,
+        "crate": "zlib-header-cli",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zlib-header-cli/0.1.2/download",
+        "readme_path": "/api/v1/crates/zlib-header-cli/0.1.2/readme",
+        "updated_at": "2025-03-09T10:37:19.462108Z",
+        "created_at": "2025-03-09T10:37:19.462108Z",
+        "downloads": 744,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlib-header-cli/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zlib-header-cli/0.1.2/downloads",
+            "authors": "/api/v1/crates/zlib-header-cli/0.1.2/authors"
+        },
+        "crate_size": 4410,
+        "published_by": {
+            "id": 319716,
+            "login": "DrFrugalOfficial",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/202321671?v=4",
+            "url": "https://github.com/DrFrugalOfficial"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 319716,
+                    "login": "DrFrugalOfficial",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/202321671?v=4",
+                    "url": "https://github.com/DrFrugalOfficial"
+                },
+                "time": "2025-03-09T10:37:19.462108Z"
+            }
+        ],
+        "checksum": "363e6c0515e3d6c91183c836e1c99b2bda118b1551463a51632ba0972e9968d1",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zlib-header-cli"
+        ],
+        "edition": "2024",
+        "description": "CLI to print details of the 2 Byte zlib header, as defined in RFC 1950.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://git.drfrugal.xyz/lib/zlib-header/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 59,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 59,
+            "total_comment_lines": 0
+        }
+    }
+}

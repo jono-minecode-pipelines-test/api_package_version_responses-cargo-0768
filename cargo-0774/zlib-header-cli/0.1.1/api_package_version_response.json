@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1474291,
+        "crate": "zlib-header-cli",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zlib-header-cli/0.1.1/download",
+        "readme_path": "/api/v1/crates/zlib-header-cli/0.1.1/readme",
+        "updated_at": "2025-03-07T21:24:15.366068Z",
+        "created_at": "2025-03-07T21:24:15.366068Z",
+        "downloads": 603,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlib-header-cli/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zlib-header-cli/0.1.1/downloads",
+            "authors": "/api/v1/crates/zlib-header-cli/0.1.1/authors"
+        },
+        "crate_size": 4366,
+        "published_by": {
+            "id": 319716,
+            "login": "DrFrugalOfficial",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/202321671?v=4",
+            "url": "https://github.com/DrFrugalOfficial"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 319716,
+                    "login": "DrFrugalOfficial",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/202321671?v=4",
+                    "url": "https://github.com/DrFrugalOfficial"
+                },
+                "time": "2025-03-07T21:24:15.366068Z"
+            }
+        ],
+        "checksum": "c9d712765b16ab47b50b2d0d7cf0145753ade6755aa093610516b4bb7d2df3e6",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zlib-header-cli"
+        ],
+        "edition": "2024",
+        "description": "CLI to print details of the 2 Byte zlib header, as defined in RFC 1950.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 59,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 59,
+            "total_comment_lines": 0
+        }
+    }
+}

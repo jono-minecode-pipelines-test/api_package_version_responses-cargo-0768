@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2318027,
+        "crate": "zlayer-wsl",
+        "num": "0.11.6",
+        "dl_path": "/api/v1/crates/zlayer-wsl/0.11.6/download",
+        "readme_path": "/api/v1/crates/zlayer-wsl/0.11.6/readme",
+        "updated_at": "2026-04-28T01:09:57.613760Z",
+        "created_at": "2026-04-28T01:09:57.613760Z",
+        "downloads": 12,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-wsl/0.11.6/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-wsl/0.11.6/downloads",
+            "authors": "/api/v1/crates/zlayer-wsl/0.11.6/authors"
+        },
+        "crate_size": 25884,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-28T01:09:57.613760Z"
+            }
+        ],
+        "checksum": "80aa0c4ce38b0de6b43f8d12858125863a660478c6a13bb2373dffb2356f1380",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "WSL2 backend integration for ZLayer on Windows",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1293,
+                    "comment_lines": 68,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 1293,
+            "total_comment_lines": 68
+        }
+    }
+}

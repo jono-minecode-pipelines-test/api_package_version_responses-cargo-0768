@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2252988,
+        "crate": "zlayer-wsl",
+        "num": "0.10.74",
+        "dl_path": "/api/v1/crates/zlayer-wsl/0.10.74/download",
+        "readme_path": "/api/v1/crates/zlayer-wsl/0.10.74/readme",
+        "updated_at": "2026-04-13T22:33:44.558629Z",
+        "created_at": "2026-04-13T22:33:44.558629Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-wsl/0.10.74/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-wsl/0.10.74/downloads",
+            "authors": "/api/v1/crates/zlayer-wsl/0.10.74/authors"
+        },
+        "crate_size": 10170,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-13T22:33:44.558629Z"
+            }
+        ],
+        "checksum": "47f44c51043e205a8854c6f9a8fadd89488af4b4f744e30015e1f450ba245ade",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "WSL2 backend integration for ZLayer on Windows",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zachhandley/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 430,
+                    "comment_lines": 17,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 430,
+            "total_comment_lines": 17
+        }
+    }
+}

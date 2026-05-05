@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1474285,
+        "crate": "zlib-header-cli",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zlib-header-cli/0.1.0/download",
+        "readme_path": "/api/v1/crates/zlib-header-cli/0.1.0/readme",
+        "updated_at": "2025-03-07T21:25:07.883062Z",
+        "created_at": "2025-03-07T21:18:14.018422Z",
+        "downloads": 522,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlib-header-cli/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlib-header-cli/0.1.0/downloads",
+            "authors": "/api/v1/crates/zlib-header-cli/0.1.0/authors"
+        },
+        "crate_size": 4476,
+        "published_by": {
+            "id": 319716,
+            "login": "DrFrugalOfficial",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/202321671?v=4",
+            "url": "https://github.com/DrFrugalOfficial"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 319716,
+                    "login": "DrFrugalOfficial",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/202321671?v=4",
+                    "url": "https://github.com/DrFrugalOfficial"
+                },
+                "time": "2025-03-07T21:18:14.018422Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 319716,
+                    "login": "DrFrugalOfficial",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/202321671?v=4",
+                    "url": "https://github.com/DrFrugalOfficial"
+                },
+                "time": "2025-03-07T21:25:07.885855Z"
+            }
+        ],
+        "checksum": "fccf56dd3be3ba62cc39c796d1fd5164c7464efb3311ba5ffc5ad657bb5c306f",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zlib-header-cli"
+        ],
+        "edition": "2024",
+        "description": "CLI to print details of the 2 Byte zlib header, as defined in RFC 1950.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 70,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 70,
+            "total_comment_lines": 0
+        }
+    }
+}

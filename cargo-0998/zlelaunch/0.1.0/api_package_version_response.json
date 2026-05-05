@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 743645,
+        "crate": "zlelaunch",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zlelaunch/0.1.0/download",
+        "readme_path": "/api/v1/crates/zlelaunch/0.1.0/readme",
+        "updated_at": "2023-03-07T09:51:50.440380Z",
+        "created_at": "2023-03-07T09:51:50.440380Z",
+        "downloads": 1496,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlelaunch/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlelaunch/0.1.0/downloads",
+            "authors": "/api/v1/crates/zlelaunch/0.1.0/authors"
+        },
+        "crate_size": 3477,
+        "published_by": {
+            "id": 201668,
+            "login": "acrn",
+            "name": "Anders Oskarsen",
+            "avatar": "https://avatars.githubusercontent.com/u/815975?v=4",
+            "url": "https://github.com/acrn"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 201668,
+                    "login": "acrn",
+                    "name": "Anders Oskarsen",
+                    "avatar": "https://avatars.githubusercontent.com/u/815975?v=4",
+                    "url": "https://github.com/acrn"
+                },
+                "time": "2023-03-07T09:51:50.440380Z"
+            }
+        ],
+        "checksum": "fa5a5eb496f820412b7488a2e988a1ab3a0567172b411043c7833b547a2f944c",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zlelaunch"
+        ],
+        "edition": "2021",
+        "description": "yaml-configured command launcher for zsh",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/acrn/zlelaunch",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 189,
+                    "comment_lines": 9,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 189,
+            "total_comment_lines": 9
+        }
+    }
+}

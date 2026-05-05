@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1807946,
+        "crate": "zulip-api",
+        "num": "0.0.6",
+        "dl_path": "/api/v1/crates/zulip-api/0.0.6/download",
+        "readme_path": "/api/v1/crates/zulip-api/0.0.6/readme",
+        "updated_at": "2025-11-04T08:44:14.784730Z",
+        "created_at": "2025-11-04T08:44:14.784730Z",
+        "downloads": 30,
+        "features": {
+            "dev": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "AGPL-3.0-only",
+        "links": {
+            "dependencies": "/api/v1/crates/zulip-api/0.0.6/dependencies",
+            "version_downloads": "/api/v1/crates/zulip-api/0.0.6/downloads",
+            "authors": "/api/v1/crates/zulip-api/0.0.6/authors"
+        },
+        "crate_size": 159637,
+        "published_by": {
+            "id": 251503,
+            "login": "weathered-steel-org",
+            "name": "Weathered Steel",
+            "avatar": "https://avatars.githubusercontent.com/u/157929353?v=4",
+            "url": "https://github.com/weathered-steel-org"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 251503,
+                    "login": "weathered-steel-org",
+                    "name": "Weathered Steel",
+                    "avatar": "https://avatars.githubusercontent.com/u/157929353?v=4",
+                    "url": "https://github.com/weathered-steel-org"
+                },
+                "time": "2025-11-04T08:44:14.784730Z"
+            }
+        ],
+        "checksum": "ba7d2bafbe7716c8a16db2ad23059c33d9cc3167a83389c036933a0cd6943e15",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Client library for interacting with the Zulip API",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://codeberg.org/weathered-steel/zulip-api",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 11046,
+                    "comment_lines": 15,
+                    "files": 139
+                }
+            },
+            "total_code_lines": 11046,
+            "total_comment_lines": 15
+        }
+    }
+}

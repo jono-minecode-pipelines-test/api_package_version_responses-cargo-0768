@@ -1,0 +1,52 @@
+{
+    "version": {
+        "id": 156649,
+        "crate": "zui-web-view",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zui-web-view/0.0.0/download",
+        "readme_path": "/api/v1/crates/zui-web-view/0.0.0/readme",
+        "updated_at": "2019-06-15T19:55:23.438344Z",
+        "created_at": "2019-06-15T19:55:23.438344Z",
+        "downloads": 1968,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zui-web-view/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zui-web-view/0.0.0/downloads",
+            "authors": "/api/v1/crates/zui-web-view/0.0.0/authors"
+        },
+        "crate_size": 5469,
+        "published_by": {
+            "id": 3832,
+            "login": "nvzqz",
+            "name": "Nikolai Vazquez",
+            "avatar": "https://avatars.githubusercontent.com/u/10367662?v=4",
+            "url": "https://github.com/nvzqz"
+        },
+        "audit_actions": [],
+        "checksum": "f5ca30cc72089d502e47a6ceb8a26305b35676fc64a85c9033c3f1602ef36d11",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "[WIP] ZedUI utilities for making a web view with the operating system's browser technology.",
+        "homepage": "https://github.com/zed-ui",
+        "documentation": "https://docs.rs/zui",
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 1,
+            "total_comment_lines": 0
+        }
+    }
+}

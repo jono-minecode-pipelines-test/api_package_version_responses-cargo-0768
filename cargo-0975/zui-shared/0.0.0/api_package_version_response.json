@@ -1,0 +1,52 @@
+{
+    "version": {
+        "id": 156658,
+        "crate": "zui-shared",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zui-shared/0.0.0/download",
+        "readme_path": "/api/v1/crates/zui-shared/0.0.0/readme",
+        "updated_at": "2019-06-15T21:12:12.783908Z",
+        "created_at": "2019-06-15T21:12:12.783908Z",
+        "downloads": 1961,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zui-shared/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zui-shared/0.0.0/downloads",
+            "authors": "/api/v1/crates/zui-shared/0.0.0/authors"
+        },
+        "crate_size": 5457,
+        "published_by": {
+            "id": 3832,
+            "login": "nvzqz",
+            "name": "Nikolai Vazquez",
+            "avatar": "https://avatars.githubusercontent.com/u/10367662?v=4",
+            "url": "https://github.com/nvzqz"
+        },
+        "audit_actions": [],
+        "checksum": "2ad2235333aaa9b3bcf3bcc147f9a1f02578570a16d3562135ff27bd0d5b702a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "[WIP] An internal crate used by ZedUI.",
+        "homepage": "https://github.com/zed-ui",
+        "documentation": "https://docs.rs/zui-shared",
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 1,
+            "total_comment_lines": 0
+        }
+    }
+}

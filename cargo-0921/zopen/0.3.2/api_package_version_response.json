@@ -1,0 +1,48 @@
+{
+    "version": {
+        "id": 122135,
+        "crate": "zopen",
+        "num": "0.3.2",
+        "dl_path": "/api/v1/crates/zopen/0.3.2/download",
+        "readme_path": "/api/v1/crates/zopen/0.3.2/readme",
+        "updated_at": "2018-12-12T14:38:17.420171Z",
+        "created_at": "2018-12-12T14:38:17.420171Z",
+        "downloads": 1458,
+        "features": {
+            "defaults": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopen/0.3.2/dependencies",
+            "version_downloads": "/api/v1/crates/zopen/0.3.2/downloads",
+            "authors": "/api/v1/crates/zopen/0.3.2/authors"
+        },
+        "crate_size": 3550,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "3a762216f0c65ba6f3f8ecdfc16bf91b3979e8f2b1b9c65da03f46a7ebf062a7",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Automatically open compressed files.",
+        "homepage": "http://fifr.spdns.de/fossils/zopen",
+        "documentation": "https://docs.rs/zopen",
+        "repository": "http://fifr.spdns.de/fossils/zopen",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 300,
+                    "comment_lines": 31,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 300,
+            "total_comment_lines": 31
+        }
+    }
+}

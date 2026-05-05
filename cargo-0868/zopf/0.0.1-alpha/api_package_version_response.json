@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1701533,
+        "crate": "zopf",
+        "num": "0.0.1-alpha",
+        "dl_path": "/api/v1/crates/zopf/0.0.1-alpha/download",
+        "readme_path": "/api/v1/crates/zopf/0.0.1-alpha/readme",
+        "updated_at": "2025-08-26T16:23:34.208039Z",
+        "created_at": "2025-08-26T16:23:34.208039Z",
+        "downloads": 380,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopf/0.0.1-alpha/dependencies",
+            "version_downloads": "/api/v1/crates/zopf/0.0.1-alpha/downloads",
+            "authors": "/api/v1/crates/zopf/0.0.1-alpha/authors"
+        },
+        "crate_size": 3332,
+        "published_by": {
+            "id": 206460,
+            "login": "eegli",
+            "name": "Eric Egli",
+            "avatar": "https://avatars.githubusercontent.com/u/43848365?v=4",
+            "url": "https://github.com/eegli"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 206460,
+                    "login": "eegli",
+                    "name": "Eric Egli",
+                    "avatar": "https://avatars.githubusercontent.com/u/43848365?v=4",
+                    "url": "https://github.com/eegli"
+                },
+                "time": "2025-08-26T16:23:34.208039Z"
+            }
+        ],
+        "checksum": "0ae6488d41b13c1b444994085d62f0fb97b4e724b597214bd95d39f4f1fe9cdb",
+        "rust_version": "1.89",
+        "has_lib": true,
+        "bin_names": [
+            "zopf"
+        ],
+        "edition": "2024",
+        "description": "Core crate for the zopf project",
+        "homepage": "https://github.com/nougat-dev/zopf",
+        "documentation": null,
+        "repository": "https://github.com/nougat-dev/zopf",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 25,
+                    "comment_lines": 0,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 25,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "version": {
+        "id": 1016699,
+        "crate": "zopen",
+        "num": "1.0.0",
+        "dl_path": "/api/v1/crates/zopen/1.0.0/download",
+        "readme_path": "/api/v1/crates/zopen/1.0.0/readme",
+        "updated_at": "2024-01-17T09:23:43.198752Z",
+        "created_at": "2024-01-17T09:23:43.198752Z",
+        "downloads": 1551,
+        "features": {
+            "all": [
+                "gzip",
+                "bzip2",
+                "xz",
+                "zstd"
+            ],
+            "defaults": [],
+            "gzip": [
+                "dep:flate2"
+            ],
+            "xz": [
+                "dep:rust-lzma"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zopen/1.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zopen/1.0.0/downloads",
+            "authors": "/api/v1/crates/zopen/1.0.0/authors"
+        },
+        "crate_size": 5412,
+        "published_by": {
+            "id": 7474,
+            "login": "f-fr",
+            "name": "Frank Fischer",
+            "avatar": "https://avatars.githubusercontent.com/u/25321764?v=4",
+            "url": "https://github.com/f-fr"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 7474,
+                    "login": "f-fr",
+                    "name": "Frank Fischer",
+                    "avatar": "https://avatars.githubusercontent.com/u/25321764?v=4",
+                    "url": "https://github.com/f-fr"
+                },
+                "time": "2024-01-17T09:23:43.198752Z"
+            }
+        ],
+        "checksum": "87b01e8406857fe5b729711ae13061d7805360f4e799a52c61ebe7d693681394",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Automatically open compressed files.",
+        "homepage": "https://chiselapp.com/user/fifr/repository/zopen",
+        "documentation": "https://docs.rs/zopen",
+        "repository": "https://chiselapp.com/user/fifr/repository/zopen",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 386,
+                    "comment_lines": 45,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 386,
+            "total_comment_lines": 45
+        }
+    }
+}

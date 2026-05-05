@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1007250,
+        "crate": "zopen",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zopen/0.4.0/download",
+        "readme_path": "/api/v1/crates/zopen/0.4.0/readme",
+        "updated_at": "2024-01-08T09:43:27.389473Z",
+        "created_at": "2024-01-08T09:43:27.389473Z",
+        "downloads": 1234,
+        "features": {
+            "defaults": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zopen/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zopen/0.4.0/downloads",
+            "authors": "/api/v1/crates/zopen/0.4.0/authors"
+        },
+        "crate_size": 3817,
+        "published_by": {
+            "id": 7474,
+            "login": "f-fr",
+            "name": "Frank Fischer",
+            "avatar": "https://avatars.githubusercontent.com/u/25321764?v=4",
+            "url": "https://github.com/f-fr"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 7474,
+                    "login": "f-fr",
+                    "name": "Frank Fischer",
+                    "avatar": "https://avatars.githubusercontent.com/u/25321764?v=4",
+                    "url": "https://github.com/f-fr"
+                },
+                "time": "2024-01-08T09:43:27.389473Z"
+            }
+        ],
+        "checksum": "decd6df0afb28becc57e8762bba04f0a240571142d96cee7ef24c4b07b10ad9d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Automatically open compressed files.",
+        "homepage": "https://chiselapp.com/user/fifr/repository/zopen",
+        "documentation": "https://docs.rs/zopen",
+        "repository": "https://chiselapp.com/user/fifr/repository/zopen",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 328,
+                    "comment_lines": 31,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 328,
+            "total_comment_lines": 31
+        }
+    }
+}

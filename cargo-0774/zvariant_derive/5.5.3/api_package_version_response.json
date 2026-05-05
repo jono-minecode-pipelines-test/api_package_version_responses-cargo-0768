@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1562578,
+        "crate": "zvariant_derive",
+        "num": "5.5.3",
+        "dl_path": "/api/v1/crates/zvariant_derive/5.5.3/download",
+        "readme_path": "/api/v1/crates/zvariant_derive/5.5.3/readme",
+        "updated_at": "2025-05-13T22:06:48.249853Z",
+        "created_at": "2025-05-13T22:06:48.249853Z",
+        "downloads": 1146552,
+        "features": {
+            "default": [],
+            "gvariant": [
+                "zvariant_utils/gvariant"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zvariant_derive/5.5.3/dependencies",
+            "version_downloads": "/api/v1/crates/zvariant_derive/5.5.3/downloads",
+            "authors": "/api/v1/crates/zvariant_derive/5.5.3/authors"
+        },
+        "crate_size": 14236,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2025-05-13T22:06:48.249853Z"
+            }
+        ],
+        "checksum": "75fda702cd42d735ccd48117b1630432219c0e9616bf6cb0f8350844ee4d9580",
+        "rust_version": "1.77",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "D-Bus & GVariant encoding & decoding",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/dbus2/zbus/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 859,
+                    "comment_lines": 12,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 859,
+            "total_comment_lines": 12
+        }
+    }
+}

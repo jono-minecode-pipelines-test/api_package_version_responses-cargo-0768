@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1187491,
+        "crate": "znap-macros",
+        "num": "0.1.12",
+        "dl_path": "/api/v1/crates/znap-macros/0.1.12/download",
+        "readme_path": "/api/v1/crates/znap-macros/0.1.12/readme",
+        "updated_at": "2024-06-27T18:40:35.336343Z",
+        "created_at": "2024-06-27T18:40:35.336343Z",
+        "downloads": 985,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/znap-macros/0.1.12/dependencies",
+            "version_downloads": "/api/v1/crates/znap-macros/0.1.12/downloads",
+            "authors": "/api/v1/crates/znap-macros/0.1.12/authors"
+        },
+        "crate_size": 1796,
+        "published_by": {
+            "id": 275644,
+            "login": "danmt",
+            "name": "Daniel Marin",
+            "avatar": "https://avatars.githubusercontent.com/u/7496781?v=4",
+            "url": "https://github.com/danmt"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 275644,
+                    "login": "danmt",
+                    "name": "Daniel Marin",
+                    "avatar": "https://avatars.githubusercontent.com/u/7496781?v=4",
+                    "url": "https://github.com/danmt"
+                },
+                "time": "2024-06-27T18:40:35.336343Z"
+            }
+        ],
+        "checksum": "0f86a84c05b0771fd91a45e760eedd0f1ffbb788b60bd2d08424e3dc7c57d6c7",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Collection of macros to build znap collections",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/heavy-duty/znap",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 28,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 28,
+            "total_comment_lines": 0
+        }
+    }
+}

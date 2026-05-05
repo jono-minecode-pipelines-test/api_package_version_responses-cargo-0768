@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1223927,
+        "crate": "znet",
+        "num": "0.2.2",
+        "dl_path": "/api/v1/crates/znet/0.2.2/download",
+        "readme_path": "/api/v1/crates/znet/0.2.2/readme",
+        "updated_at": "2024-08-05T03:16:23.996610Z",
+        "created_at": "2024-08-05T03:16:23.996610Z",
+        "downloads": 1059,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/znet/0.2.2/dependencies",
+            "version_downloads": "/api/v1/crates/znet/0.2.2/downloads",
+            "authors": "/api/v1/crates/znet/0.2.2/authors"
+        },
+        "crate_size": 38015,
+        "published_by": {
+            "id": 128242,
+            "login": "JLerxky",
+            "name": "JLer",
+            "avatar": "https://avatars.githubusercontent.com/u/29918883?v=4",
+            "url": "https://github.com/JLerxky"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 128242,
+                    "login": "JLerxky",
+                    "name": "JLer",
+                    "avatar": "https://avatars.githubusercontent.com/u/29918883?v=4",
+                    "url": "https://github.com/JLerxky"
+                },
+                "time": "2024-08-05T03:16:23.996610Z"
+            }
+        ],
+        "checksum": "f0b93ec671a128d2ee092cc9615930ba395c81cf51dfc3ea39b73eb05a8b1de8",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "network framework powered by zenoh",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/prime-rs/znet",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 324,
+                    "comment_lines": 11,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 324,
+            "total_comment_lines": 11
+        }
+    }
+}

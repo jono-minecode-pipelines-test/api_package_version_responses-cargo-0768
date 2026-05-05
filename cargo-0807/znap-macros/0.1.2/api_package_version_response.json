@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1176823,
+        "crate": "znap-macros",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/znap-macros/0.1.2/download",
+        "readme_path": "/api/v1/crates/znap-macros/0.1.2/readme",
+        "updated_at": "2024-06-17T18:10:23.836251Z",
+        "created_at": "2024-06-17T18:10:23.836251Z",
+        "downloads": 969,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/znap-macros/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/znap-macros/0.1.2/downloads",
+            "authors": "/api/v1/crates/znap-macros/0.1.2/authors"
+        },
+        "crate_size": 1123,
+        "published_by": {
+            "id": 275644,
+            "login": "danmt",
+            "name": "Daniel Marin",
+            "avatar": "https://avatars.githubusercontent.com/u/7496781?v=4",
+            "url": "https://github.com/danmt"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 275644,
+                    "login": "danmt",
+                    "name": "Daniel Marin",
+                    "avatar": "https://avatars.githubusercontent.com/u/7496781?v=4",
+                    "url": "https://github.com/danmt"
+                },
+                "time": "2024-06-17T18:10:23.836251Z"
+            }
+        ],
+        "checksum": "c12b8e74639155471e6a54ef1161a57eccd068199b3649032e8e5aa29ebb14f6",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Coming soon",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/heavy-duty/znap",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 28,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 28,
+            "total_comment_lines": 0
+        }
+    }
+}

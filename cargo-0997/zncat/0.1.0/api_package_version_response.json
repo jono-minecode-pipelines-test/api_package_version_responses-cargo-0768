@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 1313000,
+        "crate": "zncat",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zncat/0.1.0/download",
+        "readme_path": "/api/v1/crates/zncat/0.1.0/readme",
+        "updated_at": "2024-10-23T22:19:32.088166Z",
+        "created_at": "2024-10-23T22:19:32.088166Z",
+        "downloads": 815,
+        "features": {
+            "shared-memory": [
+                "zenoh/shared-memory"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zncat/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zncat/0.1.0/downloads",
+            "authors": "/api/v1/crates/zncat/0.1.0/authors"
+        },
+        "crate_size": 30598,
+        "published_by": {
+            "id": 47527,
+            "login": "jerry73204",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/7629150?v=4",
+            "url": "https://github.com/jerry73204"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 47527,
+                    "login": "jerry73204",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/7629150?v=4",
+                    "url": "https://github.com/jerry73204"
+                },
+                "time": "2024-10-23T22:19:32.088166Z"
+            }
+        ],
+        "checksum": "75abf58fd53af6f01e127aa74cce8fc6019a5f8b6e0f1771afe1d49830f36f17",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zncat"
+        ],
+        "edition": "2021",
+        "description": "Command line relay for Zenoh",
+        "homepage": "https://github.com/NEWSLabNTU/zncat",
+        "documentation": null,
+        "repository": "https://github.com/NEWSLabNTU/zncat.git",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 236,
+                    "comment_lines": 10,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 236,
+            "total_comment_lines": 10
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "version": {
+        "id": 2160503,
+        "crate": "zng-ext-config",
+        "num": "0.12.9",
+        "dl_path": "/api/v1/crates/zng-ext-config/0.12.9/download",
+        "readme_path": "/api/v1/crates/zng-ext-config/0.12.9/readme",
+        "updated_at": "2026-03-24T01:45:28.660389Z",
+        "created_at": "2026-03-24T01:45:28.660389Z",
+        "downloads": 38,
+        "features": {
+            "json": [
+                "dep:serde_json",
+                "zng-ext-fs-watcher/json"
+            ],
+            "ron": [
+                "dep:ron",
+                "zng-ext-fs-watcher/ron"
+            ],
+            "toml": [
+                "dep:toml",
+                "zng-ext-fs-watcher/toml"
+            ],
+            "yaml": [
+                "dep:serde_yaml",
+                "zng-ext-fs-watcher/yaml"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-ext-config/0.12.9/dependencies",
+            "version_downloads": "/api/v1/crates/zng-ext-config/0.12.9/downloads",
+            "authors": "/api/v1/crates/zng-ext-config/0.12.9/authors"
+        },
+        "crate_size": 36603,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2026-03-24T01:45:28.660389Z"
+            }
+        ],
+        "checksum": "9ae014adf1290e18ad6599d1e60453ab1a326827c5a7112625de5ad43aff1247",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_ext_config",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2701,
+                    "comment_lines": 17,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 2701,
+            "total_comment_lines": 17
+        }
+    }
+}

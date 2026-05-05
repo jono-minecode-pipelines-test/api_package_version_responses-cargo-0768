@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 921968,
+        "crate": "zngur-cli",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zngur-cli/0.4.0/download",
+        "readme_path": "/api/v1/crates/zngur-cli/0.4.0/readme",
+        "updated_at": "2023-10-10T20:51:15.431561Z",
+        "created_at": "2023-10-10T20:51:15.431561Z",
+        "downloads": 1379,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zngur-cli/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zngur-cli/0.4.0/downloads",
+            "authors": "/api/v1/crates/zngur-cli/0.4.0/authors"
+        },
+        "crate_size": 6038,
+        "published_by": {
+            "id": 139698,
+            "login": "HKalbasi",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/45197576?v=4",
+            "url": "https://github.com/HKalbasi"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 139698,
+                    "login": "HKalbasi",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/45197576?v=4",
+                    "url": "https://github.com/HKalbasi"
+                },
+                "time": "2023-10-10T20:51:15.431561Z"
+            }
+        ],
+        "checksum": "c991f7e487c4b99689466c4ba59809aa21e58efb5f1fdcb79fd6ea55b8be974d",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zngur"
+        ],
+        "edition": "2021",
+        "description": "CLI of the Zngur, a Rust/C++ interoperability tool",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 22,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 22,
+            "total_comment_lines": 0
+        }
+    }
+}

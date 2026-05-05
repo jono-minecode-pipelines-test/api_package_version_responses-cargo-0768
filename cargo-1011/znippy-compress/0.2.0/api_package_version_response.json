@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1656871,
+        "crate": "znippy-compress",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/znippy-compress/0.2.0/download",
+        "readme_path": "/api/v1/crates/znippy-compress/0.2.0/readme",
+        "updated_at": "2025-07-25T09:22:20.760681Z",
+        "created_at": "2025-07-25T09:22:20.760681Z",
+        "downloads": 384,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/znippy-compress/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/znippy-compress/0.2.0/downloads",
+            "authors": "/api/v1/crates/znippy-compress/0.2.0/authors"
+        },
+        "crate_size": 18159,
+        "published_by": {
+            "id": 181172,
+            "login": "Ignalina",
+            "name": "Rickard Ernst Bj\u00f6rn Lundin",
+            "avatar": "https://avatars.githubusercontent.com/u/33436048?v=4",
+            "url": "https://github.com/Ignalina"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 181172,
+                    "login": "Ignalina",
+                    "name": "Rickard Ernst Bj\u00f6rn Lundin",
+                    "avatar": "https://avatars.githubusercontent.com/u/33436048?v=4",
+                    "url": "https://github.com/Ignalina"
+                },
+                "time": "2025-07-25T09:22:20.760681Z"
+            }
+        ],
+        "checksum": "a38b73d91622bdf413ba402cdc909a44a60c739394229b3e0331801d38990a85",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Compression logic for Znippy, a parallel chunked compression system.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Ignalina/znippy",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 452,
+                    "comment_lines": 30,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 452,
+            "total_comment_lines": 30
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1662942,
+        "crate": "znippy-decompress",
+        "num": "0.2.4",
+        "dl_path": "/api/v1/crates/znippy-decompress/0.2.4/download",
+        "readme_path": "/api/v1/crates/znippy-decompress/0.2.4/readme",
+        "updated_at": "2025-07-30T09:50:04.413963Z",
+        "created_at": "2025-07-30T09:50:04.413963Z",
+        "downloads": 585,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/znippy-decompress/0.2.4/dependencies",
+            "version_downloads": "/api/v1/crates/znippy-decompress/0.2.4/downloads",
+            "authors": "/api/v1/crates/znippy-decompress/0.2.4/authors"
+        },
+        "crate_size": 12927,
+        "published_by": {
+            "id": 181172,
+            "login": "Ignalina",
+            "name": "Rickard Ernst Bj\u00f6rn Lundin",
+            "avatar": "https://avatars.githubusercontent.com/u/33436048?v=4",
+            "url": "https://github.com/Ignalina"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 181172,
+                    "login": "Ignalina",
+                    "name": "Rickard Ernst Bj\u00f6rn Lundin",
+                    "avatar": "https://avatars.githubusercontent.com/u/33436048?v=4",
+                    "url": "https://github.com/Ignalina"
+                },
+                "time": "2025-07-30T09:50:04.413963Z"
+            }
+        ],
+        "checksum": "39e3d9b39f051a3901f8150e6fd84c5dd4565f823db5cddbbb9580e70509b1f5",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "decompress logic for Znippy, a parallel chunked compression system.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Ignalina/znippy",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 8,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 8,
+            "total_comment_lines": 0
+        }
+    }
+}

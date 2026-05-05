@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1199649,
+        "crate": "zoneinfo",
+        "num": "0.0.0-reservation",
+        "dl_path": "/api/v1/crates/zoneinfo/0.0.0-reservation/download",
+        "readme_path": "/api/v1/crates/zoneinfo/0.0.0-reservation/readme",
+        "updated_at": "2024-07-11T05:30:09.983516Z",
+        "created_at": "2024-07-11T05:30:09.983516Z",
+        "downloads": 1260,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zoneinfo/0.0.0-reservation/dependencies",
+            "version_downloads": "/api/v1/crates/zoneinfo/0.0.0-reservation/downloads",
+            "authors": "/api/v1/crates/zoneinfo/0.0.0-reservation/authors"
+        },
+        "crate_size": 591,
+        "published_by": {
+            "id": 15682,
+            "login": "jhpratt",
+            "name": "Jacob Pratt",
+            "avatar": "https://avatars.githubusercontent.com/u/3161395?v=4",
+            "url": "https://github.com/jhpratt"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 15682,
+                    "login": "jhpratt",
+                    "name": "Jacob Pratt",
+                    "avatar": "https://avatars.githubusercontent.com/u/3161395?v=4",
+                    "url": "https://github.com/jhpratt"
+                },
+                "time": "2024-07-11T05:30:09.983516Z"
+            }
+        ],
+        "checksum": "c01d647774c29bc10b63df14d027043bf339ec640ab8c68a721301502225b970",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "WIP",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 0,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 0,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "version": {
+        "id": 1791281,
+        "crate": "zone-edit",
+        "num": "0.4.2",
+        "dl_path": "/api/v1/crates/zone-edit/0.4.2/download",
+        "readme_path": "/api/v1/crates/zone-edit/0.4.2/readme",
+        "updated_at": "2025-10-25T03:05:16.175982Z",
+        "created_at": "2025-10-25T03:05:16.175982Z",
+        "downloads": 181,
+        "features": {
+            "all-providers": [
+                "gandi",
+                "dnsmadeeasy",
+                "dnsimple",
+                "porkbun"
+            ],
+            "async": [
+                "dep:blocking"
+            ],
+            "default": [
+                "all-providers"
+            ],
+            "dnsimple": [],
+            "dnsmadeeasy": [
+                "dep:hmac",
+                "dep:sha1",
+                "dep:hex"
+            ],
+            "gandi": [],
+            "hex": [
+                "dep:hex"
+            ],
+            "hmac": [
+                "dep:hmac"
+            ],
+            "porkbun": [],
+            "test_dnsimple": [
+                "dnsimple"
+            ],
+            "test_dnsmadeeasy": [
+                "dnsmadeeasy"
+            ],
+            "test_gandi": [
+                "gandi"
+            ],
+            "test_offline": [],
+            "test_porkbun": [
+                "porkbun"
+            ],
+            "test_smol": [
+                "async"
+            ],
+            "test_tokio": [
+                "async"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zone-edit/0.4.2/dependencies",
+            "version_downloads": "/api/v1/crates/zone-edit/0.4.2/downloads",
+            "authors": "/api/v1/crates/zone-edit/0.4.2/authors"
+        },
+        "crate_size": 41692,
+        "published_by": {
+            "id": 6169,
+            "login": "tarka",
+            "name": "Steve Smith",
+            "avatar": "https://avatars.githubusercontent.com/u/94951?v=4",
+            "url": "https://github.com/tarka"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6169,
+                    "login": "tarka",
+                    "name": "Steve Smith",
+                    "avatar": "https://avatars.githubusercontent.com/u/94951?v=4",
+                    "url": "https://github.com/tarka"
+                },
+                "time": "2025-10-25T03:05:16.175982Z"
+            }
+        ],
+        "checksum": "1c53faf48c2fed5ecce656a1a10e619d81b0f5cd27d98d49acc1eea164922a27",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A minimal library of DNS provider utilities",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/tarka/zone-edit",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1542,
+                    "comment_lines": 174,
+                    "files": 16
+                }
+            },
+            "total_code_lines": 1542,
+            "total_comment_lines": 174
+        }
+    }
+}

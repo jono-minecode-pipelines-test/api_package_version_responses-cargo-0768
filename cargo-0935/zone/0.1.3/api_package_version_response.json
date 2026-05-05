@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 349807,
+        "crate": "zone",
+        "num": "0.1.3",
+        "dl_path": "/api/v1/crates/zone/0.1.3/download",
+        "readme_path": "/api/v1/crates/zone/0.1.3/readme",
+        "updated_at": "2021-03-09T13:48:41.267237Z",
+        "created_at": "2021-03-09T13:48:41.267237Z",
+        "downloads": 1167,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zone/0.1.3/dependencies",
+            "version_downloads": "/api/v1/crates/zone/0.1.3/downloads",
+            "authors": "/api/v1/crates/zone/0.1.3/authors"
+        },
+        "crate_size": 7089,
+        "published_by": {
+            "id": 86039,
+            "login": "smklein",
+            "name": "Sean Klein",
+            "avatar": "https://avatars.githubusercontent.com/u/3258857?v=4",
+            "url": "https://github.com/smklein"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 86039,
+                    "login": "smklein",
+                    "name": "Sean Klein",
+                    "avatar": "https://avatars.githubusercontent.com/u/3258857?v=4",
+                    "url": "https://github.com/smklein"
+                },
+                "time": "2021-03-09T13:48:41.267237Z"
+            }
+        ],
+        "checksum": "f2d9df3f79a7a1dba3df750166210ac16b64b08d5375630bb7243d655d6ee7fa",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Rust bindings for Zone management",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/oxidecomputer/zone",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 533,
+                    "comment_lines": 18,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 533,
+            "total_comment_lines": 18
+        }
+    }
+}

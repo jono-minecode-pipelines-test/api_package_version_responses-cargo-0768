@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 899979,
+        "crate": "zone-alloc-strong-handle-derive",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zone-alloc-strong-handle-derive/0.1.1/download",
+        "readme_path": "/api/v1/crates/zone-alloc-strong-handle-derive/0.1.1/readme",
+        "updated_at": "2023-09-18T04:54:46.613534Z",
+        "created_at": "2023-09-18T04:54:46.613534Z",
+        "downloads": 1161,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zone-alloc-strong-handle-derive/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zone-alloc-strong-handle-derive/0.1.1/downloads",
+            "authors": "/api/v1/crates/zone-alloc-strong-handle-derive/0.1.1/authors"
+        },
+        "crate_size": 3108,
+        "published_by": {
+            "id": 224819,
+            "login": "jackson-nestelroad",
+            "name": "Jackson Nestelroad",
+            "avatar": "https://avatars.githubusercontent.com/u/40396320?v=4",
+            "url": "https://github.com/jackson-nestelroad"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 224819,
+                    "login": "jackson-nestelroad",
+                    "name": "Jackson Nestelroad",
+                    "avatar": "https://avatars.githubusercontent.com/u/40396320?v=4",
+                    "url": "https://github.com/jackson-nestelroad"
+                },
+                "time": "2023-09-18T04:54:46.613534Z"
+            }
+        ],
+        "checksum": "725d360a985d5f9c73da5af8ab0735baddccc3302c946733d4a3276150892cea",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Procedural macro for zone-alloc StrongHandle types.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zone_alloc_strong_handle_derive",
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 93,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 93,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "version": {
+        "id": 1743155,
+        "crate": "zone-edit",
+        "num": "0.2.2",
+        "dl_path": "/api/v1/crates/zone-edit/0.2.2/download",
+        "readme_path": "/api/v1/crates/zone-edit/0.2.2/readme",
+        "updated_at": "2025-09-24T01:31:26.411630Z",
+        "created_at": "2025-09-24T01:31:26.411630Z",
+        "downloads": 242,
+        "features": {
+            "all-providers": [
+                "gandi",
+                "dnsimple"
+            ],
+            "default": [
+                "smol",
+                "all-providers"
+            ],
+            "dnsimple": [],
+            "gandi": [],
+            "smol": [
+                "dep:smol",
+                "dep:smol-hyper",
+                "dep:futures-rustls"
+            ],
+            "test_dnsimple": [],
+            "test_gandi": [],
+            "test_offline": [],
+            "tokio": [
+                "dep:tokio",
+                "dep:hyper-util",
+                "dep:tokio-rustls"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zone-edit/0.2.2/dependencies",
+            "version_downloads": "/api/v1/crates/zone-edit/0.2.2/downloads",
+            "authors": "/api/v1/crates/zone-edit/0.2.2/authors"
+        },
+        "crate_size": 26497,
+        "published_by": {
+            "id": 6169,
+            "login": "tarka",
+            "name": "Steve Smith",
+            "avatar": "https://avatars.githubusercontent.com/u/94951?v=4",
+            "url": "https://github.com/tarka"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6169,
+                    "login": "tarka",
+                    "name": "Steve Smith",
+                    "avatar": "https://avatars.githubusercontent.com/u/94951?v=4",
+                    "url": "https://github.com/tarka"
+                },
+                "time": "2025-09-24T01:31:26.411630Z"
+            }
+        ],
+        "checksum": "543d1ecb75c99748a1fc9b4addb334c4934b319fe9816e1fb47033c2fe324de3",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A minimal library of DNS provider utilities",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/tarka/zone-edit",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 766,
+                    "comment_lines": 93,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 766,
+            "total_comment_lines": 93
+        }
+    }
+}

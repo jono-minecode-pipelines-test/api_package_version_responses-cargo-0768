@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 950913,
+        "crate": "zonefile-crds",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zonefile-crds/0.1.0/download",
+        "readme_path": "/api/v1/crates/zonefile-crds/0.1.0/readme",
+        "updated_at": "2023-11-10T10:26:31.409662Z",
+        "created_at": "2023-11-10T10:26:31.409662Z",
+        "downloads": 1184,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zonefile-crds/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zonefile-crds/0.1.0/downloads",
+            "authors": "/api/v1/crates/zonefile-crds/0.1.0/authors"
+        },
+        "crate_size": 2108,
+        "published_by": {
+            "id": 75934,
+            "login": "MathiasPius",
+            "name": "Mathias Pius",
+            "avatar": "https://avatars.githubusercontent.com/u/769916?v=4",
+            "url": "https://github.com/MathiasPius"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 75934,
+                    "login": "MathiasPius",
+                    "name": "Mathias Pius",
+                    "avatar": "https://avatars.githubusercontent.com/u/769916?v=4",
+                    "url": "https://github.com/MathiasPius"
+                },
+                "time": "2023-11-10T10:26:31.409662Z"
+            }
+        ],
+        "checksum": "a48bb186137c2cf12c85cd91edfad4dd9db3797ecbbcd9bdf6552c9739270eed",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Rust library exposing the Zonefile CRDs as types.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/kubi-zone/kubi.zone",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 41,
+                    "comment_lines": 3,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 41,
+            "total_comment_lines": 3
+        }
+    }
+}

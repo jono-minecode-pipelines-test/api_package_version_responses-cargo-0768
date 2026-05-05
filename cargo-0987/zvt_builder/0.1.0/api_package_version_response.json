@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 965625,
+        "crate": "zvt_builder",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zvt_builder/0.1.0/download",
+        "readme_path": "/api/v1/crates/zvt_builder/0.1.0/readme",
+        "updated_at": "2023-11-24T11:38:14.043143Z",
+        "created_at": "2023-11-24T11:38:14.043143Z",
+        "downloads": 1910,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zvt_builder/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zvt_builder/0.1.0/downloads",
+            "authors": "/api/v1/crates/zvt_builder/0.1.0/authors"
+        },
+        "crate_size": 7013,
+        "published_by": {
+            "id": 22733,
+            "login": "SirVer",
+            "name": "Holger Rapp",
+            "avatar": "https://avatars.githubusercontent.com/u/140115?v=4",
+            "url": "https://github.com/SirVer"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 22733,
+                    "login": "SirVer",
+                    "name": "Holger Rapp",
+                    "avatar": "https://avatars.githubusercontent.com/u/140115?v=4",
+                    "url": "https://github.com/SirVer"
+                },
+                "time": "2023-11-24T11:38:14.043143Z"
+            }
+        ],
+        "checksum": "a4454e518442432f2de014eb9df960ba4804cb7c3b65c4a2ebd7e08e2ec9059f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A crate to interact with payment terminals (ECRs) that use the ZVT protokoll, including stand alone commandline tools to interact with the devices. This is an internal dependency for the ZVT crate.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/qwello/zvt/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 564,
+                    "comment_lines": 12,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 564,
+            "total_comment_lines": 12
+        }
+    }
+}

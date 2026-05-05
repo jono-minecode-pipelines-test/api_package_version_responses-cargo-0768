@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 2155150,
+        "crate": "zvec-sys",
+        "num": "0.3.1",
+        "dl_path": "/api/v1/crates/zvec-sys/0.3.1/download",
+        "readme_path": "/api/v1/crates/zvec-sys/0.3.1/readme",
+        "updated_at": "2026-03-22T21:05:24.154075Z",
+        "created_at": "2026-03-22T21:05:24.154075Z",
+        "downloads": 93,
+        "features": {
+            "default": [],
+            "static": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": "zvec_c",
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zvec-sys/0.3.1/dependencies",
+            "version_downloads": "/api/v1/crates/zvec-sys/0.3.1/downloads",
+            "authors": "/api/v1/crates/zvec-sys/0.3.1/authors"
+        },
+        "crate_size": 15193,
+        "published_by": {
+            "id": 389298,
+            "login": "igobypenn",
+            "name": "Penn",
+            "avatar": "https://avatars.githubusercontent.com/u/69249?v=4",
+            "url": "https://github.com/igobypenn"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 389298,
+                    "login": "igobypenn",
+                    "name": "Penn",
+                    "avatar": "https://avatars.githubusercontent.com/u/69249?v=4",
+                    "url": "https://github.com/igobypenn"
+                },
+                "time": "2026-03-22T21:05:24.154075Z"
+            }
+        ],
+        "checksum": "d8c5ab65925762043c9af49e0b24ac249e8b00e4f9884d96c3f9034685ca66ef",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Raw FFI bindings to zvec C library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/igobypenn/zvec-rust-binding",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C Header": {
+                    "code_lines": 396,
+                    "comment_lines": 95,
+                    "files": 3
+                },
+                "C++": {
+                    "code_lines": 1307,
+                    "comment_lines": 0,
+                    "files": 8
+                },
+                "Rust": {
+                    "code_lines": 263,
+                    "comment_lines": 13,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 1966,
+            "total_comment_lines": 108
+        }
+    }
+}

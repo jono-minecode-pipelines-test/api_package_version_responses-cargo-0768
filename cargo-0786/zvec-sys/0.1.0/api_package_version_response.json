@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 2026932,
+        "crate": "zvec-sys",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zvec-sys/0.1.0/download",
+        "readme_path": "/api/v1/crates/zvec-sys/0.1.0/readme",
+        "updated_at": "2026-02-14T00:04:31.197122Z",
+        "created_at": "2026-02-14T00:04:31.197122Z",
+        "downloads": 21,
+        "features": {
+            "default": [],
+            "static": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": "zvec_c",
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zvec-sys/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zvec-sys/0.1.0/downloads",
+            "authors": "/api/v1/crates/zvec-sys/0.1.0/authors"
+        },
+        "crate_size": 15172,
+        "published_by": {
+            "id": 389298,
+            "login": "igobypenn",
+            "name": "Penn",
+            "avatar": "https://avatars.githubusercontent.com/u/69249?v=4",
+            "url": "https://github.com/igobypenn"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 389298,
+                    "login": "igobypenn",
+                    "name": "Penn",
+                    "avatar": "https://avatars.githubusercontent.com/u/69249?v=4",
+                    "url": "https://github.com/igobypenn"
+                },
+                "time": "2026-02-14T00:04:31.197122Z"
+            }
+        ],
+        "checksum": "d279e7121051458b5a78005038d66d8e4aeeb62e5a75e3146c183ac7d2f5251e",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Raw FFI bindings to zvec C library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/alibaba/zvec",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C Header": {
+                    "code_lines": 396,
+                    "comment_lines": 95,
+                    "files": 3
+                },
+                "C++": {
+                    "code_lines": 1308,
+                    "comment_lines": 0,
+                    "files": 8
+                },
+                "Rust": {
+                    "code_lines": 263,
+                    "comment_lines": 13,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 1967,
+            "total_comment_lines": 108
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 2029960,
+        "crate": "zvault-storage",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zvault-storage/0.2.0/download",
+        "readme_path": "/api/v1/crates/zvault-storage/0.2.0/readme",
+        "updated_at": "2026-02-15T11:38:19.522611Z",
+        "created_at": "2026-02-15T11:38:19.522611Z",
+        "downloads": 100,
+        "features": {
+            "default": [
+                "rocksdb-backend"
+            ],
+            "postgres-backend": [
+                "dep:sqlx"
+            ],
+            "redb-backend": [
+                "dep:redb"
+            ],
+            "rocksdb-backend": [
+                "dep:rocksdb"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zvault-storage/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zvault-storage/0.2.0/downloads",
+            "authors": "/api/v1/crates/zvault-storage/0.2.0/authors"
+        },
+        "crate_size": 20781,
+        "published_by": {
+            "id": 389812,
+            "login": "VanitasCaesar1",
+            "name": "Vanitas Caesar",
+            "avatar": "https://avatars.githubusercontent.com/u/94681960?v=4",
+            "url": "https://github.com/VanitasCaesar1"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 389812,
+                    "login": "VanitasCaesar1",
+                    "name": "Vanitas Caesar",
+                    "avatar": "https://avatars.githubusercontent.com/u/94681960?v=4",
+                    "url": "https://github.com/VanitasCaesar1"
+                },
+                "time": "2026-02-15T11:38:19.522611Z"
+            }
+        ],
+        "checksum": "1bd27c23e8d7cd61321b609dae1017596e2ee1baaa18373c67101e4686fb2ff9",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Storage backend abstraction for ZVault \u2014 pluggable key-value storage with RocksDB, redb, and in-memory backends",
+        "homepage": "https://zvault.cloud",
+        "documentation": "https://docs.zvault.cloud",
+        "repository": "https://github.com/VanitasCaesar1/zvault",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 594,
+                    "comment_lines": 6,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 594,
+            "total_comment_lines": 6
+        }
+    }
+}

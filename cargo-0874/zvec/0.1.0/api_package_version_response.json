@@ -1,0 +1,91 @@
+{
+    "version": {
+        "id": 2302963,
+        "crate": "zvec",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zvec/0.1.0/download",
+        "readme_path": "/api/v1/crates/zvec/0.1.0/readme",
+        "updated_at": "2026-04-24T20:46:50.456056Z",
+        "created_at": "2026-04-24T20:46:50.456056Z",
+        "downloads": 14,
+        "features": {
+            "bundled": [
+                "dep:ureq",
+                "dep:zip",
+                "dep:sha2"
+            ],
+            "default": [],
+            "derive": [
+                "dep:zvec-derive"
+            ],
+            "half": [
+                "dep:half"
+            ],
+            "pkg-config": [
+                "dep:pkg-config"
+            ],
+            "serde-json": [
+                "dep:serde_json"
+            ],
+            "tokio": [
+                "dep:tokio"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": "zvec_c_api",
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zvec/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zvec/0.1.0/downloads",
+            "authors": "/api/v1/crates/zvec/0.1.0/authors"
+        },
+        "crate_size": 80311,
+        "published_by": {
+            "id": 409843,
+            "login": "oly-wan-kenobi",
+            "name": "Oliver G\u00fcnthardt",
+            "avatar": "https://avatars.githubusercontent.com/u/102721776?v=4",
+            "url": "https://github.com/oly-wan-kenobi"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 409843,
+                    "login": "oly-wan-kenobi",
+                    "name": "Oliver G\u00fcnthardt",
+                    "avatar": "https://avatars.githubusercontent.com/u/102721776?v=4",
+                    "url": "https://github.com/oly-wan-kenobi"
+                },
+                "time": "2026-04-24T20:46:50.456056Z"
+            }
+        ],
+        "checksum": "6bd8ac51df24026a52849501c185202bf2d262ce545e8b3cf664c94fa2ac6751",
+        "rust_version": "1.75",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Rust bindings to zvec, an in-process vector database by Alibaba.",
+        "homepage": "https://github.com/oly-wan-kenobi/zvec-rs",
+        "documentation": "https://docs.rs/zvec",
+        "repository": "https://github.com/oly-wan-kenobi/zvec-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C Header": {
+                    "code_lines": 781,
+                    "comment_lines": 2104,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 3893,
+                    "comment_lines": 153,
+                    "files": 23
+                }
+            },
+            "total_code_lines": 4674,
+            "total_comment_lines": 2257
+        }
+    }
+}

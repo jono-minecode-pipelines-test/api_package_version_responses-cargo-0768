@@ -1,0 +1,91 @@
+{
+    "version": {
+        "id": 2182096,
+        "crate": "zorto",
+        "num": "0.12.2",
+        "dl_path": "/api/v1/crates/zorto/0.12.2/download",
+        "readme_path": "/api/v1/crates/zorto/0.12.2/readme",
+        "updated_at": "2026-03-29T03:22:21.871473Z",
+        "created_at": "2026-03-29T03:22:21.871473Z",
+        "downloads": 16,
+        "features": {
+            "app": [
+                "dep:zorto-app"
+            ],
+            "default": [
+                "embed-python",
+                "theme-dkdc",
+                "theme-light",
+                "theme-dark"
+            ],
+            "embed-python": [
+                "zorto-core/embed-python"
+            ],
+            "python": [
+                "zorto-core/python"
+            ],
+            "theme-dark": [
+                "zorto-core/theme-dark"
+            ],
+            "theme-dkdc": [
+                "zorto-core/theme-dkdc"
+            ],
+            "theme-light": [
+                "zorto-core/theme-light"
+            ],
+            "webapp": [
+                "dep:zorto-webapp"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorto/0.12.2/dependencies",
+            "version_downloads": "/api/v1/crates/zorto/0.12.2/downloads",
+            "authors": "/api/v1/crates/zorto/0.12.2/authors"
+        },
+        "crate_size": 36815,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "4cec8696b1b0df7d3e2432fc102604f7e568ed9dfcc48c251066a6dd3ecb3480",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [
+            "zorto"
+        ],
+        "edition": "2024",
+        "description": "A fast static site generator with executable code blocks",
+        "homepage": "https://github.com/dkdc-io/zorto",
+        "documentation": null,
+        "repository": "https://github.com/dkdc-io/zorto",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "dkdc-io/zorto",
+            "run_id": "23700302737",
+            "sha": "119e80c3b9627110b42a10ed137de8d77b8f1448"
+        },
+        "linecounts": {
+            "languages": {
+                "HTML": {
+                    "code_lines": 341,
+                    "comment_lines": 0,
+                    "files": 8
+                },
+                "Rust": {
+                    "code_lines": 659,
+                    "comment_lines": 18,
+                    "files": 5
+                },
+                "Sass": {
+                    "code_lines": 671,
+                    "comment_lines": 39,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 1671,
+            "total_comment_lines": 57
+        }
+    }
+}

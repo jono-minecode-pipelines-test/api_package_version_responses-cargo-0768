@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 2010612,
+        "crate": "zorto",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zorto/0.3.0/download",
+        "readme_path": "/api/v1/crates/zorto/0.3.0/readme",
+        "updated_at": "2026-02-09T00:31:24.739740Z",
+        "created_at": "2026-02-09T00:31:24.739740Z",
+        "downloads": 19,
+        "features": {
+            "default": [
+                "embed-python"
+            ],
+            "embed-python": [
+                "python",
+                "pyo3/auto-initialize"
+            ],
+            "python": [
+                "dep:pyo3"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorto/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zorto/0.3.0/downloads",
+            "authors": "/api/v1/crates/zorto/0.3.0/authors"
+        },
+        "crate_size": 43368,
+        "published_by": {
+            "id": 171333,
+            "login": "lostmygithubaccount",
+            "name": "Cody Peterson",
+            "avatar": "https://avatars.githubusercontent.com/u/54814569?v=4",
+            "url": "https://github.com/lostmygithubaccount"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 171333,
+                    "login": "lostmygithubaccount",
+                    "name": "Cody Peterson",
+                    "avatar": "https://avatars.githubusercontent.com/u/54814569?v=4",
+                    "url": "https://github.com/lostmygithubaccount"
+                },
+                "time": "2026-02-09T00:31:24.739740Z"
+            }
+        ],
+        "checksum": "bc8a1628a59ab6ab4e6dcd09f9360289a2bfa74563702c0f033000b39f0098dd",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zorto"
+        ],
+        "edition": "2024",
+        "description": "A fast static site generator with executable code blocks",
+        "homepage": "https://github.com/lostmygithubaccount/zorto",
+        "documentation": null,
+        "repository": "https://github.com/lostmygithubaccount/zorto",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2967,
+                    "comment_lines": 98,
+                    "files": 12
+                }
+            },
+            "total_code_lines": 2967,
+            "total_comment_lines": 98
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "version": {
+        "id": 2179991,
+        "crate": "zorto",
+        "num": "0.10.0",
+        "dl_path": "/api/v1/crates/zorto/0.10.0/download",
+        "readme_path": "/api/v1/crates/zorto/0.10.0/readme",
+        "updated_at": "2026-03-28T16:34:50.220348Z",
+        "created_at": "2026-03-28T16:34:50.220348Z",
+        "downloads": 16,
+        "features": {
+            "app": [
+                "dep:zorto-app"
+            ],
+            "default": [
+                "embed-python"
+            ],
+            "embed-python": [
+                "zorto-core/embed-python"
+            ],
+            "python": [
+                "zorto-core/python"
+            ],
+            "webapp": [
+                "dep:zorto-webapp"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorto/0.10.0/dependencies",
+            "version_downloads": "/api/v1/crates/zorto/0.10.0/downloads",
+            "authors": "/api/v1/crates/zorto/0.10.0/authors"
+        },
+        "crate_size": 36443,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "dd49732a7f9ca98780f5e8fbfb0efd21fffa8a8d15b97c0e1fda163f1ff23961",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [
+            "zorto"
+        ],
+        "edition": "2024",
+        "description": "A fast static site generator with executable code blocks",
+        "homepage": "https://github.com/dkdc-io/zorto",
+        "documentation": null,
+        "repository": "https://github.com/dkdc-io/zorto",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "dkdc-io/zorto",
+            "run_id": "23689422264",
+            "sha": "4979835251939d3982d08ede6773cd9441631402"
+        },
+        "linecounts": {
+            "languages": {
+                "HTML": {
+                    "code_lines": 341,
+                    "comment_lines": 0,
+                    "files": 8
+                },
+                "Rust": {
+                    "code_lines": 642,
+                    "comment_lines": 18,
+                    "files": 5
+                },
+                "Sass": {
+                    "code_lines": 671,
+                    "comment_lines": 39,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 1654,
+            "total_comment_lines": 57
+        }
+    }
+}

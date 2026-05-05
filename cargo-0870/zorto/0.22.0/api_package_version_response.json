@@ -1,0 +1,142 @@
+{
+    "version": {
+        "id": 2248466,
+        "crate": "zorto",
+        "num": "0.22.0",
+        "dl_path": "/api/v1/crates/zorto/0.22.0/download",
+        "readme_path": "/api/v1/crates/zorto/0.22.0/readme",
+        "updated_at": "2026-04-13T01:23:27.083930Z",
+        "created_at": "2026-04-13T01:23:27.083930Z",
+        "downloads": 16,
+        "features": {
+            "app": [
+                "dep:zorto-app"
+            ],
+            "default": [
+                "embed-python",
+                "search",
+                "theme-zorto",
+                "theme-dkdc",
+                "theme-default",
+                "theme-ember",
+                "theme-forest",
+                "theme-ocean",
+                "theme-rose",
+                "theme-slate",
+                "theme-midnight",
+                "theme-sunset",
+                "theme-mint",
+                "theme-plum",
+                "theme-sand",
+                "theme-arctic",
+                "theme-lime",
+                "theme-charcoal"
+            ],
+            "embed-python": [
+                "zorto-core/embed-python"
+            ],
+            "python": [
+                "zorto-core/python"
+            ],
+            "search": [
+                "zorto-core/search"
+            ],
+            "theme-arctic": [
+                "zorto-core/theme-arctic"
+            ],
+            "theme-charcoal": [
+                "zorto-core/theme-charcoal"
+            ],
+            "theme-default": [
+                "zorto-core/theme-default"
+            ],
+            "theme-dkdc": [
+                "zorto-core/theme-dkdc"
+            ],
+            "theme-ember": [
+                "zorto-core/theme-ember"
+            ],
+            "theme-forest": [
+                "zorto-core/theme-forest"
+            ],
+            "theme-lime": [
+                "zorto-core/theme-lime"
+            ],
+            "theme-midnight": [
+                "zorto-core/theme-midnight"
+            ],
+            "theme-mint": [
+                "zorto-core/theme-mint"
+            ],
+            "theme-ocean": [
+                "zorto-core/theme-ocean"
+            ],
+            "theme-plum": [
+                "zorto-core/theme-plum"
+            ],
+            "theme-rose": [
+                "zorto-core/theme-rose"
+            ],
+            "theme-sand": [
+                "zorto-core/theme-sand"
+            ],
+            "theme-slate": [
+                "zorto-core/theme-slate"
+            ],
+            "theme-sunset": [
+                "zorto-core/theme-sunset"
+            ],
+            "theme-zorto": [
+                "zorto-core/theme-zorto"
+            ],
+            "webapp": [
+                "dep:zorto-webapp"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorto/0.22.0/dependencies",
+            "version_downloads": "/api/v1/crates/zorto/0.22.0/downloads",
+            "authors": "/api/v1/crates/zorto/0.22.0/authors"
+        },
+        "crate_size": 38107,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "4a90d6389880d4ff0afd17cfa5791be7ee648bea0292cda280012a78b1652328",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [
+            "zorto"
+        ],
+        "edition": "2024",
+        "description": "The AI-native static site generator (SSG) with executable code blocks",
+        "homepage": "https://github.com/dkdc-io/zorto",
+        "documentation": null,
+        "repository": "https://github.com/dkdc-io/zorto",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "dkdc-io/zorto",
+            "run_id": "24321273662",
+            "sha": "1ab7768f82797fd8dc93318862ab1e2a9ddab57a"
+        },
+        "linecounts": {
+            "languages": {
+                "HTML": {
+                    "code_lines": 50,
+                    "comment_lines": 0,
+                    "files": 4
+                },
+                "Rust": {
+                    "code_lines": 1044,
+                    "comment_lines": 38,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 1094,
+            "total_comment_lines": 38
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 271374,
+        "crate": "zorq-acl",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zorq-acl/0.1.0/download",
+        "readme_path": "/api/v1/crates/zorq-acl/0.1.0/readme",
+        "updated_at": "2020-08-10T17:46:50.572104Z",
+        "created_at": "2020-08-10T17:46:50.572104Z",
+        "downloads": 1670,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorq-acl/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zorq-acl/0.1.0/downloads",
+            "authors": "/api/v1/crates/zorq-acl/0.1.0/authors"
+        },
+        "crate_size": 14411,
+        "published_by": {
+            "id": 96064,
+            "login": "mg28",
+            "name": null,
+            "avatar": "https://avatars1.githubusercontent.com/u/68793841?v=4",
+            "url": "https://github.com/mg28"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 96064,
+                    "login": "mg28",
+                    "name": null,
+                    "avatar": "https://avatars1.githubusercontent.com/u/68793841?v=4",
+                    "url": "https://github.com/mg28"
+                },
+                "time": "2020-08-10T17:46:50.572104Z"
+            }
+        ],
+        "checksum": "a286bc416690028877e0b8b301c205971a046236e7acfa477992488276378cbb",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Lightweigth and flexible access control list (ACL) implementation for privilege management.",
+        "homepage": "https://github.com/mg28/zorq-acl",
+        "documentation": "https://docs.rs/zorq-acl",
+        "repository": "https://github.com/mg28/zorq-acl",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 494,
+                    "comment_lines": 63,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 494,
+            "total_comment_lines": 63
+        }
+    }
+}

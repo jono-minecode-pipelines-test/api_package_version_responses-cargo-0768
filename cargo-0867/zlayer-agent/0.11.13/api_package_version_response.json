@@ -1,0 +1,92 @@
+{
+    "version": {
+        "id": 2353673,
+        "crate": "zlayer-agent",
+        "num": "0.11.13",
+        "dl_path": "/api/v1/crates/zlayer-agent/0.11.13/download",
+        "readme_path": "/api/v1/crates/zlayer-agent/0.11.13/readme",
+        "updated_at": "2026-05-05T18:48:46.367410Z",
+        "created_at": "2026-05-05T18:48:46.367410Z",
+        "downloads": 0,
+        "features": {
+            "default": [],
+            "docker": [
+                "dep:bollard"
+            ],
+            "hcs-runtime": [],
+            "s3": [
+                "zlayer-init-actions/s3",
+                "zlayer-registry/s3",
+                "dep:zlayer-storage"
+            ],
+            "wasm": [
+                "dep:wasmtime",
+                "dep:wasmtime-wasi",
+                "dep:wasmtime-wasi-http",
+                "dep:http",
+                "dep:http-body-util",
+                "dep:hyper",
+                "dep:anyhow",
+                "dep:sha2"
+            ],
+            "wsl": [
+                "dep:zlayer-wsl",
+                "dep:anyhow"
+            ],
+            "youki-runtime": [
+                "dep:libcontainer"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-agent/0.11.13/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-agent/0.11.13/downloads",
+            "authors": "/api/v1/crates/zlayer-agent/0.11.13/authors"
+        },
+        "crate_size": 540672,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-05-05T18:48:46.367410Z"
+            }
+        ],
+        "checksum": "103a13becc0c30b494f8589f27fd50152ed569fde7c8ca02cb88dc824f70eac2",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Container runtime agent using libcontainer/youki",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 36199,
+                    "comment_lines": 2961,
+                    "files": 44
+                }
+            },
+            "total_code_lines": 36199,
+            "total_comment_lines": 2961
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1519854,
+        "crate": "zkvmc",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zkvmc/0.0.1/download",
+        "readme_path": "/api/v1/crates/zkvmc/0.0.1/readme",
+        "updated_at": "2025-04-11T09:33:18.372578Z",
+        "created_at": "2025-04-11T09:33:18.372578Z",
+        "downloads": 689,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zkvmc/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zkvmc/0.0.1/downloads",
+            "authors": "/api/v1/crates/zkvmc/0.0.1/authors"
+        },
+        "crate_size": 20024,
+        "published_by": {
+            "id": 321547,
+            "login": "johnxudev",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/203645488?v=4",
+            "url": "https://github.com/johnxudev"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 321547,
+                    "login": "johnxudev",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/203645488?v=4",
+                    "url": "https://github.com/johnxudev"
+                },
+                "time": "2025-04-11T09:33:18.372578Z"
+            }
+        ],
+        "checksum": "769db694e43cd38880eb921fe3bcc5ed6a28b404368665405f623624f8140968",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A blazingly fast zkVM compiler and execution engine",
+        "homepage": "https://github.com/dyxushuai/zkvmc",
+        "documentation": null,
+        "repository": "https://github.com/dyxushuai/zkvmc",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 30,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 30,
+            "total_comment_lines": 0
+        }
+    }
+}

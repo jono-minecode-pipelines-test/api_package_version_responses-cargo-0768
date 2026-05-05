@@ -1,0 +1,85 @@
+{
+    "version": {
+        "id": 228548,
+        "crate": "zkutil",
+        "num": "0.1.4",
+        "dl_path": "/api/v1/crates/zkutil/0.1.4/download",
+        "readme_path": "/api/v1/crates/zkutil/0.1.4/readme",
+        "updated_at": "2020-04-07T05:43:51.846624Z",
+        "created_at": "2020-04-07T05:43:51.846624Z",
+        "downloads": 1321,
+        "features": {
+            "default": [
+                "bellman_ce/multicore"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zkutil/0.1.4/dependencies",
+            "version_downloads": "/api/v1/crates/zkutil/0.1.4/downloads",
+            "authors": "/api/v1/crates/zkutil/0.1.4/authors"
+        },
+        "crate_size": 16126,
+        "published_by": {
+            "id": 81376,
+            "login": "poma",
+            "name": "Roman Semenov",
+            "avatar": "https://avatars0.githubusercontent.com/u/2109710?v=4",
+            "url": "https://github.com/poma"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 81376,
+                    "login": "poma",
+                    "name": "Roman Semenov",
+                    "avatar": "https://avatars0.githubusercontent.com/u/2109710?v=4",
+                    "url": "https://github.com/poma"
+                },
+                "time": "2020-04-07T05:43:51.846624Z"
+            }
+        ],
+        "checksum": "04b988b3899ab324bc9c994d4881954a659191c528c44b7a1485cb114930802b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zkutil"
+        ],
+        "edition": null,
+        "description": "Library for working with circom circuits",
+        "homepage": "https://github.com/poma/zkutil",
+        "documentation": "https://docs.rs/zkutil",
+        "repository": "https://github.com/poma/zkutil",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Circom": {
+                    "code_lines": 12,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 634,
+                    "comment_lines": 4,
+                    "files": 4
+                },
+                "Shell": {
+                    "code_lines": 14,
+                    "comment_lines": 4,
+                    "files": 1
+                },
+                "Solidity": {
+                    "code_lines": 133,
+                    "comment_lines": 48,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 793,
+            "total_comment_lines": 56
+        }
+    }
+}

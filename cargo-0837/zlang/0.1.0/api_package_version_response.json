@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1710722,
+        "crate": "zlang",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zlang/0.1.0/download",
+        "readme_path": "/api/v1/crates/zlang/0.1.0/readme",
+        "updated_at": "2025-09-02T00:28:04.884825Z",
+        "created_at": "2025-09-02T00:28:04.884825Z",
+        "downloads": 305,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlang/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlang/0.1.0/downloads",
+            "authors": "/api/v1/crates/zlang/0.1.0/authors"
+        },
+        "crate_size": 4766,
+        "published_by": {
+            "id": 331551,
+            "login": "WebAppEnjoyer",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/204273686?v=4",
+            "url": "https://github.com/WebAppEnjoyer"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 331551,
+                    "login": "WebAppEnjoyer",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/204273686?v=4",
+                    "url": "https://github.com/WebAppEnjoyer"
+                },
+                "time": "2025-09-02T00:28:04.884825Z"
+            }
+        ],
+        "checksum": "8c3cdf16ed4e4ed455f158ab1343ebc2485315736b700f5f245d7294fa1aef3b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "a simple embeddable language implemented for rust, it is called zlang because it is the last embedded language a sane developer would reach for.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 313,
+                    "comment_lines": 47,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 313,
+            "total_comment_lines": 47
+        }
+    }
+}

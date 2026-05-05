@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 1134700,
+        "crate": "zl_todos",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zl_todos/0.1.2/download",
+        "readme_path": "/api/v1/crates/zl_todos/0.1.2/readme",
+        "updated_at": "2024-05-04T16:10:12.574278Z",
+        "created_at": "2024-05-04T16:10:12.574278Z",
+        "downloads": 1152,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zl_todos/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zl_todos/0.1.2/downloads",
+            "authors": "/api/v1/crates/zl_todos/0.1.2/authors"
+        },
+        "crate_size": 35500,
+        "published_by": {
+            "id": 267380,
+            "login": "ZilongYang",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/8017854?v=4",
+            "url": "https://github.com/ZilongYang"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 267380,
+                    "login": "ZilongYang",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/8017854?v=4",
+                    "url": "https://github.com/ZilongYang"
+                },
+                "time": "2024-05-04T16:10:12.574278Z"
+            }
+        ],
+        "checksum": "3ba7f5cc404ffcec8149f9a1578f26186c707ab722d11cf2e38d6b405813c244",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zl_todos"
+        ],
+        "edition": "2021",
+        "description": "A simple todo list application written in Rust",
+        "homepage": "https://github.com/ZilongYang/rust_slint_todos",
+        "documentation": null,
+        "repository": "https://github.com/ZilongYang/rust_slint_todos",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 253,
+                    "comment_lines": 27,
+                    "files": 3
+                },
+                "Slint": {
+                    "code_lines": 142,
+                    "comment_lines": 71,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 395,
+            "total_comment_lines": 98
+        }
+    }
+}

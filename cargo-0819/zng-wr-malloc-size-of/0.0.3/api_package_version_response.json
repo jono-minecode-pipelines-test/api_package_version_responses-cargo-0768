@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1110678,
+        "crate": "zng-wr-malloc-size-of",
+        "num": "0.0.3",
+        "dl_path": "/api/v1/crates/zng-wr-malloc-size-of/0.0.3/download",
+        "readme_path": "/api/v1/crates/zng-wr-malloc-size-of/0.0.3/readme",
+        "updated_at": "2024-04-10T18:46:40.096180Z",
+        "created_at": "2024-04-10T18:46:40.096180Z",
+        "downloads": 13884,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT/Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-wr-malloc-size-of/0.0.3/dependencies",
+            "version_downloads": "/api/v1/crates/zng-wr-malloc-size-of/0.0.3/downloads",
+            "authors": "/api/v1/crates/zng-wr-malloc-size-of/0.0.3/authors"
+        },
+        "crate_size": 8463,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-04-10T18:46:40.096180Z"
+            }
+        ],
+        "checksum": "abd42d4c12258caa42d939aff6b53420899ab49a9078ba693bc104c3d520e9e4",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Internal utility to measure memory usage in WebRender.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zng-ui/zng-webrender",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 349,
+                    "comment_lines": 23,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 349,
+            "total_comment_lines": 23
+        }
+    }
+}

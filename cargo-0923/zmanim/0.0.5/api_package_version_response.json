@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 206394,
+        "crate": "zmanim",
+        "num": "0.0.5",
+        "dl_path": "/api/v1/crates/zmanim/0.0.5/download",
+        "readme_path": "/api/v1/crates/zmanim/0.0.5/readme",
+        "updated_at": "2020-01-24T05:46:10.957557Z",
+        "created_at": "2020-01-24T05:46:10.957557Z",
+        "downloads": 1400,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zmanim/0.0.5/dependencies",
+            "version_downloads": "/api/v1/crates/zmanim/0.0.5/downloads",
+            "authors": "/api/v1/crates/zmanim/0.0.5/authors"
+        },
+        "crate_size": 18735,
+        "published_by": {
+            "id": 39755,
+            "login": "heca-project",
+            "name": null,
+            "avatar": "https://avatars3.githubusercontent.com/u/47336222?v=4",
+            "url": "https://github.com/heca-project"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 39755,
+                    "login": "heca-project",
+                    "name": null,
+                    "avatar": "https://avatars3.githubusercontent.com/u/47336222?v=4",
+                    "url": "https://github.com/heca-project"
+                },
+                "time": "2020-01-24T05:46:10.957557Z"
+            }
+        ],
+        "checksum": "1dab4b0b043c22093ac1af55f30286c85c4955add1fbe69a4a6a17bafe7432ba",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Hebrew Zmanim library",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/heca-project/zmanim",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2022,
+                    "comment_lines": 0,
+                    "files": 19
+                }
+            },
+            "total_code_lines": 2022,
+            "total_comment_lines": 0
+        }
+    }
+}

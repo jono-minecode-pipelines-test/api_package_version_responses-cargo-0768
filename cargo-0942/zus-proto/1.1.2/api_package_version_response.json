@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1961057,
+        "crate": "zus-proto",
+        "num": "1.1.2",
+        "dl_path": "/api/v1/crates/zus-proto/1.1.2/download",
+        "readme_path": "/api/v1/crates/zus-proto/1.1.2/readme",
+        "updated_at": "2026-01-21T11:30:52.534762Z",
+        "created_at": "2026-01-21T11:30:52.534762Z",
+        "downloads": 20,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zus-proto/1.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zus-proto/1.1.2/downloads",
+            "authors": "/api/v1/crates/zus-proto/1.1.2/authors"
+        },
+        "crate_size": 6233,
+        "published_by": {
+            "id": 380354,
+            "login": "Junfei-Wang_astg",
+            "name": "Junfei Wang",
+            "avatar": "https://avatars.githubusercontent.com/u/241197463?v=4",
+            "url": "https://github.com/Junfei-Wang_astg"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 380354,
+                    "login": "Junfei-Wang_astg",
+                    "name": "Junfei Wang",
+                    "avatar": "https://avatars.githubusercontent.com/u/241197463?v=4",
+                    "url": "https://github.com/Junfei-Wang_astg"
+                },
+                "time": "2026-01-21T11:30:52.534762Z"
+            }
+        ],
+        "checksum": "1cc7c8f186f2e5f48832d6cf068fa90a13fba6caeedcc67d4ec53c771ddfd1fe",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Protocol Buffer definitions for ZUS RPC framework",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zus-dev/zus-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 35,
+                    "comment_lines": 3,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 35,
+            "total_comment_lines": 3
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1961064,
+        "crate": "zus-discovery",
+        "num": "1.1.2",
+        "dl_path": "/api/v1/crates/zus-discovery/1.1.2/download",
+        "readme_path": "/api/v1/crates/zus-discovery/1.1.2/readme",
+        "updated_at": "2026-01-21T11:31:51.766636Z",
+        "created_at": "2026-01-21T11:31:51.766636Z",
+        "downloads": 20,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zus-discovery/1.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zus-discovery/1.1.2/downloads",
+            "authors": "/api/v1/crates/zus-discovery/1.1.2/authors"
+        },
+        "crate_size": 18363,
+        "published_by": {
+            "id": 380354,
+            "login": "Junfei-Wang_astg",
+            "name": "Junfei Wang",
+            "avatar": "https://avatars.githubusercontent.com/u/241197463?v=4",
+            "url": "https://github.com/Junfei-Wang_astg"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 380354,
+                    "login": "Junfei-Wang_astg",
+                    "name": "Junfei Wang",
+                    "avatar": "https://avatars.githubusercontent.com/u/241197463?v=4",
+                    "url": "https://github.com/Junfei-Wang_astg"
+                },
+                "time": "2026-01-21T11:31:51.766636Z"
+            }
+        ],
+        "checksum": "44e0558d6ab35c02e561335ed7392601799808ffa34e082ba4908afe30a98ead",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Service discovery client for ZUS RPC framework with ZooServer integration",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zus-dev/zus-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1073,
+                    "comment_lines": 36,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 1073,
+            "total_comment_lines": 36
+        }
+    }
+}

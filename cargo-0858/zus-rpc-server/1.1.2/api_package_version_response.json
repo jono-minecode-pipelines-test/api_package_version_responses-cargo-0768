@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1961072,
+        "crate": "zus-rpc-server",
+        "num": "1.1.2",
+        "dl_path": "/api/v1/crates/zus-rpc-server/1.1.2/download",
+        "readme_path": "/api/v1/crates/zus-rpc-server/1.1.2/readme",
+        "updated_at": "2026-01-21T11:36:29.771918Z",
+        "created_at": "2026-01-21T11:36:29.771918Z",
+        "downloads": 19,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zus-rpc-server/1.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zus-rpc-server/1.1.2/downloads",
+            "authors": "/api/v1/crates/zus-rpc-server/1.1.2/authors"
+        },
+        "crate_size": 12813,
+        "published_by": {
+            "id": 380354,
+            "login": "Junfei-Wang_astg",
+            "name": "Junfei Wang",
+            "avatar": "https://avatars.githubusercontent.com/u/241197463?v=4",
+            "url": "https://github.com/Junfei-Wang_astg"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 380354,
+                    "login": "Junfei-Wang_astg",
+                    "name": "Junfei Wang",
+                    "avatar": "https://avatars.githubusercontent.com/u/241197463?v=4",
+                    "url": "https://github.com/Junfei-Wang_astg"
+                },
+                "time": "2026-01-21T11:36:29.771918Z"
+            }
+        ],
+        "checksum": "5395124a0054b142b7f09778e692a8e066e03a683a5b0790489e299ef72dd6b2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "RPC server library for ZUS framework with async handlers",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zus-dev/zus-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 481,
+                    "comment_lines": 20,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 481,
+            "total_comment_lines": 20
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1301025,
+        "crate": "zuoti_initer",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zuoti_initer/0.1.1/download",
+        "readme_path": "/api/v1/crates/zuoti_initer/0.1.1/readme",
+        "updated_at": "2024-10-14T05:24:52.226950Z",
+        "created_at": "2024-10-14T05:24:52.226950Z",
+        "downloads": 1098,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zuoti_initer/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zuoti_initer/0.1.1/downloads",
+            "authors": "/api/v1/crates/zuoti_initer/0.1.1/authors"
+        },
+        "crate_size": 9202,
+        "published_by": {
+            "id": 294552,
+            "login": "liuluopeng",
+            "name": "liuluopeng",
+            "avatar": "https://avatars.githubusercontent.com/u/28807362?v=4",
+            "url": "https://github.com/liuluopeng"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 294552,
+                    "login": "liuluopeng",
+                    "name": "liuluopeng",
+                    "avatar": "https://avatars.githubusercontent.com/u/28807362?v=4",
+                    "url": "https://github.com/liuluopeng"
+                },
+                "time": "2024-10-14T05:24:52.226950Z"
+            }
+        ],
+        "checksum": "d06e89e288ec0d7abe66763f7462e1bd78c8499dac243b2d8ceebf0e4fd7621f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zuoti_initer"
+        ],
+        "edition": "2021",
+        "description": "rust\u505a\u9898\u7684\u521d\u59cb\u5316\u6a21\u677f, \u652f\u6301\u51fd\u6570\u98ce\u683c,\u8f93\u5165\u8f93\u51fa\u98ce\u683c",
+        "homepage": "https://github.com/liuluopeng/zuoti_initer",
+        "documentation": null,
+        "repository": "https://github.com/liuluopeng/zuoti_initer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 179,
+                    "comment_lines": 7,
+                    "files": 12
+                }
+            },
+            "total_code_lines": 179,
+            "total_comment_lines": 7
+        }
+    }
+}

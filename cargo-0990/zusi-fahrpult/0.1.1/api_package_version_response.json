@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1041090,
+        "crate": "zusi-fahrpult",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zusi-fahrpult/0.1.1/download",
+        "readme_path": "/api/v1/crates/zusi-fahrpult/0.1.1/readme",
+        "updated_at": "2024-02-06T09:19:20.670809Z",
+        "created_at": "2024-02-06T09:19:20.670809Z",
+        "downloads": 1177,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zusi-fahrpult/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zusi-fahrpult/0.1.1/downloads",
+            "authors": "/api/v1/crates/zusi-fahrpult/0.1.1/authors"
+        },
+        "crate_size": 9065,
+        "published_by": {
+            "id": 82324,
+            "login": "schjan",
+            "name": "Jannis Schaefer",
+            "avatar": "https://avatars.githubusercontent.com/u/2733990?v=4",
+            "url": "https://github.com/schjan"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 82324,
+                    "login": "schjan",
+                    "name": "Jannis Schaefer",
+                    "avatar": "https://avatars.githubusercontent.com/u/2733990?v=4",
+                    "url": "https://github.com/schjan"
+                },
+                "time": "2024-02-06T09:19:20.670809Z"
+            }
+        ],
+        "checksum": "6c05ef9b0515a97860b1cfb6492ec4cff919b2b746cf32433f3d50e074898b95",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "TCP-Client for Zusi 3 Hobby `Fahrpult`-Mode.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zusi/zusi-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 932,
+                    "comment_lines": 34,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 932,
+            "total_comment_lines": 34
+        }
+    }
+}

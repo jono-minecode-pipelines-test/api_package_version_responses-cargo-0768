@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1961145,
+        "crate": "zus-macros",
+        "num": "1.1.4",
+        "dl_path": "/api/v1/crates/zus-macros/1.1.4/download",
+        "readme_path": "/api/v1/crates/zus-macros/1.1.4/readme",
+        "updated_at": "2026-01-21T12:15:53.090436Z",
+        "created_at": "2026-01-21T12:15:53.090436Z",
+        "downloads": 253,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zus-macros/1.1.4/dependencies",
+            "version_downloads": "/api/v1/crates/zus-macros/1.1.4/downloads",
+            "authors": "/api/v1/crates/zus-macros/1.1.4/authors"
+        },
+        "crate_size": 4126,
+        "published_by": {
+            "id": 380354,
+            "login": "Junfei-Wang_astg",
+            "name": "Junfei Wang",
+            "avatar": "https://avatars.githubusercontent.com/u/241197463?v=4",
+            "url": "https://github.com/Junfei-Wang_astg"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 380354,
+                    "login": "Junfei-Wang_astg",
+                    "name": "Junfei Wang",
+                    "avatar": "https://avatars.githubusercontent.com/u/241197463?v=4",
+                    "url": "https://github.com/Junfei-Wang_astg"
+                },
+                "time": "2026-01-21T12:15:53.090436Z"
+            }
+        ],
+        "checksum": "035ba9be1ac8a3acb05155a2d145904488c2f196dc5cea84753dbe7e5a9f33f5",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Procedural macros for ZUS RPC framework service definition",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zus-dev/zus-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 221,
+                    "comment_lines": 16,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 221,
+            "total_comment_lines": 16
+        }
+    }
+}

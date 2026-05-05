@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1252835,
+        "crate": "znap",
+        "num": "0.1.36",
+        "dl_path": "/api/v1/crates/znap/0.1.36/download",
+        "readme_path": "/api/v1/crates/znap/0.1.36/readme",
+        "updated_at": "2024-08-29T15:31:40.035073Z",
+        "created_at": "2024-08-29T15:31:40.035073Z",
+        "downloads": 1306,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/znap/0.1.36/dependencies",
+            "version_downloads": "/api/v1/crates/znap/0.1.36/downloads",
+            "authors": "/api/v1/crates/znap/0.1.36/authors"
+        },
+        "crate_size": 5162,
+        "published_by": {
+            "id": 275644,
+            "login": "danmt",
+            "name": "Daniel Marin",
+            "avatar": "https://avatars.githubusercontent.com/u/7496781?v=4",
+            "url": "https://github.com/danmt"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 275644,
+                    "login": "danmt",
+                    "name": "Daniel Marin",
+                    "avatar": "https://avatars.githubusercontent.com/u/7496781?v=4",
+                    "url": "https://github.com/danmt"
+                },
+                "time": "2024-08-29T15:31:40.035073Z"
+            }
+        ],
+        "checksum": "c7178fc234eb4e461f21a241c7b1649bb8c984c12337810bfbe6fb0c0f9dd8db",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Performance-first Framework to build APIs compatible with the Solana Actions Spec.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/heavy-duty/znap",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 288,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 288,
+            "total_comment_lines": 0
+        }
+    }
+}

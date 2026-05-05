@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 248507,
+        "crate": "zomato",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zomato/0.1.1/download",
+        "readme_path": "/api/v1/crates/zomato/0.1.1/readme",
+        "updated_at": "2020-06-03T13:03:42.583777Z",
+        "created_at": "2020-06-03T13:03:42.583777Z",
+        "downloads": 1782,
+        "features": {
+            "debug-log": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MITNFA",
+        "links": {
+            "dependencies": "/api/v1/crates/zomato/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zomato/0.1.1/downloads",
+            "authors": "/api/v1/crates/zomato/0.1.1/authors"
+        },
+        "crate_size": 16094,
+        "published_by": {
+            "id": 5817,
+            "login": "Kixunil",
+            "name": "Martin Habov\u0161tiak",
+            "avatar": "https://avatars.githubusercontent.com/u/1178779?v=4",
+            "url": "https://github.com/Kixunil"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 5817,
+                    "login": "Kixunil",
+                    "name": "Martin Habov\u0161tiak",
+                    "avatar": "https://avatars.githubusercontent.com/u/1178779?v=4",
+                    "url": "https://github.com/Kixunil"
+                },
+                "time": "2020-06-03T13:03:42.583777Z"
+            }
+        ],
+        "checksum": "63bc5392117f2b82d964fb67fab33fe34329b0663531ba0360788387843681fa",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "A simple crate for retrievig daily menu from zomato.com",
+        "homepage": "https://github.com/Kixunil/zomato",
+        "documentation": null,
+        "repository": "https://github.com/Kixunil/zomato",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 114,
+                    "comment_lines": 7,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 114,
+            "total_comment_lines": 7
+        }
+    }
+}

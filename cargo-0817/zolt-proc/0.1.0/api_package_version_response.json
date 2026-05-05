@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 839358,
+        "crate": "zolt-proc",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zolt-proc/0.1.0/download",
+        "readme_path": "/api/v1/crates/zolt-proc/0.1.0/readme",
+        "updated_at": "2023-07-05T11:30:40.239903Z",
+        "created_at": "2023-07-05T11:30:40.239903Z",
+        "downloads": 1063,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-or-later",
+        "links": {
+            "dependencies": "/api/v1/crates/zolt-proc/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zolt-proc/0.1.0/downloads",
+            "authors": "/api/v1/crates/zolt-proc/0.1.0/authors"
+        },
+        "crate_size": 762,
+        "published_by": {
+            "id": 167830,
+            "login": "hwittenborn",
+            "name": "Hunter Wittenborn",
+            "avatar": "https://avatars.githubusercontent.com/u/74838472?v=4",
+            "url": "https://github.com/hwittenborn"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 167830,
+                    "login": "hwittenborn",
+                    "name": "Hunter Wittenborn",
+                    "avatar": "https://avatars.githubusercontent.com/u/74838472?v=4",
+                    "url": "https://github.com/hwittenborn"
+                },
+                "time": "2023-07-05T11:30:40.239903Z"
+            }
+        ],
+        "checksum": "03b51cbd2cf4db3c95d789f8ad6e1c14dca30ddcbd07127068be1ace837ef544",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zolt-proc"
+        ],
+        "edition": "2021",
+        "description": "Dumby description for a dumby version",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}

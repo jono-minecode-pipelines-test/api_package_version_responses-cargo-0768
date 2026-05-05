@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1282626,
+        "crate": "zwuevi",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zwuevi/0.1.1/download",
+        "readme_path": "/api/v1/crates/zwuevi/0.1.1/readme",
+        "updated_at": "2024-09-27T06:35:33.661293Z",
+        "created_at": "2024-09-27T06:35:33.661293Z",
+        "downloads": 1200,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "EUPL-1.2",
+        "links": {
+            "dependencies": "/api/v1/crates/zwuevi/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zwuevi/0.1.1/downloads",
+            "authors": "/api/v1/crates/zwuevi/0.1.1/authors"
+        },
+        "crate_size": 22291,
+        "published_by": {
+            "id": 176311,
+            "login": "baer-devl",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/16636588?v=4",
+            "url": "https://github.com/baer-devl"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 176311,
+                    "login": "baer-devl",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/16636588?v=4",
+                    "url": "https://github.com/baer-devl"
+                },
+                "time": "2024-09-27T06:35:33.661293Z"
+            }
+        ],
+        "checksum": "b129838e0725eb17abe52fe0e6566b0a701275a6d6cd55b92c070894b645ecf0",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Library to communicate with the Tor control socket to generate ephemeral onion services",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/mobilesec/zwuevi",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 873,
+                    "comment_lines": 113,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 873,
+            "total_comment_lines": 113
+        }
+    }
+}

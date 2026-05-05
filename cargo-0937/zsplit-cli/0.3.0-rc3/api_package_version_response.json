@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 700503,
+        "crate": "zsplit-cli",
+        "num": "0.3.0-rc3",
+        "dl_path": "/api/v1/crates/zsplit-cli/0.3.0-rc3/download",
+        "readme_path": "/api/v1/crates/zsplit-cli/0.3.0-rc3/readme",
+        "updated_at": "2023-01-10T19:38:00.302548Z",
+        "created_at": "2023-01-10T18:51:49.408465Z",
+        "downloads": 1070,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-3.0-or-later",
+        "links": {
+            "dependencies": "/api/v1/crates/zsplit-cli/0.3.0-rc3/dependencies",
+            "version_downloads": "/api/v1/crates/zsplit-cli/0.3.0-rc3/downloads",
+            "authors": "/api/v1/crates/zsplit-cli/0.3.0-rc3/authors"
+        },
+        "crate_size": 11379,
+        "published_by": {
+            "id": 113130,
+            "login": "TheAlgorythm",
+            "name": "zSchoen",
+            "avatar": "https://avatars.githubusercontent.com/u/36081522?v=4",
+            "url": "https://github.com/TheAlgorythm"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 113130,
+                    "login": "TheAlgorythm",
+                    "name": "zSchoen",
+                    "avatar": "https://avatars.githubusercontent.com/u/36081522?v=4",
+                    "url": "https://github.com/TheAlgorythm"
+                },
+                "time": "2023-01-10T18:51:49.408465Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 113130,
+                    "login": "TheAlgorythm",
+                    "name": "zSchoen",
+                    "avatar": "https://avatars.githubusercontent.com/u/36081522?v=4",
+                    "url": "https://github.com/TheAlgorythm"
+                },
+                "time": "2023-01-10T19:38:00.307405Z"
+            }
+        ],
+        "checksum": "fc3277788f05f5b2f23d85c2704fc5e7479f7afd9985ef079bfe71af3cac6754",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zsplit"
+        ],
+        "edition": "2018",
+        "description": "Split text into multiple files by line",
+        "homepage": "https://zschoen.dev/projects/zsplit",
+        "documentation": null,
+        "repository": "https://github.com/TheAlgorythm/zsplit",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 266,
+                    "comment_lines": 4,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 266,
+            "total_comment_lines": 4
+        }
+    }
+}

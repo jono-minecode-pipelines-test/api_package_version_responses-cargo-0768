@@ -1,0 +1,67 @@
+{
+    "version": {
+        "id": 1453087,
+        "crate": "zst_compress",
+        "num": "0.1.10",
+        "dl_path": "/api/v1/crates/zst_compress/0.1.10/download",
+        "readme_path": "/api/v1/crates/zst_compress/0.1.10/readme",
+        "updated_at": "2025-02-20T06:13:00.825951Z",
+        "created_at": "2025-02-20T06:13:00.825951Z",
+        "downloads": 654,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-2.0-or-later",
+        "links": {
+            "dependencies": "/api/v1/crates/zst_compress/0.1.10/dependencies",
+            "version_downloads": "/api/v1/crates/zst_compress/0.1.10/downloads",
+            "authors": "/api/v1/crates/zst_compress/0.1.10/authors"
+        },
+        "crate_size": 6346,
+        "published_by": {
+            "id": 253345,
+            "login": "Zelin2001",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/52376510?v=4",
+            "url": "https://github.com/Zelin2001"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 253345,
+                    "login": "Zelin2001",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/52376510?v=4",
+                    "url": "https://github.com/Zelin2001"
+                },
+                "time": "2025-02-20T06:13:00.825951Z"
+            }
+        ],
+        "checksum": "20b232ee305f8a4162b3259b7113207962429e5d6d3a716a87726ecb5c896489",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zst_compress",
+            "zst_extract"
+        ],
+        "edition": "2021",
+        "description": "Helper tool for `tar --zstd`",
+        "homepage": null,
+        "documentation": "https://docs.rs/zst-compress",
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 298,
+                    "comment_lines": 17,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 298,
+            "total_comment_lines": 17
+        }
+    }
+}

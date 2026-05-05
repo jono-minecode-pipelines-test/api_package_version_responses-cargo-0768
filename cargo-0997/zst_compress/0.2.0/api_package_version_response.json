@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1566037,
+        "crate": "zst_compress",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zst_compress/0.2.0/download",
+        "readme_path": "/api/v1/crates/zst_compress/0.2.0/readme",
+        "updated_at": "2025-05-16T04:47:39.586889Z",
+        "created_at": "2025-05-16T04:47:39.586889Z",
+        "downloads": 501,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-2.0-or-later",
+        "links": {
+            "dependencies": "/api/v1/crates/zst_compress/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zst_compress/0.2.0/downloads",
+            "authors": "/api/v1/crates/zst_compress/0.2.0/authors"
+        },
+        "crate_size": 14870,
+        "published_by": {
+            "id": 253345,
+            "login": "Zelin2001",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/52376510?v=4",
+            "url": "https://github.com/Zelin2001"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 253345,
+                    "login": "Zelin2001",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/52376510?v=4",
+                    "url": "https://github.com/Zelin2001"
+                },
+                "time": "2025-05-16T04:47:39.586889Z"
+            }
+        ],
+        "checksum": "ea5e74528ba5f4423bcaca0b8c260e83f1a6f9ace766aeecbce847a424173905",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zst_compress"
+        ],
+        "edition": "2024",
+        "description": "Batch compress to or decompress dir/*.tar.zst",
+        "homepage": null,
+        "documentation": "https://docs.rs/zst-compress",
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 423,
+                    "comment_lines": 29,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 423,
+            "total_comment_lines": 29
+        }
+    }
+}

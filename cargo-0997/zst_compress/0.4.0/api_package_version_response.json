@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 1803655,
+        "crate": "zst_compress",
+        "num": "0.4.0",
+        "dl_path": "/api/v1/crates/zst_compress/0.4.0/download",
+        "readme_path": "/api/v1/crates/zst_compress/0.4.0/readme",
+        "updated_at": "2025-11-01T08:55:23.882665Z",
+        "created_at": "2025-11-01T08:55:23.882665Z",
+        "downloads": 37,
+        "features": {
+            "default": [],
+            "regex": [
+                "dep:regex"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "GPL-2.0+",
+        "links": {
+            "dependencies": "/api/v1/crates/zst_compress/0.4.0/dependencies",
+            "version_downloads": "/api/v1/crates/zst_compress/0.4.0/downloads",
+            "authors": "/api/v1/crates/zst_compress/0.4.0/authors"
+        },
+        "crate_size": 17751,
+        "published_by": {
+            "id": 253345,
+            "login": "Zelin2001",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/52376510?v=4",
+            "url": "https://github.com/Zelin2001"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 253345,
+                    "login": "Zelin2001",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/52376510?v=4",
+                    "url": "https://github.com/Zelin2001"
+                },
+                "time": "2025-11-01T08:55:23.882665Z"
+            }
+        ],
+        "checksum": "53283e25fe8405a798309c32237a27263782d10e35a62b5822c4c82e60b0883c",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zst_compress"
+        ],
+        "edition": "2024",
+        "description": "Batch compress to or decompress dir/*.tar.zst",
+        "homepage": null,
+        "documentation": "https://docs.rs/zst-compress",
+        "repository": "https://github.com/Zelin2001/zst_compress",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 518,
+                    "comment_lines": 33,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 518,
+            "total_comment_lines": 33
+        }
+    }
+}

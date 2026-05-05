@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1348923,
+        "crate": "zsnip",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zsnip/0.2.0/download",
+        "readme_path": "/api/v1/crates/zsnip/0.2.0/readme",
+        "updated_at": "2024-11-22T08:51:54.075008Z",
+        "created_at": "2024-11-22T08:51:54.075008Z",
+        "downloads": 1653,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsnip/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zsnip/0.2.0/downloads",
+            "authors": "/api/v1/crates/zsnip/0.2.0/authors"
+        },
+        "crate_size": 5621,
+        "published_by": {
+            "id": 133086,
+            "login": "ikey4u",
+            "name": "zhq",
+            "avatar": "https://avatars.githubusercontent.com/u/12681575?v=4",
+            "url": "https://github.com/ikey4u"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 133086,
+                    "login": "ikey4u",
+                    "name": "zhq",
+                    "avatar": "https://avatars.githubusercontent.com/u/12681575?v=4",
+                    "url": "https://github.com/ikey4u"
+                },
+                "time": "2024-11-22T08:51:54.075008Z"
+            }
+        ],
+        "checksum": "296845e342a5277abf60702fe39c09afada5aa08905102d48f020bc6ccfdd093",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A library that contains frequently used rust code snippets",
+        "homepage": "https://github.com/ikey4u/zsnip",
+        "documentation": "https://docs.rs/zsnip/latest",
+        "repository": "https://github.com/ikey4u/zsnip",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 516,
+                    "comment_lines": 3,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 516,
+            "total_comment_lines": 3
+        }
+    }
+}

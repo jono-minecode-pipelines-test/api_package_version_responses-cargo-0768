@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1673864,
+        "crate": "ztcli",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/ztcli/0.1.0/download",
+        "readme_path": "/api/v1/crates/ztcli/0.1.0/readme",
+        "updated_at": "2025-08-06T17:45:35.061283Z",
+        "created_at": "2025-08-06T17:45:35.061283Z",
+        "downloads": 416,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/ztcli/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/ztcli/0.1.0/downloads",
+            "authors": "/api/v1/crates/ztcli/0.1.0/authors"
+        },
+        "crate_size": 23330,
+        "published_by": {
+            "id": 331474,
+            "login": "koitococo",
+            "name": "Koi to Coco",
+            "avatar": "https://avatars.githubusercontent.com/u/50075711?v=4",
+            "url": "https://github.com/koitococo"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 331474,
+                    "login": "koitococo",
+                    "name": "Koi to Coco",
+                    "avatar": "https://avatars.githubusercontent.com/u/50075711?v=4",
+                    "url": "https://github.com/koitococo"
+                },
+                "time": "2025-08-06T17:45:35.061283Z"
+            }
+        ],
+        "checksum": "25945f39715380d696a2801379bc74b989c3c52d4da8eb146126e94c0d0ec7b0",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "ztcli"
+        ],
+        "edition": "2024",
+        "description": "Third-party ZeroTier CLI for managing networks and nodes, maybe more powerful than the official one.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/koitococo/ztcli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 875,
+                    "comment_lines": 1,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 875,
+            "total_comment_lines": 1
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "version": {
+        "id": 1656606,
+        "crate": "zstd-sys-rs",
+        "num": "1.5.7-try1",
+        "dl_path": "/api/v1/crates/zstd-sys-rs/1.5.7-try1/download",
+        "readme_path": "/api/v1/crates/zstd-sys-rs/1.5.7-try1/readme",
+        "updated_at": "2025-07-25T01:39:29.477561Z",
+        "created_at": "2025-07-25T01:39:29.477561Z",
+        "downloads": 359,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "BSD-3-Clause",
+        "links": {
+            "dependencies": "/api/v1/crates/zstd-sys-rs/1.5.7-try1/dependencies",
+            "version_downloads": "/api/v1/crates/zstd-sys-rs/1.5.7-try1/downloads",
+            "authors": "/api/v1/crates/zstd-sys-rs/1.5.7-try1/authors"
+        },
+        "crate_size": 738578,
+        "published_by": {
+            "id": 181172,
+            "login": "Ignalina",
+            "name": "Rickard Ernst Bj\u00f6rn Lundin",
+            "avatar": "https://avatars.githubusercontent.com/u/33436048?v=4",
+            "url": "https://github.com/Ignalina"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 181172,
+                    "login": "Ignalina",
+                    "name": "Rickard Ernst Bj\u00f6rn Lundin",
+                    "avatar": "https://avatars.githubusercontent.com/u/33436048?v=4",
+                    "url": "https://github.com/Ignalina"
+                },
+                "time": "2025-07-25T01:39:29.477561Z"
+            }
+        ],
+        "checksum": "e732d0c82b40abbc8c9e7517d0d1fecbd02743e0f86a7082f03f6abf9467cdc9",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Low-level Rust bindings to statically linked zstd v1.5.7",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Ignalina/zstd-sys-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C": {
+                    "code_lines": 40719,
+                    "comment_lines": 10565,
+                    "files": 40
+                },
+                "C Header": {
+                    "code_lines": 9363,
+                    "comment_lines": 8982,
+                    "files": 50
+                },
+                "Rust": {
+                    "code_lines": 68,
+                    "comment_lines": 5,
+                    "files": 2
+                },
+                "Visual Studio Project": {
+                    "code_lines": 181,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Visual Studio Solution": {
+                    "code_lines": 25,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 50356,
+            "total_comment_lines": 19552
+        }
+    }
+}

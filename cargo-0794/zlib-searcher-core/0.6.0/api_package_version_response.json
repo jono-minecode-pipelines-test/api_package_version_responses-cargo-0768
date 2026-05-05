@@ -1,0 +1,85 @@
+{
+    "version": {
+        "id": 673409,
+        "crate": "zlib-searcher-core",
+        "num": "0.6.0",
+        "dl_path": "/api/v1/crates/zlib-searcher-core/0.6.0/download",
+        "readme_path": "/api/v1/crates/zlib-searcher-core/0.6.0/readme",
+        "updated_at": "2023-01-08T01:02:22.318150Z",
+        "created_at": "2022-11-30T04:42:01.667981Z",
+        "downloads": 1203,
+        "features": {
+            "best-size": [
+                "tantivy/brotli-compression"
+            ],
+            "best-speed": [
+                "tantivy/lz4-compression"
+            ],
+            "default": [
+                "best-size"
+            ]
+        },
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlib-searcher-core/0.6.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlib-searcher-core/0.6.0/downloads",
+            "authors": "/api/v1/crates/zlib-searcher-core/0.6.0/authors"
+        },
+        "crate_size": 3382,
+        "published_by": {
+            "id": 100977,
+            "login": "zu1k",
+            "name": "zu1k",
+            "avatar": "https://avatars.githubusercontent.com/u/42370281?v=4",
+            "url": "https://github.com/zu1k"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 100977,
+                    "login": "zu1k",
+                    "name": "zu1k",
+                    "avatar": "https://avatars.githubusercontent.com/u/42370281?v=4",
+                    "url": "https://github.com/zu1k"
+                },
+                "time": "2022-11-30T04:42:01.667981Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 100977,
+                    "login": "zu1k",
+                    "name": "zu1k",
+                    "avatar": "https://avatars.githubusercontent.com/u/42370281?v=4",
+                    "url": "https://github.com/zu1k"
+                },
+                "time": "2023-01-08T01:02:22.321501Z"
+            }
+        ],
+        "checksum": "bbcfc701e780f9c7f84cf30f8441dec5125f363dfc77035e36d8141c1926a240",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "search z-library index.",
+        "homepage": "https://github.com/zu1k/zlib-searcher",
+        "documentation": null,
+        "repository": "https://github.com/zu1k/zlib-searcher",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 237,
+                    "comment_lines": 2,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 237,
+            "total_comment_lines": 2
+        }
+    }
+}

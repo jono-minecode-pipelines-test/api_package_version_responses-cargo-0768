@@ -1,0 +1,111 @@
+{
+    "version": {
+        "id": 2345389,
+        "crate": "zlink",
+        "num": "0.5.0",
+        "dl_path": "/api/v1/crates/zlink/0.5.0/download",
+        "readme_path": "/api/v1/crates/zlink/0.5.0/readme",
+        "updated_at": "2026-05-03T22:25:26.837359Z",
+        "created_at": "2026-05-03T22:25:26.837359Z",
+        "downloads": 26,
+        "features": {
+            "default": [
+                "tokio",
+                "service",
+                "proxy",
+                "tracing"
+            ],
+            "defmt": [
+                "zlink-tokio?/defmt",
+                "zlink-smol?/defmt"
+            ],
+            "idl": [
+                "zlink-tokio?/idl",
+                "zlink-smol?/idl"
+            ],
+            "idl-parse": [
+                "zlink-tokio?/idl-parse",
+                "zlink-smol?/idl-parse"
+            ],
+            "introspection": [
+                "zlink-tokio?/introspection",
+                "zlink-smol?/introspection"
+            ],
+            "proxy": [
+                "zlink-tokio?/proxy",
+                "zlink-smol?/proxy"
+            ],
+            "server": [
+                "zlink-tokio?/server",
+                "zlink-smol?/server"
+            ],
+            "service": [
+                "server",
+                "introspection",
+                "zlink-tokio?/service",
+                "zlink-smol?/service"
+            ],
+            "smol": [
+                "dep:zlink-smol"
+            ],
+            "tokio": [
+                "dep:zlink-tokio"
+            ],
+            "tracing": [
+                "zlink-tokio?/tracing",
+                "zlink-smol?/tracing"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlink/0.5.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlink/0.5.0/downloads",
+            "authors": "/api/v1/crates/zlink/0.5.0/authors"
+        },
+        "crate_size": 34277,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2026-05-03T22:25:26.837359Z"
+            }
+        ],
+        "checksum": "9b895b99588dceb73f4d349b8323eabad9a97d48ce83698d475c7223727c6148",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Async Varlink API",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/z-galaxy/zlink/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 18,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 18,
+            "total_comment_lines": 0
+        }
+    }
+}

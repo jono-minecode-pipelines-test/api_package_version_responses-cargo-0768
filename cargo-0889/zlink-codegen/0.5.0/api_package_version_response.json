@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2345390,
+        "crate": "zlink-codegen",
+        "num": "0.5.0",
+        "dl_path": "/api/v1/crates/zlink-codegen/0.5.0/download",
+        "readme_path": "/api/v1/crates/zlink-codegen/0.5.0/readme",
+        "updated_at": "2026-05-03T22:25:35.009424Z",
+        "created_at": "2026-05-03T22:25:35.009424Z",
+        "downloads": 11,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlink-codegen/0.5.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlink-codegen/0.5.0/downloads",
+            "authors": "/api/v1/crates/zlink-codegen/0.5.0/authors"
+        },
+        "crate_size": 21072,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2026-05-03T22:25:35.009424Z"
+            }
+        ],
+        "checksum": "ae8ac3ba5db15d7bce52a4d2272226b82b6f700e0ad0593c5c0131f6aaed67b4",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [
+            "zlink-codegen"
+        ],
+        "edition": "2024",
+        "description": "Utility to generate zlink code from varlink IDL files",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/z-galaxy/zlink/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 688,
+                    "comment_lines": 75,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 688,
+            "total_comment_lines": 75
+        }
+    }
+}

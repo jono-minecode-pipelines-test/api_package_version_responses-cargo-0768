@@ -1,0 +1,86 @@
+{
+    "version": {
+        "id": 1851343,
+        "crate": "zlink-smol",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zlink-smol/0.2.0/download",
+        "readme_path": "/api/v1/crates/zlink-smol/0.2.0/readme",
+        "updated_at": "2025-11-30T16:30:19.009389Z",
+        "created_at": "2025-11-30T16:30:19.009389Z",
+        "downloads": 3004,
+        "features": {
+            "defmt": [
+                "zlink-core/defmt"
+            ],
+            "idl": [
+                "zlink-core/idl"
+            ],
+            "idl-parse": [
+                "zlink-core/idl-parse"
+            ],
+            "introspection": [
+                "zlink-core/introspection"
+            ],
+            "proxy": [
+                "zlink-core/proxy"
+            ],
+            "server": [
+                "zlink-core/server"
+            ],
+            "tracing": [
+                "zlink-core/tracing"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlink-smol/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlink-smol/0.2.0/downloads",
+            "authors": "/api/v1/crates/zlink-smol/0.2.0/authors"
+        },
+        "crate_size": 17631,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2025-11-30T16:30:19.009389Z"
+            }
+        ],
+        "checksum": "72ec157812fcde1a3f45fea27db5a6fa1868ecbf5e11644166ab4caf5e3546dd",
+        "rust_version": "1.83",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "zlink library for the smol runtime",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/z-galaxy/zlink/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 344,
+                    "comment_lines": 25,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 344,
+            "total_comment_lines": 25
+        }
+    }
+}

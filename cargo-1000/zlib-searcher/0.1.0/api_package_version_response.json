@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 669839,
+        "crate": "zlib-searcher",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zlib-searcher/0.1.0/download",
+        "readme_path": "/api/v1/crates/zlib-searcher/0.1.0/readme",
+        "updated_at": "2022-12-06T02:30:55.893606Z",
+        "created_at": "2022-11-24T07:28:23.299600Z",
+        "downloads": 1194,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlib-searcher/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zlib-searcher/0.1.0/downloads",
+            "authors": "/api/v1/crates/zlib-searcher/0.1.0/authors"
+        },
+        "crate_size": 18859,
+        "published_by": {
+            "id": 100977,
+            "login": "zu1k",
+            "name": "zu1k",
+            "avatar": "https://avatars.githubusercontent.com/u/42370281?v=4",
+            "url": "https://github.com/zu1k"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 100977,
+                    "login": "zu1k",
+                    "name": "zu1k",
+                    "avatar": "https://avatars.githubusercontent.com/u/42370281?v=4",
+                    "url": "https://github.com/zu1k"
+                },
+                "time": "2022-11-24T07:28:23.299600Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 100977,
+                    "login": "zu1k",
+                    "name": "zu1k",
+                    "avatar": "https://avatars.githubusercontent.com/u/42370281?v=4",
+                    "url": "https://github.com/zu1k"
+                },
+                "time": "2022-12-06T02:30:55.896585Z"
+            }
+        ],
+        "checksum": "6767e254add0f9b559570ad74267a16d27bd0a560cf87a6fafcdad882b8e5b98",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zlib-searcher"
+        ],
+        "edition": "2021",
+        "description": "search z-library index.",
+        "homepage": "https://github.com/zu1k/zlib-searcher",
+        "documentation": null,
+        "repository": "https://github.com/zu1k/zlib-searcher",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 219,
+                    "comment_lines": 1,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 219,
+            "total_comment_lines": 1
+        }
+    }
+}

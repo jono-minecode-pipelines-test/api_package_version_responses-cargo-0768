@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 1562041,
+        "crate": "zlink",
+        "num": "0.0.1-alpha.1",
+        "dl_path": "/api/v1/crates/zlink/0.0.1-alpha.1/download",
+        "readme_path": "/api/v1/crates/zlink/0.0.1-alpha.1/readme",
+        "updated_at": "2025-05-13T14:59:00.248713Z",
+        "created_at": "2025-05-13T14:59:00.248713Z",
+        "downloads": 515,
+        "features": {
+            "default": [
+                "tokio"
+            ],
+            "tokio": [
+                "dep:zlink-tokio"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlink/0.0.1-alpha.1/dependencies",
+            "version_downloads": "/api/v1/crates/zlink/0.0.1-alpha.1/downloads",
+            "authors": "/api/v1/crates/zlink/0.0.1-alpha.1/authors"
+        },
+        "crate_size": 10912,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2025-05-13T14:59:00.248713Z"
+            }
+        ],
+        "checksum": "067db0468bae496b167778785cdd1e16474b2491201020894f91851bc8433800",
+        "rust_version": "1.82",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Async Varlink API",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zeenix/zlink/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 15,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 15,
+            "total_comment_lines": 0
+        }
+    }
+}

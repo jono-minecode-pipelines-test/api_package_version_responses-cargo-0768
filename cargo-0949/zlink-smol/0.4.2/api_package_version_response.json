@@ -1,0 +1,96 @@
+{
+    "version": {
+        "id": 2311197,
+        "crate": "zlink-smol",
+        "num": "0.4.2",
+        "dl_path": "/api/v1/crates/zlink-smol/0.4.2/download",
+        "readme_path": "/api/v1/crates/zlink-smol/0.4.2/readme",
+        "updated_at": "2026-04-26T17:28:07.634613Z",
+        "created_at": "2026-04-26T17:28:07.634613Z",
+        "downloads": 855,
+        "features": {
+            "default": [
+                "service",
+                "proxy",
+                "tracing"
+            ],
+            "defmt": [
+                "zlink-core/defmt"
+            ],
+            "idl": [
+                "zlink-core/idl"
+            ],
+            "idl-parse": [
+                "zlink-core/idl-parse"
+            ],
+            "introspection": [
+                "zlink-core/introspection"
+            ],
+            "proxy": [
+                "zlink-core/proxy"
+            ],
+            "server": [
+                "zlink-core/server"
+            ],
+            "service": [
+                "server",
+                "introspection",
+                "zlink-core/service"
+            ],
+            "tracing": [
+                "zlink-core/tracing"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zlink-smol/0.4.2/dependencies",
+            "version_downloads": "/api/v1/crates/zlink-smol/0.4.2/downloads",
+            "authors": "/api/v1/crates/zlink-smol/0.4.2/authors"
+        },
+        "crate_size": 18175,
+        "published_by": {
+            "id": 6423,
+            "login": "zeenix",
+            "name": "Zeeshan Ali Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+            "url": "https://github.com/zeenix"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 6423,
+                    "login": "zeenix",
+                    "name": "Zeeshan Ali Khan",
+                    "avatar": "https://avatars.githubusercontent.com/u/2027?v=4",
+                    "url": "https://github.com/zeenix"
+                },
+                "time": "2026-04-26T17:28:07.634613Z"
+            }
+        ],
+        "checksum": "9ae5be32f6b11365ce8d2f392cabed03c134fed2f90e83f5d342098ffd824bf6",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "zlink library for the smol runtime",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/z-galaxy/zlink/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 314,
+                    "comment_lines": 23,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 314,
+            "total_comment_lines": 23
+        }
+    }
+}

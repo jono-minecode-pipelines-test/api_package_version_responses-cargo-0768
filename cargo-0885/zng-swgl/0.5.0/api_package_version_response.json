@@ -1,0 +1,79 @@
+{
+    "version": {
+        "id": 1814545,
+        "crate": "zng-swgl",
+        "num": "0.5.0",
+        "dl_path": "/api/v1/crates/zng-swgl/0.5.0/download",
+        "readme_path": "/api/v1/crates/zng-swgl/0.5.0/readme",
+        "updated_at": "2025-11-08T01:39:24.493760Z",
+        "created_at": "2025-11-08T01:39:24.493760Z",
+        "downloads": 6062,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-swgl/0.5.0/dependencies",
+            "version_downloads": "/api/v1/crates/zng-swgl/0.5.0/downloads",
+            "authors": "/api/v1/crates/zng-swgl/0.5.0/authors"
+        },
+        "crate_size": 220829,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-11-08T01:39:24.493760Z"
+            }
+        ],
+        "checksum": "9ee0eb5259b2b14d1b671a153a7f5db7cab0ca1a5f132c365a73693d3f19723b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Software OpenGL implementation for WebRender.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C Header": {
+                    "code_lines": 9041,
+                    "comment_lines": 1701,
+                    "files": 9
+                },
+                "C++": {
+                    "code_lines": 2646,
+                    "comment_lines": 192,
+                    "files": 1
+                },
+                "GLSL": {
+                    "code_lines": 6271,
+                    "comment_lines": 1556,
+                    "files": 52
+                },
+                "Rust": {
+                    "code_lines": 2340,
+                    "comment_lines": 151,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 20298,
+            "total_comment_lines": 3600
+        }
+    }
+}

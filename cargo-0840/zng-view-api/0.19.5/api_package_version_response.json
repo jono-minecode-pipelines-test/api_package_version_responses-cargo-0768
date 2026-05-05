@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 2122935,
+        "crate": "zng-view-api",
+        "num": "0.19.5",
+        "dl_path": "/api/v1/crates/zng-view-api/0.19.5/download",
+        "readme_path": "/api/v1/crates/zng-view-api/0.19.5/readme",
+        "updated_at": "2026-03-14T20:06:52.615137Z",
+        "created_at": "2026-03-14T20:06:52.615137Z",
+        "downloads": 168,
+        "features": {
+            "ipc": [
+                "zng-task/ipc"
+            ],
+            "var": [
+                "dep:zng-var"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-view-api/0.19.5/dependencies",
+            "version_downloads": "/api/v1/crates/zng-view-api/0.19.5/downloads",
+            "authors": "/api/v1/crates/zng-view-api/0.19.5/authors"
+        },
+        "crate_size": 108041,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2026-03-14T20:06:52.615137Z"
+            }
+        ],
+        "checksum": "56fa137c73bfb35d15befbac46756222e075fadc68d394b5f29c3918a9a29443",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_view_api",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7229,
+                    "comment_lines": 56,
+                    "files": 22
+                }
+            },
+            "total_code_lines": 7229,
+            "total_comment_lines": 56
+        }
+    }
+}

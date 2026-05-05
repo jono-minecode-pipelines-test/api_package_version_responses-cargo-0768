@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1904004,
+        "crate": "zqa-pdftools",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zqa-pdftools/0.1.0/download",
+        "readme_path": "/api/v1/crates/zqa-pdftools/0.1.0/readme",
+        "updated_at": "2025-12-26T22:57:56.993050Z",
+        "created_at": "2025-12-26T22:57:56.993050Z",
+        "downloads": 109,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zqa-pdftools/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zqa-pdftools/0.1.0/downloads",
+            "authors": "/api/v1/crates/zqa-pdftools/0.1.0/authors"
+        },
+        "crate_size": 828177,
+        "published_by": {
+            "id": 377331,
+            "login": "yrahul3910",
+            "name": "Rahul Yedida",
+            "avatar": "https://avatars.githubusercontent.com/u/8930954?v=4",
+            "url": "https://github.com/yrahul3910"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 377331,
+                    "login": "yrahul3910",
+                    "name": "Rahul Yedida",
+                    "avatar": "https://avatars.githubusercontent.com/u/8930954?v=4",
+                    "url": "https://github.com/yrahul3910"
+                },
+                "time": "2025-12-26T22:57:56.993050Z"
+            }
+        ],
+        "checksum": "d0421e0b12c0a129a4fe300fb16bec78e4ded2aaeeecd76963e175fdb51644ac",
+        "rust_version": "1.91",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A work-in-progress PDF parser tailored to CS-academic papers.",
+        "homepage": "https://github.com/zotero-rag/zotero-rag",
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 893,
+                    "comment_lines": 159,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 893,
+            "total_comment_lines": 159
+        }
+    }
+}

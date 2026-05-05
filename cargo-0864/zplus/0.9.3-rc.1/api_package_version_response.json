@@ -1,0 +1,52 @@
+{
+    "version": {
+        "id": 136523,
+        "crate": "zplus",
+        "num": "0.9.3-rc.1",
+        "dl_path": "/api/v1/crates/zplus/0.9.3-rc.1/download",
+        "readme_path": "/api/v1/crates/zplus/0.9.3-rc.1/readme",
+        "updated_at": "2019-03-01T01:57:50.064531Z",
+        "created_at": "2019-03-01T01:57:50.064531Z",
+        "downloads": 1902,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zplus/0.9.3-rc.1/dependencies",
+            "version_downloads": "/api/v1/crates/zplus/0.9.3-rc.1/downloads",
+            "authors": "/api/v1/crates/zplus/0.9.3-rc.1/authors"
+        },
+        "crate_size": 216166,
+        "published_by": {
+            "id": 27208,
+            "login": "jake-ruyi",
+            "name": null,
+            "avatar": "https://avatars3.githubusercontent.com/u/38336907?v=4",
+            "url": "https://github.com/jake-ruyi"
+        },
+        "audit_actions": [],
+        "checksum": "71be306b8d781d2be3d287ec6f41b47919834c57a2e9614089b6062675ecae2d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Subor Z+/Ruyi SDK",
+        "homepage": "http://www.playzplus.com/",
+        "documentation": null,
+        "repository": "https://github.com/subor/sdk",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 99408,
+                    "comment_lines": 3048,
+                    "files": 35
+                }
+            },
+            "total_code_lines": 99408,
+            "total_comment_lines": 3048
+        }
+    }
+}

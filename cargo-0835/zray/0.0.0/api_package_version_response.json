@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2265543,
+        "crate": "zray",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zray/0.0.0/download",
+        "readme_path": "/api/v1/crates/zray/0.0.0/readme",
+        "updated_at": "2026-04-16T17:27:00.196574Z",
+        "created_at": "2026-04-16T17:27:00.196574Z",
+        "downloads": 16,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zray/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zray/0.0.0/downloads",
+            "authors": "/api/v1/crates/zray/0.0.0/authors"
+        },
+        "crate_size": 20246,
+        "published_by": {
+            "id": 347285,
+            "login": "glennw-mt",
+            "name": "Glenn Wallace",
+            "avatar": "https://avatars.githubusercontent.com/u/34867563?v=4",
+            "url": "https://github.com/glennw-mt"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 347285,
+                    "login": "glennw-mt",
+                    "name": "Glenn Wallace",
+                    "avatar": "https://avatars.githubusercontent.com/u/34867563?v=4",
+                    "url": "https://github.com/glennw-mt"
+                },
+                "time": "2026-04-16T17:27:00.196574Z"
+            }
+        ],
+        "checksum": "b094a828aad21eb31990e5d111689a24b3415b7971f1345292c5438c2af6667b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A modular GPU renderer supporting voxel and rasterization pipelines",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/glennw-mt/zray",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 123,
+                    "comment_lines": 0,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 123,
+            "total_comment_lines": 0
+        }
+    }
+}

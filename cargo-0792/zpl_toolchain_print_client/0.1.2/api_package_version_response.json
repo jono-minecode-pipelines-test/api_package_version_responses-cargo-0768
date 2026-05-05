@@ -1,0 +1,78 @@
+{
+    "version": {
+        "id": 2013671,
+        "crate": "zpl_toolchain_print_client",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zpl_toolchain_print_client/0.1.2/download",
+        "readme_path": "/api/v1/crates/zpl_toolchain_print_client/0.1.2/readme",
+        "updated_at": "2026-02-10T01:20:39.197277Z",
+        "created_at": "2026-02-10T01:20:39.197277Z",
+        "downloads": 23,
+        "features": {
+            "default": [
+                "tcp"
+            ],
+            "serial": [
+                "dep:serialport"
+            ],
+            "tcp": [
+                "dep:socket2"
+            ],
+            "usb": [
+                "dep:nusb",
+                "dep:futures-lite"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zpl_toolchain_print_client/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zpl_toolchain_print_client/0.1.2/downloads",
+            "authors": "/api/v1/crates/zpl_toolchain_print_client/0.1.2/authors"
+        },
+        "crate_size": 30673,
+        "published_by": {
+            "id": 387920,
+            "login": "trevordcampbell",
+            "name": "Trevor Campbell",
+            "avatar": "https://avatars.githubusercontent.com/u/55037769?v=4",
+            "url": "https://github.com/trevordcampbell"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 387920,
+                    "login": "trevordcampbell",
+                    "name": "Trevor Campbell",
+                    "avatar": "https://avatars.githubusercontent.com/u/55037769?v=4",
+                    "url": "https://github.com/trevordcampbell"
+                },
+                "time": "2026-02-10T01:20:39.197277Z"
+            }
+        ],
+        "checksum": "f14b27dc1baae08317a10cceade20f6ec7cf1086ba000e163dc921ef32ce0ad2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Print client for sending ZPL to Zebra and ZPL-compatible printers over TCP, USB, and serial",
+        "homepage": "https://github.com/trevordcampbell/zpl-toolchain",
+        "documentation": null,
+        "repository": "https://github.com/trevordcampbell/zpl-toolchain",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2255,
+                    "comment_lines": 115,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 2255,
+            "total_comment_lines": 115
+        }
+    }
+}

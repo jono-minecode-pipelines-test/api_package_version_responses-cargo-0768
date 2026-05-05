@@ -1,0 +1,97 @@
+{
+    "version": {
+        "id": 1384250,
+        "crate": "zrand",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zrand/0.1.0/download",
+        "readme_path": "/api/v1/crates/zrand/0.1.0/readme",
+        "updated_at": "2024-12-24T07:46:15.977247Z",
+        "created_at": "2024-12-23T09:26:21.191603Z",
+        "downloads": 651,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zrand/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zrand/0.1.0/downloads",
+            "authors": "/api/v1/crates/zrand/0.1.0/authors"
+        },
+        "crate_size": 2143,
+        "published_by": {
+            "id": 179917,
+            "login": "zhangguichuan",
+            "name": "zhangguichuan",
+            "avatar": "https://avatars.githubusercontent.com/u/53673384?v=4",
+            "url": "https://github.com/zhangguichuan"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 179917,
+                    "login": "zhangguichuan",
+                    "name": "zhangguichuan",
+                    "avatar": "https://avatars.githubusercontent.com/u/53673384?v=4",
+                    "url": "https://github.com/zhangguichuan"
+                },
+                "time": "2024-12-23T09:26:21.191603Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 258543,
+                    "login": "acerDebugman",
+                    "name": "gcalgoz",
+                    "avatar": "https://avatars.githubusercontent.com/u/1754709?v=4",
+                    "url": "https://github.com/acerDebugman"
+                },
+                "time": "2024-12-24T07:45:51.721737Z"
+            },
+            {
+                "action": "unyank",
+                "user": {
+                    "id": 258543,
+                    "login": "acerDebugman",
+                    "name": "gcalgoz",
+                    "avatar": "https://avatars.githubusercontent.com/u/1754709?v=4",
+                    "url": "https://github.com/acerDebugman"
+                },
+                "time": "2024-12-24T07:46:11.944183Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 258543,
+                    "login": "acerDebugman",
+                    "name": "gcalgoz",
+                    "avatar": "https://avatars.githubusercontent.com/u/1754709?v=4",
+                    "url": "https://github.com/acerDebugman"
+                },
+                "time": "2024-12-24T07:46:15.979291Z"
+            }
+        ],
+        "checksum": "16b032723f714c6a62f80cff9a38e2fa87ec50a86dda92df367bbab015c5a4ed",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "rand num generator, use xorshift algo",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 70,
+                    "comment_lines": 5,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 70,
+            "total_comment_lines": 5
+        }
+    }
+}

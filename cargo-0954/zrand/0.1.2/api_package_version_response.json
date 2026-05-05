@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1385089,
+        "crate": "zrand",
+        "num": "0.1.2",
+        "dl_path": "/api/v1/crates/zrand/0.1.2/download",
+        "readme_path": "/api/v1/crates/zrand/0.1.2/readme",
+        "updated_at": "2024-12-24T08:08:43.092753Z",
+        "created_at": "2024-12-24T08:08:43.092753Z",
+        "downloads": 690,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zrand/0.1.2/dependencies",
+            "version_downloads": "/api/v1/crates/zrand/0.1.2/downloads",
+            "authors": "/api/v1/crates/zrand/0.1.2/authors"
+        },
+        "crate_size": 2264,
+        "published_by": {
+            "id": 258543,
+            "login": "acerDebugman",
+            "name": "gcalgoz",
+            "avatar": "https://avatars.githubusercontent.com/u/1754709?v=4",
+            "url": "https://github.com/acerDebugman"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 258543,
+                    "login": "acerDebugman",
+                    "name": "gcalgoz",
+                    "avatar": "https://avatars.githubusercontent.com/u/1754709?v=4",
+                    "url": "https://github.com/acerDebugman"
+                },
+                "time": "2024-12-24T08:08:43.092753Z"
+            }
+        ],
+        "checksum": "37dd3efec5d6fa8eedecc247fd68b131399fe1b456a318fdeb8294bb7ac34185",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "rand num generator, use xorshift algo",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 78,
+                    "comment_lines": 5,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 78,
+            "total_comment_lines": 5
+        }
+    }
+}

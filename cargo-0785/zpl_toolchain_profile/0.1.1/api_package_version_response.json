@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2008323,
+        "crate": "zpl_toolchain_profile",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/zpl_toolchain_profile/0.1.1/download",
+        "readme_path": "/api/v1/crates/zpl_toolchain_profile/0.1.1/readme",
+        "updated_at": "2026-02-08T05:42:42.892714Z",
+        "created_at": "2026-02-08T05:42:42.892714Z",
+        "downloads": 35,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zpl_toolchain_profile/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/zpl_toolchain_profile/0.1.1/downloads",
+            "authors": "/api/v1/crates/zpl_toolchain_profile/0.1.1/authors"
+        },
+        "crate_size": 8312,
+        "published_by": {
+            "id": 387920,
+            "login": "trevordcampbell",
+            "name": "Trevor Campbell",
+            "avatar": "https://avatars.githubusercontent.com/u/55037769?v=4",
+            "url": "https://github.com/trevordcampbell"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 387920,
+                    "login": "trevordcampbell",
+                    "name": "Trevor Campbell",
+                    "avatar": "https://avatars.githubusercontent.com/u/55037769?v=4",
+                    "url": "https://github.com/trevordcampbell"
+                },
+                "time": "2026-02-08T05:42:42.892714Z"
+            }
+        ],
+        "checksum": "43929a7204e8956871c2607693a5bcdde627c4b8917039bd60eb95eb72314fd7",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Printer profile loading and validation for the ZPL toolchain",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/trevordcampbell/zpl-toolchain",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 510,
+                    "comment_lines": 10,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 510,
+            "total_comment_lines": 10
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1115083,
+        "crate": "zng-l10n-scraper",
+        "num": "0.2.4",
+        "dl_path": "/api/v1/crates/zng-l10n-scraper/0.2.4/download",
+        "readme_path": "/api/v1/crates/zng-l10n-scraper/0.2.4/readme",
+        "updated_at": "2024-05-31T14:28:05.915240Z",
+        "created_at": "2024-04-14T21:28:25.695135Z",
+        "downloads": 1083,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-l10n-scraper/0.2.4/dependencies",
+            "version_downloads": "/api/v1/crates/zng-l10n-scraper/0.2.4/downloads",
+            "authors": "/api/v1/crates/zng-l10n-scraper/0.2.4/authors"
+        },
+        "crate_size": 10060,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-04-14T21:28:25.695135Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-05-31T14:28:05.917465Z"
+            }
+        ],
+        "checksum": "e27234a533c282b34397ab1af23498648d6d71461f0e7f2ae73a3da83dcb9a35",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zng-l10n-scraper"
+        ],
+        "edition": "2021",
+        "description": "Command-line tool that scraps l10n text from Zng apps code.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_l10n_scraper",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 763,
+                    "comment_lines": 1,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 763,
+            "total_comment_lines": 1
+        }
+    }
+}

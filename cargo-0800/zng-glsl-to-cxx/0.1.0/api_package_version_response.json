@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1106324,
+        "crate": "zng-glsl-to-cxx",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zng-glsl-to-cxx/0.1.0/download",
+        "readme_path": "/api/v1/crates/zng-glsl-to-cxx/0.1.0/readme",
+        "updated_at": "2024-04-07T14:01:30.417557Z",
+        "created_at": "2024-04-07T14:01:30.417557Z",
+        "downloads": 1144,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-glsl-to-cxx/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zng-glsl-to-cxx/0.1.0/downloads",
+            "authors": "/api/v1/crates/zng-glsl-to-cxx/0.1.0/authors"
+        },
+        "crate_size": 45419,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-04-07T14:01:30.417557Z"
+            }
+        ],
+        "checksum": "8d93b76449d60ffdf3b301eeb4e33801a7197bb69ecfffcd018e23e6553b1354",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zng-glsl-to-cxx"
+        ],
+        "edition": "2018",
+        "description": "Translates GLSL to vectorized C++.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7426,
+                    "comment_lines": 242,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 7426,
+            "total_comment_lines": 242
+        }
+    }
+}

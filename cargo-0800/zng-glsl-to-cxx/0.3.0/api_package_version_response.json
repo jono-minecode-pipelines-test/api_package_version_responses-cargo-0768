@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1814539,
+        "crate": "zng-glsl-to-cxx",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zng-glsl-to-cxx/0.3.0/download",
+        "readme_path": "/api/v1/crates/zng-glsl-to-cxx/0.3.0/readme",
+        "updated_at": "2025-11-08T01:36:03.891873Z",
+        "created_at": "2025-11-08T01:36:03.891873Z",
+        "downloads": 6162,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MPL-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-glsl-to-cxx/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zng-glsl-to-cxx/0.3.0/downloads",
+            "authors": "/api/v1/crates/zng-glsl-to-cxx/0.3.0/authors"
+        },
+        "crate_size": 45066,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-11-08T01:36:03.891873Z"
+            }
+        ],
+        "checksum": "31beeb85743510f7838c1c2a328f055fad3ff4e156cf1486fe07c5b1cd89f8e1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Translates GLSL to vectorized C++.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7486,
+                    "comment_lines": 239,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 7486,
+            "total_comment_lines": 239
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 1106606,
+        "crate": "zng-l10n-scraper",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zng-l10n-scraper/0.2.0/download",
+        "readme_path": "/api/v1/crates/zng-l10n-scraper/0.2.0/readme",
+        "updated_at": "2024-05-31T14:28:01.428586Z",
+        "created_at": "2024-04-07T20:14:27.221261Z",
+        "downloads": 1088,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-l10n-scraper/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zng-l10n-scraper/0.2.0/downloads",
+            "authors": "/api/v1/crates/zng-l10n-scraper/0.2.0/authors"
+        },
+        "crate_size": 9639,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-04-07T20:14:27.221261Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2024-05-31T14:28:01.430848Z"
+            }
+        ],
+        "checksum": "0e9ec525f5b53853f57c6a3ffa276f8991cc7d03f0021f9ed518a258d6f63858",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zng-l10n-scraper"
+        ],
+        "edition": "2021",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://docs.rs/zng-l10n-scraper",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 761,
+                    "comment_lines": 1,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 761,
+            "total_comment_lines": 1
+        }
+    }
+}

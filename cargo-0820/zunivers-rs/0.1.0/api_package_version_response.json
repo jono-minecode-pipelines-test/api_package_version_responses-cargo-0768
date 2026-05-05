@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1032530,
+        "crate": "zunivers-rs",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zunivers-rs/0.1.0/download",
+        "readme_path": "/api/v1/crates/zunivers-rs/0.1.0/readme",
+        "updated_at": "2024-01-30T00:01:58.152306Z",
+        "created_at": "2024-01-30T00:01:58.152306Z",
+        "downloads": 1202,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zunivers-rs/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zunivers-rs/0.1.0/downloads",
+            "authors": "/api/v1/crates/zunivers-rs/0.1.0/authors"
+        },
+        "crate_size": 4733,
+        "published_by": {
+            "id": 251824,
+            "login": "AlexPresso",
+            "name": "Alex'",
+            "avatar": "https://avatars.githubusercontent.com/u/15526962?v=4",
+            "url": "https://github.com/AlexPresso"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 251824,
+                    "login": "AlexPresso",
+                    "name": "Alex'",
+                    "avatar": "https://avatars.githubusercontent.com/u/15526962?v=4",
+                    "url": "https://github.com/AlexPresso"
+                },
+                "time": "2024-01-30T00:01:58.152306Z"
+            }
+        ],
+        "checksum": "4fdb7dfda08953b669bb08d83e95ff046a65a12ed738afa218af734d5714ad1f",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "zunivers-rs is an unofficial Rust library to interface with the zunivers (https://zunivers.zerator.com/) game API.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 429,
+                    "comment_lines": 0,
+                    "files": 14
+                }
+            },
+            "total_code_lines": 429,
+            "total_comment_lines": 0
+        }
+    }
+}

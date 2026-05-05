@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 2267465,
+        "crate": "zng-var",
+        "num": "0.14.0",
+        "dl_path": "/api/v1/crates/zng-var/0.14.0/download",
+        "readme_path": "/api/v1/crates/zng-var/0.14.0/readme",
+        "updated_at": "2026-04-17T05:49:16.999110Z",
+        "created_at": "2026-04-17T05:49:16.999110Z",
+        "downloads": 306,
+        "features": {
+            "type_names": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-var/0.14.0/dependencies",
+            "version_downloads": "/api/v1/crates/zng-var/0.14.0/downloads",
+            "authors": "/api/v1/crates/zng-var/0.14.0/authors"
+        },
+        "crate_size": 78682,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2026-04-17T05:49:16.999110Z"
+            }
+        ],
+        "checksum": "a2d0a7469699970cae75c04f3d20aee8b49d63d4a2d0976087b0d1d61b312f06",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_var",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7061,
+                    "comment_lines": 176,
+                    "files": 22
+                }
+            },
+            "total_code_lines": 7061,
+            "total_comment_lines": 176
+        }
+    }
+}

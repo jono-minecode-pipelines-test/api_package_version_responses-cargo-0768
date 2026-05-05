@@ -1,0 +1,81 @@
+{
+    "version": {
+        "id": 1568877,
+        "crate": "zng-var",
+        "num": "0.7.0",
+        "dl_path": "/api/v1/crates/zng-var/0.7.0/download",
+        "readme_path": "/api/v1/crates/zng-var/0.7.0/readme",
+        "updated_at": "2025-05-19T00:41:00.510692Z",
+        "created_at": "2025-05-18T21:39:37.903112Z",
+        "downloads": 442,
+        "features": {
+            "debug_default": [],
+            "default": [
+                "debug_default"
+            ],
+            "dyn_closure": []
+        },
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0 OR MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zng-var/0.7.0/dependencies",
+            "version_downloads": "/api/v1/crates/zng-var/0.7.0/downloads",
+            "authors": "/api/v1/crates/zng-var/0.7.0/authors"
+        },
+        "crate_size": 75194,
+        "published_by": {
+            "id": 80740,
+            "login": "SamRodri",
+            "name": "Samuel",
+            "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+            "url": "https://github.com/SamRodri"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-05-18T21:39:37.903112Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 80740,
+                    "login": "SamRodri",
+                    "name": "Samuel",
+                    "avatar": "https://avatars.githubusercontent.com/u/449925?v=4",
+                    "url": "https://github.com/SamRodri"
+                },
+                "time": "2025-05-19T00:41:00.513843Z"
+            }
+        ],
+        "checksum": "89a1695f8e4d44cbd9d060d0b8784c4066396095bc8192adcd3253af5c72a0f3",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Part of the zng project.",
+        "homepage": null,
+        "documentation": "https://zng-ui.github.io/doc/zng_var",
+        "repository": "https://github.com/zng-ui/zng",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 8466,
+                    "comment_lines": 121,
+                    "files": 22
+                }
+            },
+            "total_code_lines": 8466,
+            "total_comment_lines": 121
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1203018,
+        "crate": "zksync_snapshots_applier",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zksync_snapshots_applier/0.1.0/download",
+        "readme_path": "/api/v1/crates/zksync_snapshots_applier/0.1.0/readme",
+        "updated_at": "2024-07-14T04:21:58.888574Z",
+        "created_at": "2024-07-14T04:21:58.888574Z",
+        "downloads": 1640,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_snapshots_applier/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_snapshots_applier/0.1.0/downloads",
+            "authors": "/api/v1/crates/zksync_snapshots_applier/0.1.0/authors"
+        },
+        "crate_size": 17181,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-07-14T04:21:58.888574Z"
+            }
+        ],
+        "checksum": "691cadb8d5fd2cc062361f90b88375b03915f0a31d37bb2af51cdac4609e86d7",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Library for applying ZKsync state snapshots",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 907,
+                    "comment_lines": 21,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 907,
+            "total_comment_lines": 21
+        }
+    }
+}

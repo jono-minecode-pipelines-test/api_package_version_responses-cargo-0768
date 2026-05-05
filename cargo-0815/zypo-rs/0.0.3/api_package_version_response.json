@@ -1,0 +1,59 @@
+{
+    "version": {
+        "id": 180867,
+        "crate": "zypo-rs",
+        "num": "0.0.3",
+        "dl_path": "/api/v1/crates/zypo-rs/0.0.3/download",
+        "readme_path": "/api/v1/crates/zypo-rs/0.0.3/readme",
+        "updated_at": "2019-10-07T11:36:57.169731Z",
+        "created_at": "2019-10-07T11:36:57.169731Z",
+        "downloads": 1932,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zypo-rs/0.0.3/dependencies",
+            "version_downloads": "/api/v1/crates/zypo-rs/0.0.3/downloads",
+            "authors": "/api/v1/crates/zypo-rs/0.0.3/authors"
+        },
+        "crate_size": 26303,
+        "published_by": {
+            "id": 54984,
+            "login": "Owez",
+            "name": "Owen Griffiths",
+            "avatar": "https://avatars.githubusercontent.com/u/30081702?v=4",
+            "url": "https://github.com/Owez"
+        },
+        "audit_actions": [],
+        "checksum": "7cb51de210fa532b105eb77e2ff9e1ed77c5cee8ff6e7c2a65922b3d3bdf3eda",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zypo-rs"
+        ],
+        "edition": "2018",
+        "description": "The reference compiler for the Zypo Programming Language.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "LALRPOP": {
+                    "code_lines": 143,
+                    "comment_lines": 0,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 209,
+                    "comment_lines": 0,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 352,
+            "total_comment_lines": 0
+        }
+    }
+}

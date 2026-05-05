@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2028510,
+        "crate": "zynq7000-embassy",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zynq7000-embassy/0.1.0/download",
+        "readme_path": "/api/v1/crates/zynq7000-embassy/0.1.0/readme",
+        "updated_at": "2026-02-14T18:25:12.226414Z",
+        "created_at": "2026-02-14T18:25:12.226414Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zynq7000-embassy/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zynq7000-embassy/0.1.0/downloads",
+            "authors": "/api/v1/crates/zynq7000-embassy/0.1.0/authors"
+        },
+        "crate_size": 12262,
+        "published_by": {
+            "id": 124403,
+            "login": "robamu",
+            "name": "Robin Mueller",
+            "avatar": "https://avatars.githubusercontent.com/u/31589589?v=4",
+            "url": "https://github.com/robamu"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 124403,
+                    "login": "robamu",
+                    "name": "Robin Mueller",
+                    "avatar": "https://avatars.githubusercontent.com/u/31589589?v=4",
+                    "url": "https://github.com/robamu"
+                },
+                "time": "2026-02-14T18:25:12.226414Z"
+            }
+        ],
+        "checksum": "3f955f7dbd84d97baa74698606f48da1d1e091cf4fb907c042d325a331509fa5",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Embassy-rs support for the Zynq7000 family of SoCs",
+        "homepage": "https://egit.irs.uni-stuttgart.de/rust/zynq7000-rs",
+        "documentation": null,
+        "repository": "https://egit.irs.uni-stuttgart.de/rust/zynq7000-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 118,
+                    "comment_lines": 15,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 118,
+            "total_comment_lines": 15
+        }
+    }
+}

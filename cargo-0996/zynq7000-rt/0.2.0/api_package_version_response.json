@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 2028490,
+        "crate": "zynq7000-rt",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zynq7000-rt/0.2.0/download",
+        "readme_path": "/api/v1/crates/zynq7000-rt/0.2.0/readme",
+        "updated_at": "2026-02-14T18:13:47.914777Z",
+        "created_at": "2026-02-14T18:13:47.914777Z",
+        "downloads": 25,
+        "features": {
+            "default": [
+                "rt"
+            ],
+            "rt": [
+                "dep:aarch32-rt"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zynq7000-rt/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zynq7000-rt/0.2.0/downloads",
+            "authors": "/api/v1/crates/zynq7000-rt/0.2.0/authors"
+        },
+        "crate_size": 28959,
+        "published_by": {
+            "id": 124403,
+            "login": "robamu",
+            "name": "Robin Mueller",
+            "avatar": "https://avatars.githubusercontent.com/u/31589589?v=4",
+            "url": "https://github.com/robamu"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 124403,
+                    "login": "robamu",
+                    "name": "Robin Mueller",
+                    "avatar": "https://avatars.githubusercontent.com/u/31589589?v=4",
+                    "url": "https://github.com/robamu"
+                },
+                "time": "2026-02-14T18:13:47.914777Z"
+            }
+        ],
+        "checksum": "3a6446ad40ead6754a1f576abcb018245a5e10eb8011f7a38093f80b67c829de",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Run-time support for the Zynq7000 family of SoCs for running bare-metal applications",
+        "homepage": "https://egit.irs.uni-stuttgart.de/rust/zynq7000-rs",
+        "documentation": null,
+        "repository": "https://egit.irs.uni-stuttgart.de/rust/zynq7000-rs",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4472,
+                    "comment_lines": 24,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 4472,
+            "total_comment_lines": 24
+        }
+    }
+}

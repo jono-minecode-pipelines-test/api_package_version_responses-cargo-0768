@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1780072,
+        "crate": "zyphrs",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zyphrs/0.0.1/download",
+        "readme_path": "/api/v1/crates/zyphrs/0.0.1/readme",
+        "updated_at": "2025-10-17T23:17:08.380728Z",
+        "created_at": "2025-10-17T23:17:08.380728Z",
+        "downloads": 208,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zyphrs/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zyphrs/0.0.1/downloads",
+            "authors": "/api/v1/crates/zyphrs/0.0.1/authors"
+        },
+        "crate_size": 14461,
+        "published_by": {
+            "id": 362706,
+            "login": "kinshuksinghbist",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/120293778?v=4",
+            "url": "https://github.com/kinshuksinghbist"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 362706,
+                    "login": "kinshuksinghbist",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/120293778?v=4",
+                    "url": "https://github.com/kinshuksinghbist"
+                },
+                "time": "2025-10-17T23:17:08.380728Z"
+            }
+        ],
+        "checksum": "fb502802745c1e1b676451975f46b4b232e53397586cd7dacda776da1ee799ba",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zyphrs"
+        ],
+        "edition": "2021",
+        "description": "A fast, cache-enabled HTTP server framework built on Hyper and Tokio.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 457,
+                    "comment_lines": 25,
+                    "files": 13
+                }
+            },
+            "total_code_lines": 457,
+            "total_comment_lines": 25
+        }
+    }
+}

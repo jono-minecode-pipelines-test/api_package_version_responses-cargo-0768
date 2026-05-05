@@ -1,0 +1,46 @@
+{
+    "version": {
+        "id": 46144,
+        "crate": "zyre",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zyre/0.2.0/download",
+        "readme_path": "/api/v1/crates/zyre/0.2.0/readme",
+        "updated_at": "2017-11-30T02:43:47.432894Z",
+        "created_at": "2017-02-23T03:38:04.140435Z",
+        "downloads": 2438,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zyre/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zyre/0.2.0/downloads",
+            "authors": "/api/v1/crates/zyre/0.2.0/authors"
+        },
+        "crate_size": 2994,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "dc2c011b8cd757e02687dcd930653ea4256380573de71c29819fcf8e1a6ad9e2",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "High-level abstraction around the Zyre library.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/Schoonology/rust-zyre",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 343,
+                    "comment_lines": 3,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 343,
+            "total_comment_lines": 3
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1020181,
+        "crate": "zygisk-v4",
+        "num": "0.0.0",
+        "dl_path": "/api/v1/crates/zygisk-v4/0.0.0/download",
+        "readme_path": "/api/v1/crates/zygisk-v4/0.0.0/readme",
+        "updated_at": "2024-01-20T09:40:43.593640Z",
+        "created_at": "2024-01-20T09:40:43.593640Z",
+        "downloads": 1431,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zygisk-v4/0.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zygisk-v4/0.0.0/downloads",
+            "authors": "/api/v1/crates/zygisk-v4/0.0.0/authors"
+        },
+        "crate_size": 16415,
+        "published_by": {
+            "id": 213318,
+            "login": "shadow3aaa",
+            "name": "shadow3",
+            "avatar": "https://avatars.githubusercontent.com/u/74781933?v=4",
+            "url": "https://github.com/shadow3aaa"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 213318,
+                    "login": "shadow3aaa",
+                    "name": "shadow3",
+                    "avatar": "https://avatars.githubusercontent.com/u/74781933?v=4",
+                    "url": "https://github.com/shadow3aaa"
+                },
+                "time": "2024-01-20T09:40:43.593640Z"
+            }
+        ],
+        "checksum": "93bef7951e08df26bc3c267f5fe4653f5e1922d9ca2a03dcf4bcfef26a1ff37e",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "zygisk bindings",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "C++ Header": {
+                    "code_lines": 145,
+                    "comment_lines": 195,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 5375,
+                    "comment_lines": 1,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 5520,
+            "total_comment_lines": 196
+        }
+    }
+}

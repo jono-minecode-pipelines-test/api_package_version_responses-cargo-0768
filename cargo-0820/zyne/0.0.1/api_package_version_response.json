@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 680138,
+        "crate": "zyne",
+        "num": "0.0.1",
+        "dl_path": "/api/v1/crates/zyne/0.0.1/download",
+        "readme_path": "/api/v1/crates/zyne/0.0.1/readme",
+        "updated_at": "2022-12-09T23:37:18.464462Z",
+        "created_at": "2022-12-09T23:37:18.464462Z",
+        "downloads": 1526,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zyne/0.0.1/dependencies",
+            "version_downloads": "/api/v1/crates/zyne/0.0.1/downloads",
+            "authors": "/api/v1/crates/zyne/0.0.1/authors"
+        },
+        "crate_size": 1154,
+        "published_by": {
+            "id": 180178,
+            "login": "gilbertoalbino",
+            "name": "Gilberto Albino",
+            "avatar": "https://avatars.githubusercontent.com/u/992236?v=4",
+            "url": "https://github.com/gilbertoalbino"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 180178,
+                    "login": "gilbertoalbino",
+                    "name": "Gilberto Albino",
+                    "avatar": "https://avatars.githubusercontent.com/u/992236?v=4",
+                    "url": "https://github.com/gilbertoalbino"
+                },
+                "time": "2022-12-09T23:37:18.464462Z"
+            }
+        ],
+        "checksum": "794ead424b2465d7a37af1f05a1af93438abb3977471233e97ff18cfb177b50b",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zyne"
+        ],
+        "edition": "2021",
+        "description": "A Web Framework for Blacksmiths",
+        "homepage": "https://zyne.com.br/",
+        "documentation": "https://docs.rs/zyne",
+        "repository": "https://github.com/zynedev/zyne",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 3,
+            "total_comment_lines": 0
+        }
+    }
+}

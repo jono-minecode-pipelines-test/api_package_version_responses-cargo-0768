@@ -1,0 +1,127 @@
+{
+    "version": {
+        "id": 1759150,
+        "crate": "zpack",
+        "num": "0.1.13",
+        "dl_path": "/api/v1/crates/zpack/0.1.13/download",
+        "readme_path": "/api/v1/crates/zpack/0.1.13/readme",
+        "updated_at": "2025-10-04T14:33:26.705303Z",
+        "created_at": "2025-10-04T14:33:26.705303Z",
+        "downloads": 232,
+        "features": {
+            "cheap_errors": [],
+            "default": [
+                "tracing_release_max_level_off"
+            ],
+            "mpi": [
+                "dep:mpi"
+            ],
+            "tracing_max_level_debug": [
+                "tracing/max_level_debug"
+            ],
+            "tracing_max_level_error": [
+                "tracing/max_level_error"
+            ],
+            "tracing_max_level_info": [
+                "tracing/max_level_info"
+            ],
+            "tracing_max_level_off": [
+                "tracing/max_level_off"
+            ],
+            "tracing_max_level_trace": [
+                "tracing/max_level_trace"
+            ],
+            "tracing_max_level_warn": [
+                "tracing/max_level_warn"
+            ],
+            "tracing_release_max_level_debug": [
+                "tracing/release_max_level_debug"
+            ],
+            "tracing_release_max_level_error": [
+                "tracing/release_max_level_error"
+            ],
+            "tracing_release_max_level_info": [
+                "tracing/release_max_level_info"
+            ],
+            "tracing_release_max_level_off": [
+                "tracing/release_max_level_off"
+            ],
+            "tracing_release_max_level_trace": [
+                "tracing/release_max_level_trace"
+            ],
+            "tracing_release_max_level_warn": [
+                "tracing/release_max_level_warn"
+            ],
+            "z3_bundled": [
+                "z3/bundled"
+            ],
+            "z3_gh_release": [
+                "z3/gh-release"
+            ],
+            "z3_static_link": [
+                "z3/static-link-z3"
+            ],
+            "z3_vcpkg": [
+                "z3/vcpkg"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zpack/0.1.13/dependencies",
+            "version_downloads": "/api/v1/crates/zpack/0.1.13/downloads",
+            "authors": "/api/v1/crates/zpack/0.1.13/authors"
+        },
+        "crate_size": 46635,
+        "published_by": {
+            "id": 141561,
+            "login": "Pencilcaseman",
+            "name": "Toby Davis",
+            "avatar": "https://avatars.githubusercontent.com/u/52111185?v=4",
+            "url": "https://github.com/Pencilcaseman"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 141561,
+                    "login": "Pencilcaseman",
+                    "name": "Toby Davis",
+                    "avatar": "https://avatars.githubusercontent.com/u/52111185?v=4",
+                    "url": "https://github.com/Pencilcaseman"
+                },
+                "time": "2025-10-04T14:33:26.705303Z"
+            }
+        ],
+        "checksum": "6c970eba4befdf3992c05f6e75a86993a9659a2461089f829e9feef62b96ae40",
+        "rust_version": "1.85.1",
+        "has_lib": true,
+        "bin_names": [
+            "zpack"
+        ],
+        "edition": "2024",
+        "description": "A fast, configurable package manager which builds programs from source",
+        "homepage": "https://github.com/Pencilcaseman/zpack",
+        "documentation": null,
+        "repository": "https://github.com/Pencilcaseman/zpack",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Python": {
+                    "code_lines": 17,
+                    "comment_lines": 3,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 1441,
+                    "comment_lines": 103,
+                    "files": 16
+                }
+            },
+            "total_code_lines": 1458,
+            "total_comment_lines": 106
+        }
+    }
+}

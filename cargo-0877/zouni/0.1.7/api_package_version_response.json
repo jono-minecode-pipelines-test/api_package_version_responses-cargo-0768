@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 1735125,
+        "crate": "zouni",
+        "num": "0.1.7",
+        "dl_path": "/api/v1/crates/zouni/0.1.7/download",
+        "readme_path": "/api/v1/crates/zouni/0.1.7/readme",
+        "updated_at": "2025-09-18T09:40:19.439991Z",
+        "created_at": "2025-09-18T09:40:19.439991Z",
+        "downloads": 272,
+        "features": {
+            "default": [],
+            "webview2": [
+                "dep:webview2-com",
+                "dep:serde_json"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zouni/0.1.7/dependencies",
+            "version_downloads": "/api/v1/crates/zouni/0.1.7/downloads",
+            "authors": "/api/v1/crates/zouni/0.1.7/authors"
+        },
+        "crate_size": 30521,
+        "published_by": {
+            "id": 273497,
+            "login": "mrdkprj",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/37989181?v=4",
+            "url": "https://github.com/mrdkprj"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 273497,
+                    "login": "mrdkprj",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/37989181?v=4",
+                    "url": "https://github.com/mrdkprj"
+                },
+                "time": "2025-09-18T09:40:19.439991Z"
+            }
+        ],
+        "checksum": "45554422ace29a2c838faef38dcc0bbd1f8d17e2ecb86d5914bfa30977e29753",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Variety of functions that `std` does not offer or `std` offers but are not satisfiable",
+        "homepage": null,
+        "documentation": "https://docs.rs/zouni/",
+        "repository": "https://github.com/mrdkprj/zouni",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2814,
+                    "comment_lines": 38,
+                    "files": 19
+                }
+            },
+            "total_code_lines": 2814,
+            "total_comment_lines": 38
+        }
+    }
+}

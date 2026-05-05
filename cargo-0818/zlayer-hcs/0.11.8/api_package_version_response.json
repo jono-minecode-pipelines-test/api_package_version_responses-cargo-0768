@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2327579,
+        "crate": "zlayer-hcs",
+        "num": "0.11.8",
+        "dl_path": "/api/v1/crates/zlayer-hcs/0.11.8/download",
+        "readme_path": "/api/v1/crates/zlayer-hcs/0.11.8/readme",
+        "updated_at": "2026-04-30T02:38:20.792971Z",
+        "created_at": "2026-04-30T02:38:20.792971Z",
+        "downloads": 8,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-hcs/0.11.8/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-hcs/0.11.8/downloads",
+            "authors": "/api/v1/crates/zlayer-hcs/0.11.8/authors"
+        },
+        "crate_size": 36957,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-30T02:38:20.792971Z"
+            }
+        ],
+        "checksum": "1838cf28c0341c2ef5d80894d2a005c417936e89e13fa7dec16c75a5de9fca2e",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Safe Rust wrapper for the Windows Host Compute Service (HCS)",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1207,
+                    "comment_lines": 253,
+                    "files": 10
+                }
+            },
+            "total_code_lines": 1207,
+            "total_comment_lines": 253
+        }
+    }
+}

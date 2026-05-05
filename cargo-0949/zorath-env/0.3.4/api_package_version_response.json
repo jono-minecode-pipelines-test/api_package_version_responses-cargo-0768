@@ -1,0 +1,58 @@
+{
+    "version": {
+        "id": 1953778,
+        "crate": "zorath-env",
+        "num": "0.3.4",
+        "dl_path": "/api/v1/crates/zorath-env/0.3.4/download",
+        "readme_path": "/api/v1/crates/zorath-env/0.3.4/readme",
+        "updated_at": "2026-01-18T09:52:48.237268Z",
+        "created_at": "2026-01-18T09:52:48.237268Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorath-env/0.3.4/dependencies",
+            "version_downloads": "/api/v1/crates/zorath-env/0.3.4/downloads",
+            "authors": "/api/v1/crates/zorath-env/0.3.4/authors"
+        },
+        "crate_size": 1584949,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "085267f72ce14ed859849a7eabca3e33762bde6c68ee67998eb8a35cbee75c48",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zenv"
+        ],
+        "edition": "2021",
+        "description": "Fast CLI for .env validation against JSON schemas. Type checking, secret detection, remote schemas, env diff, docs generation. CI-friendly exit codes. Language-agnostic, single-binary CLI.",
+        "homepage": "https://zorl.cloud/zenv",
+        "documentation": "https://github.com/zorl-engine/zorath-env/wiki",
+        "repository": "https://github.com/zorl-engine/zorath-env",
+        "trustpub_data": {
+            "provider": "github",
+            "repository": "zorl-engine/zorath-env",
+            "run_id": "21109762513",
+            "sha": "c6da52bbdc3718f505f7ea182775224c3d5cb436"
+        },
+        "linecounts": {
+            "languages": {
+                "JavaScript": {
+                    "code_lines": 152,
+                    "comment_lines": 12,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 4327,
+                    "comment_lines": 229,
+                    "files": 13
+                }
+            },
+            "total_code_lines": 4479,
+            "total_comment_lines": 241
+        }
+    }
+}

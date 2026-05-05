@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1639328,
+        "crate": "zorg",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zorg/0.1.0/download",
+        "readme_path": "/api/v1/crates/zorg/0.1.0/readme",
+        "updated_at": "2025-07-13T02:03:39.071209Z",
+        "created_at": "2025-07-13T02:03:39.071209Z",
+        "downloads": 442,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorg/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zorg/0.1.0/downloads",
+            "authors": "/api/v1/crates/zorg/0.1.0/authors"
+        },
+        "crate_size": 1279,
+        "published_by": {
+            "id": 343838,
+            "login": "evolutionengine",
+            "name": "Anil Kulkarni",
+            "avatar": "https://avatars.githubusercontent.com/u/17006331?v=4",
+            "url": "https://github.com/evolutionengine"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 343838,
+                    "login": "evolutionengine",
+                    "name": "Anil Kulkarni",
+                    "avatar": "https://avatars.githubusercontent.com/u/17006331?v=4",
+                    "url": "https://github.com/evolutionengine"
+                },
+                "time": "2025-07-13T02:03:39.071209Z"
+            }
+        ],
+        "checksum": "06e7f5dcda9405514f3440892cf0e5f7d5c87d6a7c20f8ce0874dd786d244cd4",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Zorg - Full-Stack AI Framework for Agent Coordination. Rust implementation coming Q2 2025.",
+        "homepage": "https://zpkg.ai",
+        "documentation": "https://zpkg.ai",
+        "repository": "https://github.com/octallium/zorg",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 12,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 12,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1928999,
+        "crate": "zorath-env",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zorath-env/0.1.0/download",
+        "readme_path": "/api/v1/crates/zorath-env/0.1.0/readme",
+        "updated_at": "2026-01-08T07:11:07.899316Z",
+        "created_at": "2026-01-08T07:11:07.899316Z",
+        "downloads": 17,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorath-env/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zorath-env/0.1.0/downloads",
+            "authors": "/api/v1/crates/zorath-env/0.1.0/authors"
+        },
+        "crate_size": 1540583,
+        "published_by": {
+            "id": 380048,
+            "login": "zorl-engine",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/253649111?v=4",
+            "url": "https://github.com/zorl-engine"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 380048,
+                    "login": "zorl-engine",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/253649111?v=4",
+                    "url": "https://github.com/zorl-engine"
+                },
+                "time": "2026-01-08T07:11:07.899316Z"
+            }
+        ],
+        "checksum": "ad1ff80749d566a55a8503f207a68c3c3138339e93eb27c685b2d53d81c651e2",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zenv"
+        ],
+        "edition": "2021",
+        "description": "A tiny CLI to validate .env using a schema, generate docs, and keep config sane.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zorl-engine/zorath-env",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 272,
+                    "comment_lines": 3,
+                    "files": 7
+                }
+            },
+            "total_code_lines": 272,
+            "total_comment_lines": 3
+        }
+    }
+}

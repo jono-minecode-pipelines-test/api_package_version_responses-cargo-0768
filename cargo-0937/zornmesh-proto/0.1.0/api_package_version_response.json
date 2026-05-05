@@ -1,0 +1,75 @@
+{
+    "version": {
+        "id": 2323606,
+        "crate": "zornmesh-proto",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zornmesh-proto/0.1.0/download",
+        "readme_path": "/api/v1/crates/zornmesh-proto/0.1.0/readme",
+        "updated_at": "2026-04-30T08:31:48.508558Z",
+        "created_at": "2026-04-29T08:53:28.773711Z",
+        "downloads": 17,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zornmesh-proto/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zornmesh-proto/0.1.0/downloads",
+            "authors": "/api/v1/crates/zornmesh-proto/0.1.0/authors"
+        },
+        "crate_size": 8151,
+        "published_by": {
+            "id": 411033,
+            "login": "nebrass",
+            "name": "Nebrass Lamouchi",
+            "avatar": "https://avatars.githubusercontent.com/u/2045375?v=4",
+            "url": "https://github.com/nebrass"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 411033,
+                    "login": "nebrass",
+                    "name": "Nebrass Lamouchi",
+                    "avatar": "https://avatars.githubusercontent.com/u/2045375?v=4",
+                    "url": "https://github.com/nebrass"
+                },
+                "time": "2026-04-29T08:53:28.773711Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 411033,
+                    "login": "nebrass",
+                    "name": "Nebrass Lamouchi",
+                    "avatar": "https://avatars.githubusercontent.com/u/2045375?v=4",
+                    "url": "https://github.com/nebrass"
+                },
+                "time": "2026-04-30T08:31:48.510549Z"
+            }
+        ],
+        "checksum": "d3bd776eaad167ba5ffb297e262d6b684da353966b724555da3eb05c89db823d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Wire protocol and envelope round-trip primitives for zornmesh.",
+        "homepage": "https://github.com/nebrass/zorn-mesh",
+        "documentation": null,
+        "repository": "https://github.com/nebrass/zorn-mesh",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 597,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 597,
+            "total_comment_lines": 0
+        }
+    }
+}

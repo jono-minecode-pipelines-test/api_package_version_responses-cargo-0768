@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1940533,
+        "crate": "zorath-env",
+        "num": "0.2.2",
+        "dl_path": "/api/v1/crates/zorath-env/0.2.2/download",
+        "readme_path": "/api/v1/crates/zorath-env/0.2.2/readme",
+        "updated_at": "2026-01-13T13:23:04.968124Z",
+        "created_at": "2026-01-13T13:23:04.968124Z",
+        "downloads": 19,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zorath-env/0.2.2/dependencies",
+            "version_downloads": "/api/v1/crates/zorath-env/0.2.2/downloads",
+            "authors": "/api/v1/crates/zorath-env/0.2.2/authors"
+        },
+        "crate_size": 1558138,
+        "published_by": {
+            "id": 380048,
+            "login": "zorl-engine",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/253649111?v=4",
+            "url": "https://github.com/zorl-engine"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 380048,
+                    "login": "zorl-engine",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/253649111?v=4",
+                    "url": "https://github.com/zorl-engine"
+                },
+                "time": "2026-01-13T13:23:04.968124Z"
+            }
+        ],
+        "checksum": "90cb0e0a1d4831c6c1253fdff038ac343825d130ab4429bc510cfb71839721fb",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "zenv"
+        ],
+        "edition": "2021",
+        "description": "CLI tool for .env file validation against JSON schema. Validates environment variables, detects missing required vars, catches configuration drift, generates Markdown or JSON documentation. Language-agnostic, works with any stack.",
+        "homepage": "https://github.com/zorl-engine",
+        "documentation": "https://docs.rs/zorath-env",
+        "repository": "https://github.com/zorl-engine/zorath-env",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 2169,
+                    "comment_lines": 84,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 2169,
+            "total_comment_lines": 84
+        }
+    }
+}

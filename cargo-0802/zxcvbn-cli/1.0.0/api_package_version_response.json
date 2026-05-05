@@ -1,0 +1,54 @@
+{
+    "version": {
+        "id": 153927,
+        "crate": "zxcvbn-cli",
+        "num": "1.0.0",
+        "dl_path": "/api/v1/crates/zxcvbn-cli/1.0.0/download",
+        "readme_path": "/api/v1/crates/zxcvbn-cli/1.0.0/readme",
+        "updated_at": "2019-06-01T07:15:34.606588Z",
+        "created_at": "2019-06-01T07:15:34.606588Z",
+        "downloads": 1454,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zxcvbn-cli/1.0.0/dependencies",
+            "version_downloads": "/api/v1/crates/zxcvbn-cli/1.0.0/downloads",
+            "authors": "/api/v1/crates/zxcvbn-cli/1.0.0/authors"
+        },
+        "crate_size": 4821,
+        "published_by": {
+            "id": 17926,
+            "login": "awaitlink",
+            "name": "link \u2726",
+            "avatar": "https://avatars.githubusercontent.com/u/19972511?v=4",
+            "url": "https://github.com/awaitlink"
+        },
+        "audit_actions": [],
+        "checksum": "cd06542f95bb870021313b88f0551fd2e610337034b043e10d6f52d95d06e262",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zxcvbn"
+        ],
+        "edition": "2018",
+        "description": "A simple CLI tool to check password strength using zxcvbn.",
+        "homepage": "https://github.com/u32i64/zxcvbn-cli#readme",
+        "documentation": null,
+        "repository": "https://github.com/u32i64/zxcvbn-cli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 262,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 262,
+            "total_comment_lines": 0
+        }
+    }
+}

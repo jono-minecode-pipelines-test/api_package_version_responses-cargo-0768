@@ -1,0 +1,114 @@
+{
+    "version": {
+        "id": 938595,
+        "crate": "zydis",
+        "num": "4.0.0-beta.4",
+        "dl_path": "/api/v1/crates/zydis/4.0.0-beta.4/download",
+        "readme_path": "/api/v1/crates/zydis/4.0.0-beta.4/readme",
+        "updated_at": "2023-10-29T19:13:41.569035Z",
+        "created_at": "2023-10-29T19:13:41.569035Z",
+        "downloads": 1547,
+        "features": {
+            "default": [
+                "std",
+                "full-decoder",
+                "formatter"
+            ],
+            "encoder": [
+                "full-decoder"
+            ],
+            "formatter": [
+                "std",
+                "full-decoder"
+            ],
+            "full-decoder": [],
+            "nolibc": [],
+            "serialization": [
+                "serde",
+                "bitflags/serde"
+            ],
+            "std": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zydis/4.0.0-beta.4/dependencies",
+            "version_downloads": "/api/v1/crates/zydis/4.0.0-beta.4/downloads",
+            "authors": "/api/v1/crates/zydis/4.0.0-beta.4/authors"
+        },
+        "crate_size": 665714,
+        "published_by": {
+            "id": 8663,
+            "login": "athre0z",
+            "name": "Joel H\u00f6ner",
+            "avatar": "https://avatars.githubusercontent.com/u/6553158?v=4",
+            "url": "https://github.com/athre0z"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 8663,
+                    "login": "athre0z",
+                    "name": "Joel H\u00f6ner",
+                    "avatar": "https://avatars.githubusercontent.com/u/6553158?v=4",
+                    "url": "https://github.com/athre0z"
+                },
+                "time": "2023-10-29T19:13:41.569035Z"
+            }
+        ],
+        "checksum": "b359ae1e943dea6ec91eadb2f8e1ffd0e0cd48ce47d74f944c101cb1f0a76bfd",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Bindings for Zydis",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zyantific/zydis-rs/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Bitbake": {
+                    "code_lines": 36269,
+                    "comment_lines": 14,
+                    "files": 15
+                },
+                "C": {
+                    "code_lines": 16775,
+                    "comment_lines": 3347,
+                    "files": 38
+                },
+                "C Header": {
+                    "code_lines": 6876,
+                    "comment_lines": 9442,
+                    "files": 51
+                },
+                "Python": {
+                    "code_lines": 137,
+                    "comment_lines": 11,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 5887,
+                    "comment_lines": 32,
+                    "files": 15
+                },
+                "Visual Studio Project": {
+                    "code_lines": 7047,
+                    "comment_lines": 0,
+                    "files": 8
+                },
+                "Visual Studio Solution": {
+                    "code_lines": 787,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 73778,
+            "total_comment_lines": 12846
+        }
+    }
+}

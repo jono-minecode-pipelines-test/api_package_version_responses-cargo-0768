@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 562208,
+        "crate": "zxcvbn-cli",
+        "num": "2.0.2",
+        "dl_path": "/api/v1/crates/zxcvbn-cli/2.0.2/download",
+        "readme_path": "/api/v1/crates/zxcvbn-cli/2.0.2/readme",
+        "updated_at": "2022-06-06T20:57:44.955862Z",
+        "created_at": "2022-06-06T20:57:44.955862Z",
+        "downloads": 1191,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zxcvbn-cli/2.0.2/dependencies",
+            "version_downloads": "/api/v1/crates/zxcvbn-cli/2.0.2/downloads",
+            "authors": "/api/v1/crates/zxcvbn-cli/2.0.2/authors"
+        },
+        "crate_size": 10444,
+        "published_by": {
+            "id": 17926,
+            "login": "awaitlink",
+            "name": "link \u2726",
+            "avatar": "https://avatars.githubusercontent.com/u/19972511?v=4",
+            "url": "https://github.com/awaitlink"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 17926,
+                    "login": "awaitlink",
+                    "name": "link \u2726",
+                    "avatar": "https://avatars.githubusercontent.com/u/19972511?v=4",
+                    "url": "https://github.com/awaitlink"
+                },
+                "time": "2022-06-06T20:57:44.955862Z"
+            }
+        ],
+        "checksum": "b086f728a32e016a9d782817a94bb08e3c0ec35269cc9e36247cd05978184ea9",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "zxcvbn"
+        ],
+        "edition": "2018",
+        "description": "A simple CLI tool to check password strength using zxcvbn.",
+        "homepage": "https://github.com/u32i64/zxcvbn-cli#readme",
+        "documentation": null,
+        "repository": "https://github.com/u32i64/zxcvbn-cli",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 277,
+                    "comment_lines": 0,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 277,
+            "total_comment_lines": 0
+        }
+    }
+}

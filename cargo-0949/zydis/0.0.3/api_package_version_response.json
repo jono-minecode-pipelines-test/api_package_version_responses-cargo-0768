@@ -1,0 +1,71 @@
+{
+    "version": {
+        "id": 69323,
+        "crate": "zydis",
+        "num": "0.0.3",
+        "dl_path": "/api/v1/crates/zydis/0.0.3/download",
+        "readme_path": "/api/v1/crates/zydis/0.0.3/readme",
+        "updated_at": "2017-11-30T02:31:10.094370Z",
+        "created_at": "2017-10-25T16:19:37.210448Z",
+        "downloads": 2755,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zydis/0.0.3/dependencies",
+            "version_downloads": "/api/v1/crates/zydis/0.0.3/downloads",
+            "authors": "/api/v1/crates/zydis/0.0.3/authors"
+        },
+        "crate_size": 349980,
+        "published_by": null,
+        "audit_actions": [],
+        "checksum": "752eb62092debe00ff674e3327df959eae2de26fe1d94489942ed6cdee5ffa70",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": null,
+        "description": "Bindings for Zydis",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/zyantific/zydis-rs/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Bitbake": {
+                    "code_lines": 33742,
+                    "comment_lines": 0,
+                    "files": 10
+                },
+                "C": {
+                    "code_lines": 6131,
+                    "comment_lines": 1232,
+                    "files": 12
+                },
+                "C Header": {
+                    "code_lines": 3516,
+                    "comment_lines": 2845,
+                    "files": 21
+                },
+                "C++": {
+                    "code_lines": 182,
+                    "comment_lines": 57,
+                    "files": 1
+                },
+                "Rust": {
+                    "code_lines": 770,
+                    "comment_lines": 84,
+                    "files": 10
+                },
+                "Snakemake": {
+                    "code_lines": 24,
+                    "comment_lines": 44,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 44365,
+            "total_comment_lines": 4262
+        }
+    }
+}

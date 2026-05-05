@@ -1,0 +1,78 @@
+{
+    "version": {
+        "id": 2278871,
+        "crate": "zlayer-sdk",
+        "num": "0.10.86",
+        "dl_path": "/api/v1/crates/zlayer-sdk/0.10.86/download",
+        "readme_path": "/api/v1/crates/zlayer-sdk/0.10.86/readme",
+        "updated_at": "2026-04-19T22:32:14.310457Z",
+        "created_at": "2026-04-19T22:32:14.310457Z",
+        "downloads": 19,
+        "features": {
+            "debug": [],
+            "default": [
+                "wasm-alloc"
+            ],
+            "std": [
+                "wit-bindgen/std"
+            ],
+            "testing": [
+                "std"
+            ],
+            "wasm-alloc": [
+                "dep:dlmalloc"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zlayer-sdk/0.10.86/dependencies",
+            "version_downloads": "/api/v1/crates/zlayer-sdk/0.10.86/downloads",
+            "authors": "/api/v1/crates/zlayer-sdk/0.10.86/authors"
+        },
+        "crate_size": 33485,
+        "published_by": {
+            "id": 93124,
+            "login": "ZachHandley",
+            "name": "ZachHandley",
+            "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+            "url": "https://github.com/ZachHandley"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 93124,
+                    "login": "ZachHandley",
+                    "name": "ZachHandley",
+                    "avatar": "https://avatars.githubusercontent.com/u/16495679?v=4",
+                    "url": "https://github.com/ZachHandley"
+                },
+                "time": "2026-04-19T22:32:14.310457Z"
+            }
+        ],
+        "checksum": "2996fe627e9f695f7355bd7ac40a9c455524ade147c99c1e983d5df3667bcbce",
+        "rust_version": "1.85",
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZLayer Plugin Development Kit for Rust",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/BlackLeafDigital/ZLayer",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1068,
+                    "comment_lines": 48,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 1068,
+            "total_comment_lines": 48
+        }
+    }
+}

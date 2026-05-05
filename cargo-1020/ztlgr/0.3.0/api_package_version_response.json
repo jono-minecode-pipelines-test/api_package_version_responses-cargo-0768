@@ -1,0 +1,77 @@
+{
+    "version": {
+        "id": 2216052,
+        "crate": "ztlgr",
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/ztlgr/0.3.0/download",
+        "readme_path": "/api/v1/crates/ztlgr/0.3.0/readme",
+        "updated_at": "2026-04-06T01:13:00.037247Z",
+        "created_at": "2026-04-06T01:13:00.037247Z",
+        "downloads": 18,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/ztlgr/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/ztlgr/0.3.0/downloads",
+            "authors": "/api/v1/crates/ztlgr/0.3.0/authors"
+        },
+        "crate_size": 141797,
+        "published_by": {
+            "id": 403630,
+            "login": "bakudas",
+            "name": "Wilson",
+            "avatar": "https://avatars.githubusercontent.com/u/2124022?v=4",
+            "url": "https://github.com/bakudas"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 403630,
+                    "login": "bakudas",
+                    "name": "Wilson",
+                    "avatar": "https://avatars.githubusercontent.com/u/2124022?v=4",
+                    "url": "https://github.com/bakudas"
+                },
+                "time": "2026-04-06T01:13:00.037247Z"
+            }
+        ],
+        "checksum": "e26f3cac008343ab457ed8bc2f4b17fb4f15827783ba737cac246b4fa9ff45ac",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "storage-test",
+            "ztlgr"
+        ],
+        "edition": "2021",
+        "description": "Terminal-based note-taking app with Zettelkasten methodology",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/bakudas/ztlgr",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 11061,
+                    "comment_lines": 420,
+                    "files": 61
+                },
+                "SQL": {
+                    "code_lines": 82,
+                    "comment_lines": 13,
+                    "files": 1
+                },
+                "Shell": {
+                    "code_lines": 158,
+                    "comment_lines": 16,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 11301,
+            "total_comment_lines": 449
+        }
+    }
+}

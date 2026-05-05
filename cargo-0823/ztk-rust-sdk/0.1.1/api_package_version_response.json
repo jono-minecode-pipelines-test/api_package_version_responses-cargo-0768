@@ -1,0 +1,88 @@
+{
+    "version": {
+        "id": 1863101,
+        "crate": "ztk-rust-sdk",
+        "num": "0.1.1",
+        "dl_path": "/api/v1/crates/ztk-rust-sdk/0.1.1/download",
+        "readme_path": "/api/v1/crates/ztk-rust-sdk/0.1.1/readme",
+        "updated_at": "2025-12-06T08:42:43.428947Z",
+        "created_at": "2025-12-06T08:42:43.428947Z",
+        "downloads": 39,
+        "features": {
+            "default": [
+                "taobao",
+                "jd",
+                "pdd"
+            ],
+            "douyin": [],
+            "eleme": [],
+            "full": [
+                "taobao",
+                "jd",
+                "pdd",
+                "vip",
+                "meituan",
+                "kaola",
+                "eleme",
+                "douyin"
+            ],
+            "jd": [],
+            "kaola": [],
+            "meituan": [],
+            "pdd": [],
+            "taobao": [],
+            "vip": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/ztk-rust-sdk/0.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/ztk-rust-sdk/0.1.1/downloads",
+            "authors": "/api/v1/crates/ztk-rust-sdk/0.1.1/authors"
+        },
+        "crate_size": 174823,
+        "published_by": {
+            "id": 258323,
+            "login": "mdddj",
+            "name": "mddd",
+            "avatar": "https://avatars.githubusercontent.com/u/29020213?v=4",
+            "url": "https://github.com/mdddj"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 258323,
+                    "login": "mdddj",
+                    "name": "mddd",
+                    "avatar": "https://avatars.githubusercontent.com/u/29020213?v=4",
+                    "url": "https://github.com/mdddj"
+                },
+                "time": "2025-12-06T08:42:43.428947Z"
+            }
+        ],
+        "checksum": "bbe27a6df7fe0455cdf3b1ca9fec1a1606e603e8b31d929d67f763f9fa14dc03",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "\u6298\u6dd8\u5ba2 (ZheTaoKe/ZTK) Rust SDK - \u591a\u5e73\u53f0\u7535\u5546 API \u5ba2\u6237\u7aef\u5e93",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 7971,
+                    "comment_lines": 69,
+                    "files": 41
+                }
+            },
+            "total_code_lines": 7971,
+            "total_comment_lines": 69
+        }
+    }
+}

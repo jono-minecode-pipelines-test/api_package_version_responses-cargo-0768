@@ -1,0 +1,66 @@
+{
+    "version": {
+        "id": 1895599,
+        "crate": "ztensor-cli",
+        "num": "1.1.1",
+        "dl_path": "/api/v1/crates/ztensor-cli/1.1.1/download",
+        "readme_path": "/api/v1/crates/ztensor-cli/1.1.1/readme",
+        "updated_at": "2025-12-22T03:29:32.443714Z",
+        "created_at": "2025-12-22T03:29:32.443714Z",
+        "downloads": 20,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/ztensor-cli/1.1.1/dependencies",
+            "version_downloads": "/api/v1/crates/ztensor-cli/1.1.1/downloads",
+            "authors": "/api/v1/crates/ztensor-cli/1.1.1/authors"
+        },
+        "crate_size": 34060,
+        "published_by": {
+            "id": 156986,
+            "login": "ingim",
+            "name": "In Gim",
+            "avatar": "https://avatars.githubusercontent.com/u/100491189?v=4",
+            "url": "https://github.com/ingim"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 156986,
+                    "login": "ingim",
+                    "name": "In Gim",
+                    "avatar": "https://avatars.githubusercontent.com/u/100491189?v=4",
+                    "url": "https://github.com/ingim"
+                },
+                "time": "2025-12-22T03:29:32.443714Z"
+            }
+        ],
+        "checksum": "7d4d2ea42159d56a7defad9ece3f0de2d6afc8ca4eb305ebfad0d226be53e2e6",
+        "rust_version": null,
+        "has_lib": false,
+        "bin_names": [
+            "ztensor"
+        ],
+        "edition": "2024",
+        "description": "Command-line tool for zTensor",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/pie-project/ztensor",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1344,
+                    "comment_lines": 36,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 1344,
+            "total_comment_lines": 36
+        }
+    }
+}

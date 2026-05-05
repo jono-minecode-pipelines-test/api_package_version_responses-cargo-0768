@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 2044417,
+        "crate": "zubr_state_machine",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zubr_state_machine/0.1.0/download",
+        "readme_path": "/api/v1/crates/zubr_state_machine/0.1.0/readme",
+        "updated_at": "2026-02-19T19:52:30.234125Z",
+        "created_at": "2026-02-19T19:52:30.234125Z",
+        "downloads": 115,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zubr_state_machine/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zubr_state_machine/0.1.0/downloads",
+            "authors": "/api/v1/crates/zubr_state_machine/0.1.0/authors"
+        },
+        "crate_size": 7180,
+        "published_by": {
+            "id": 391117,
+            "login": "MalinkyZubr",
+            "name": "Michael Ray",
+            "avatar": "https://avatars.githubusercontent.com/u/96273195?v=4",
+            "url": "https://github.com/MalinkyZubr"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 391117,
+                    "login": "MalinkyZubr",
+                    "name": "Michael Ray",
+                    "avatar": "https://avatars.githubusercontent.com/u/96273195?v=4",
+                    "url": "https://github.com/MalinkyZubr"
+                },
+                "time": "2026-02-19T19:52:30.234125Z"
+            }
+        ],
+        "checksum": "b64911e801b4c4e97f39c0a35510820bd8da3a663ec5621487aae0c9fea23e6b",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "A simple asynchronous state machine library for creating Mealy machines in rust.",
+        "homepage": null,
+        "documentation": null,
+        "repository": "https://github.com/MalinkyZubr/ZubrStateMachine.git",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 339,
+                    "comment_lines": 23,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 339,
+            "total_comment_lines": 23
+        }
+    }
+}

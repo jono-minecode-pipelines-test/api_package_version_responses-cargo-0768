@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 811484,
+        "crate": "zu-util",
+        "num": "0.3.1",
+        "dl_path": "/api/v1/crates/zu-util/0.3.1/download",
+        "readme_path": "/api/v1/crates/zu-util/0.3.1/readme",
+        "updated_at": "2023-05-30T13:50:20.936024Z",
+        "created_at": "2023-05-30T13:50:20.936024Z",
+        "downloads": 1415,
+        "features": {
+            "default": [],
+            "icon": [
+                "roxmltree"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zu-util/0.3.1/dependencies",
+            "version_downloads": "/api/v1/crates/zu-util/0.3.1/downloads",
+            "authors": "/api/v1/crates/zu-util/0.3.1/authors"
+        },
+        "crate_size": 7910,
+        "published_by": {
+            "id": 49033,
+            "login": "XuShaohua",
+            "name": "Xu Shaohua",
+            "avatar": "https://avatars.githubusercontent.com/u/11879915?v=4",
+            "url": "https://github.com/XuShaohua"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 49033,
+                    "login": "XuShaohua",
+                    "name": "Xu Shaohua",
+                    "avatar": "https://avatars.githubusercontent.com/u/11879915?v=4",
+                    "url": "https://github.com/XuShaohua"
+                },
+                "time": "2023-05-30T13:50:20.936024Z"
+            }
+        ],
+        "checksum": "67035ce7b5baf16ac78a06e759ae26ce64c4daf94e3c0f9468e9511218979cad",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "Utilities for zu component",
+        "homepage": "https://github.com/RustVis/zu/crates/zu-util",
+        "documentation": "https://docs.rs/zu-util",
+        "repository": "https://github.com/RustVis/zu",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 188,
+                    "comment_lines": 14,
+                    "files": 5
+                }
+            },
+            "total_code_lines": 188,
+            "total_comment_lines": 14
+        }
+    }
+}

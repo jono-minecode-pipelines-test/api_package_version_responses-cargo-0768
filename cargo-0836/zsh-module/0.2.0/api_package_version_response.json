@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 706244,
+        "crate": "zsh-module",
+        "num": "0.2.0",
+        "dl_path": "/api/v1/crates/zsh-module/0.2.0/download",
+        "readme_path": "/api/v1/crates/zsh-module/0.2.0/readme",
+        "updated_at": "2023-01-18T19:22:43.027076Z",
+        "created_at": "2023-01-18T19:22:43.027076Z",
+        "downloads": 1096,
+        "features": {
+            "default": [
+                "export_module"
+            ],
+            "export_module": []
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT",
+        "links": {
+            "dependencies": "/api/v1/crates/zsh-module/0.2.0/dependencies",
+            "version_downloads": "/api/v1/crates/zsh-module/0.2.0/downloads",
+            "authors": "/api/v1/crates/zsh-module/0.2.0/authors"
+        },
+        "crate_size": 6128,
+        "published_by": {
+            "id": 154765,
+            "login": "Diegovsky",
+            "name": "Diego Augusto",
+            "avatar": "https://avatars.githubusercontent.com/u/46163903?v=4",
+            "url": "https://github.com/Diegovsky"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 154765,
+                    "login": "Diegovsky",
+                    "name": "Diego Augusto",
+                    "avatar": "https://avatars.githubusercontent.com/u/46163903?v=4",
+                    "url": "https://github.com/Diegovsky"
+                },
+                "time": "2023-01-18T19:22:43.027076Z"
+            }
+        ],
+        "checksum": "30e73a12d0549f4d399c76b35e487d2bbe5c851c5bfb2511d793c929f5f491c8",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "A High-level framework for creating zsh modules",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 403,
+                    "comment_lines": 10,
+                    "files": 4
+                }
+            },
+            "total_code_lines": 403,
+            "total_comment_lines": 10
+        }
+    }
+}

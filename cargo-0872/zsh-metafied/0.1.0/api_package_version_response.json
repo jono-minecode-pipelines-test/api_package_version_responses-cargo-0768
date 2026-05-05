@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1976970,
+        "crate": "zsh-metafied",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zsh-metafied/0.1.0/download",
+        "readme_path": "/api/v1/crates/zsh-metafied/0.1.0/readme",
+        "updated_at": "2026-01-27T13:46:24.598972Z",
+        "created_at": "2026-01-27T13:46:24.598972Z",
+        "downloads": 17,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "non-standard",
+        "links": {
+            "dependencies": "/api/v1/crates/zsh-metafied/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zsh-metafied/0.1.0/downloads",
+            "authors": "/api/v1/crates/zsh-metafied/0.1.0/authors"
+        },
+        "crate_size": 2739,
+        "published_by": {
+            "id": 119896,
+            "login": "bczhc",
+            "name": "Zhai Can",
+            "avatar": "https://avatars.githubusercontent.com/u/49330580?v=4",
+            "url": "https://github.com/bczhc"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 119896,
+                    "login": "bczhc",
+                    "name": "Zhai Can",
+                    "avatar": "https://avatars.githubusercontent.com/u/49330580?v=4",
+                    "url": "https://github.com/bczhc"
+                },
+                "time": "2026-01-27T13:46:24.598972Z"
+            }
+        ],
+        "checksum": "187e8114644d6efe99a5ea08434431bb6344ce7f89a8c2c589446441be006594",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2024",
+        "description": "Zsh bytes metafying and unmetafying utilities.",
+        "homepage": null,
+        "documentation": null,
+        "repository": null,
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 41,
+                    "comment_lines": 0,
+                    "files": 1
+                }
+            },
+            "total_code_lines": 41,
+            "total_comment_lines": 0
+        }
+    }
+}

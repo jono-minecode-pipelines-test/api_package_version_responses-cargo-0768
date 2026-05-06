@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1751115,
+        "crate": "zksync_node_genesis",
+        "num": "29.4.1-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_node_genesis/29.4.1-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_node_genesis/29.4.1-non-semver-compat/readme",
+        "updated_at": "2025-09-29T19:22:49.328473Z",
+        "created_at": "2025-09-29T19:22:49.328473Z",
+        "downloads": 281,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_node_genesis/29.4.1-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_node_genesis/29.4.1-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_node_genesis/29.4.1-non-semver-compat/authors"
+        },
+        "crate_size": 53942,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-09-29T19:22:49.328473Z"
+            }
+        ],
+        "checksum": "19087aabffd8f9d0fe456ecd8baa7d973300b5b9e887f874755710e21ef05d1a",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync node genesis tools",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 795,
+                    "comment_lines": 17,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 795,
+            "total_comment_lines": 17
+        }
+    }
+}

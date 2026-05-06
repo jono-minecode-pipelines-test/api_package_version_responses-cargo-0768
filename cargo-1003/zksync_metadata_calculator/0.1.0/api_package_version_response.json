@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1202346,
+        "crate": "zksync_metadata_calculator",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zksync_metadata_calculator/0.1.0/download",
+        "readme_path": "/api/v1/crates/zksync_metadata_calculator/0.1.0/readme",
+        "updated_at": "2024-07-13T04:24:29.625374Z",
+        "created_at": "2024-07-13T04:24:29.625374Z",
+        "downloads": 1615,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_metadata_calculator/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_metadata_calculator/0.1.0/downloads",
+            "authors": "/api/v1/crates/zksync_metadata_calculator/0.1.0/authors"
+        },
+        "crate_size": 40721,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-07-13T04:24:29.625374Z"
+            }
+        ],
+        "checksum": "39f4ca99a82d654ed4ae6b7ee3fd55349dbe077bad7cb46811b85ba152b131c4",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync batch metadata calculator",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 4154,
+                    "comment_lines": 125,
+                    "files": 11
+                }
+            },
+            "total_code_lines": 4154,
+            "total_comment_lines": 125
+        }
+    }
+}

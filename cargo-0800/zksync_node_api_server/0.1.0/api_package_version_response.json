@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1202412,
+        "crate": "zksync_node_api_server",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zksync_node_api_server/0.1.0/download",
+        "readme_path": "/api/v1/crates/zksync_node_api_server/0.1.0/readme",
+        "updated_at": "2024-07-13T07:11:54.490721Z",
+        "created_at": "2024-07-13T07:11:54.490721Z",
+        "downloads": 1485,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_node_api_server/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_node_api_server/0.1.0/downloads",
+            "authors": "/api/v1/crates/zksync_node_api_server/0.1.0/authors"
+        },
+        "crate_size": 101980,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-07-13T07:11:54.490721Z"
+            }
+        ],
+        "checksum": "b1dc5f2a7902e10ff3e19e8aafe007f5ebb66159d593403f23b390019636c246",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync API server",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 8895,
+                    "comment_lines": 268,
+                    "files": 46
+                }
+            },
+            "total_code_lines": 8895,
+            "total_comment_lines": 268
+        }
+    }
+}

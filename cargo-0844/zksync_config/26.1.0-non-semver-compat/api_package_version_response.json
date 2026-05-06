@@ -1,0 +1,70 @@
+{
+    "version": {
+        "id": 1417914,
+        "crate": "zksync_config",
+        "num": "26.1.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_config/26.1.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_config/26.1.0-non-semver-compat/readme",
+        "updated_at": "2025-01-22T16:55:54.679619Z",
+        "created_at": "2025-01-22T16:55:54.679619Z",
+        "downloads": 1320,
+        "features": {
+            "default": [],
+            "observability_ext": [
+                "zksync_vlog",
+                "tracing"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_config/26.1.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_config/26.1.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_config/26.1.0-non-semver-compat/authors"
+        },
+        "crate_size": 40444,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2025-01-22T16:55:54.679619Z"
+            }
+        ],
+        "checksum": "7a5da223185e00bfef1f4fafe748d9b43bed2e993197a12654431a480a1c5f4e",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync core configuration",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 3565,
+                    "comment_lines": 58,
+                    "files": 44
+                }
+            },
+            "total_code_lines": 3565,
+            "total_comment_lines": 58
+        }
+    }
+}

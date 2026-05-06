@@ -1,0 +1,84 @@
+{
+    "version": {
+        "id": 1344947,
+        "crate": "zksync_ff",
+        "num": "0.30.8",
+        "dl_path": "/api/v1/crates/zksync_ff/0.30.8/download",
+        "readme_path": "/api/v1/crates/zksync_ff/0.30.8/readme",
+        "updated_at": "2024-11-21T13:15:45.392293Z",
+        "created_at": "2024-11-19T12:10:21.429491Z",
+        "downloads": 1153,
+        "features": {
+            "asm_derive": [
+                "derive",
+                "ff_derive/asm"
+            ],
+            "default": [],
+            "derive": [
+                "ff_derive"
+            ]
+        },
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_ff/0.30.8/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_ff/0.30.8/downloads",
+            "authors": "/api/v1/crates/zksync_ff/0.30.8/authors"
+        },
+        "crate_size": 11894,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-11-19T12:10:21.429491Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-11-21T13:15:45.394475Z"
+            }
+        ],
+        "checksum": "7237a96156aa318983a8dfb42543ff16b9784d584546be7bd3823f95db101cd8",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Library for building and interfacing with finite fields, based on ff",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-crypto/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 514,
+                    "comment_lines": 21,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 514,
+            "total_comment_lines": 21
+        }
+    }
+}

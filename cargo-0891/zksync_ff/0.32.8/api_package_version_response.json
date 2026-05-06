@@ -1,0 +1,73 @@
+{
+    "version": {
+        "id": 2012556,
+        "crate": "zksync_ff",
+        "num": "0.32.8",
+        "dl_path": "/api/v1/crates/zksync_ff/0.32.8/download",
+        "readme_path": "/api/v1/crates/zksync_ff/0.32.8/readme",
+        "updated_at": "2026-02-09T17:16:02.809896Z",
+        "created_at": "2026-02-09T17:16:02.809896Z",
+        "downloads": 444,
+        "features": {
+            "asm_derive": [
+                "derive",
+                "ff_derive/asm"
+            ],
+            "default": [],
+            "derive": [
+                "ff_derive"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_ff/0.32.8/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_ff/0.32.8/downloads",
+            "authors": "/api/v1/crates/zksync_ff/0.32.8/authors"
+        },
+        "crate_size": 14575,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2026-02-09T17:16:02.809896Z"
+            }
+        ],
+        "checksum": "5343dc379d3d77f69a45d6f53bd2d9e9f055c1672dbebc71009e5821e16b2c13",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Library for building and interfacing with finite fields, based on ff",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-crypto/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 586,
+                    "comment_lines": 24,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 586,
+            "total_comment_lines": 24
+        }
+    }
+}

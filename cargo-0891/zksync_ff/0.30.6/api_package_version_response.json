@@ -1,0 +1,73 @@
+{
+    "version": {
+        "id": 1321998,
+        "crate": "zksync_ff",
+        "num": "0.30.6",
+        "dl_path": "/api/v1/crates/zksync_ff/0.30.6/download",
+        "readme_path": "/api/v1/crates/zksync_ff/0.30.6/readme",
+        "updated_at": "2024-10-31T13:15:43.359401Z",
+        "created_at": "2024-10-31T13:15:43.359401Z",
+        "downloads": 2121,
+        "features": {
+            "asm_derive": [
+                "derive",
+                "ff_derive/asm"
+            ],
+            "default": [],
+            "derive": [
+                "ff_derive"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_ff/0.30.6/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_ff/0.30.6/downloads",
+            "authors": "/api/v1/crates/zksync_ff/0.30.6/authors"
+        },
+        "crate_size": 11890,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-10-31T13:15:43.359401Z"
+            }
+        ],
+        "checksum": "c201c29ba2ddce8862beba8cad1844f4f9ee800af21fa693aaf1fb73fca8a8fe",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2018",
+        "description": "Library for building and interfacing with finite fields, based on ff",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-crypto/",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 514,
+                    "comment_lines": 21,
+                    "files": 2
+                }
+            },
+            "total_code_lines": 514,
+            "total_comment_lines": 21
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1425846,
+        "crate": "zksync_external_proof_integration_api",
+        "num": "26.2.1-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_external_proof_integration_api/26.2.1-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_external_proof_integration_api/26.2.1-non-semver-compat/readme",
+        "updated_at": "2025-01-29T14:31:05.692047Z",
+        "created_at": "2025-01-29T14:31:05.692047Z",
+        "downloads": 684,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_external_proof_integration_api/26.2.1-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_external_proof_integration_api/26.2.1-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_external_proof_integration_api/26.2.1-non-semver-compat/authors"
+        },
+        "crate_size": 5702,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-01-29T14:31:05.692047Z"
+            }
+        ],
+        "checksum": "c7a6024aa8cd84fa478b4c0e60378e6e28dd722d7d07cfd50fa45b778cc19db7",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync external proof integration API",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 443,
+                    "comment_lines": 5,
+                    "files": 6
+                }
+            },
+            "total_code_lines": 443,
+            "total_comment_lines": 5
+        }
+    }
+}

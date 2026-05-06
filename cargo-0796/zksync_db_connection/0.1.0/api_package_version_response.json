@@ -1,0 +1,64 @@
+{
+    "version": {
+        "id": 1200961,
+        "crate": "zksync_db_connection",
+        "num": "0.1.0",
+        "dl_path": "/api/v1/crates/zksync_db_connection/0.1.0/download",
+        "readme_path": "/api/v1/crates/zksync_db_connection/0.1.0/readme",
+        "updated_at": "2024-07-12T11:33:35.772065Z",
+        "created_at": "2024-07-12T11:33:35.772065Z",
+        "downloads": 3938,
+        "features": {},
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_db_connection/0.1.0/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_db_connection/0.1.0/downloads",
+            "authors": "/api/v1/crates/zksync_db_connection/0.1.0/authors"
+        },
+        "crate_size": 17528,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-07-12T11:33:35.772065Z"
+            }
+        ],
+        "checksum": "7a4a0a12d2cd1fcbc9048346c22b2074736adc0939a862720770efd962bec96d",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync Postgres connection wrappers",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1566,
+                    "comment_lines": 30,
+                    "files": 8
+                }
+            },
+            "total_code_lines": 1566,
+            "total_comment_lines": 30
+        }
+    }
+}

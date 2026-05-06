@@ -1,0 +1,80 @@
+{
+    "version": {
+        "id": 1197905,
+        "crate": "zksync_consensus_tools",
+        "num": "0.1.0-rc.2",
+        "dl_path": "/api/v1/crates/zksync_consensus_tools/0.1.0-rc.2/download",
+        "readme_path": "/api/v1/crates/zksync_consensus_tools/0.1.0-rc.2/readme",
+        "updated_at": "2024-07-23T15:44:19.362240Z",
+        "created_at": "2024-07-09T17:04:43.654445Z",
+        "downloads": 1031,
+        "features": {},
+        "yanked": true,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_consensus_tools/0.1.0-rc.2/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_consensus_tools/0.1.0-rc.2/downloads",
+            "authors": "/api/v1/crates/zksync_consensus_tools/0.1.0-rc.2/authors"
+        },
+        "crate_size": 43330,
+        "published_by": {
+            "id": 278214,
+            "login": "ml-ia",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+            "url": "https://github.com/ml-ia"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 278214,
+                    "login": "ml-ia",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/152983389?v=4",
+                    "url": "https://github.com/ml-ia"
+                },
+                "time": "2024-07-09T17:04:43.654445Z"
+            },
+            {
+                "action": "yank",
+                "user": {
+                    "id": 196241,
+                    "login": "pompon0",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/1547635?v=4",
+                    "url": "https://github.com/pompon0"
+                },
+                "time": "2024-07-23T15:44:19.365749Z"
+            }
+        ],
+        "checksum": "d86bb5c3ce81e119bfb66a1eec7edb0d5b7771ce2918d183a6be75ec5c2f9f72",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [
+            "executor",
+            "deployer",
+            "keys",
+            "localnet_config"
+        ],
+        "edition": "2021",
+        "description": "ZKsync consensus tools",
+        "homepage": "https://matter-labs.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/era-consensus",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 1270,
+                    "comment_lines": 47,
+                    "files": 17
+                }
+            },
+            "total_code_lines": 1270,
+            "total_comment_lines": 47
+        }
+    }
+}

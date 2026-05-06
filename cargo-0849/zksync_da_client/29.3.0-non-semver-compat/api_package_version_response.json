@@ -1,0 +1,69 @@
+{
+    "version": {
+        "id": 1736092,
+        "crate": "zksync_da_client",
+        "num": "29.3.0-non-semver-compat",
+        "dl_path": "/api/v1/crates/zksync_da_client/29.3.0-non-semver-compat/download",
+        "readme_path": "/api/v1/crates/zksync_da_client/29.3.0-non-semver-compat/readme",
+        "updated_at": "2025-09-18T21:25:45.613496Z",
+        "created_at": "2025-09-18T21:25:45.613496Z",
+        "downloads": 289,
+        "features": {
+            "default": [],
+            "node_framework": [
+                "dep:zksync_node_framework"
+            ]
+        },
+        "yanked": false,
+        "yank_message": null,
+        "lib_links": null,
+        "license": "MIT OR Apache-2.0",
+        "links": {
+            "dependencies": "/api/v1/crates/zksync_da_client/29.3.0-non-semver-compat/dependencies",
+            "version_downloads": "/api/v1/crates/zksync_da_client/29.3.0-non-semver-compat/downloads",
+            "authors": "/api/v1/crates/zksync_da_client/29.3.0-non-semver-compat/authors"
+        },
+        "crate_size": 14920,
+        "published_by": {
+            "id": 297400,
+            "login": "CratesMatterLabs",
+            "name": null,
+            "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+            "url": "https://github.com/CratesMatterLabs"
+        },
+        "audit_actions": [
+            {
+                "action": "publish",
+                "user": {
+                    "id": 297400,
+                    "login": "CratesMatterLabs",
+                    "name": null,
+                    "avatar": "https://avatars.githubusercontent.com/u/185927582?v=4",
+                    "url": "https://github.com/CratesMatterLabs"
+                },
+                "time": "2025-09-18T21:25:45.613496Z"
+            }
+        ],
+        "checksum": "fadc04c3e115ddbc3d04c0880f3aa70f9eb1ceab3f4719d6dd1d59d208fca1e1",
+        "rust_version": null,
+        "has_lib": true,
+        "bin_names": [],
+        "edition": "2021",
+        "description": "ZKsync DA client definition",
+        "homepage": "https://zksync.io/",
+        "documentation": null,
+        "repository": "https://github.com/matter-labs/zksync-era",
+        "trustpub_data": null,
+        "linecounts": {
+            "languages": {
+                "Rust": {
+                    "code_lines": 96,
+                    "comment_lines": 0,
+                    "files": 3
+                }
+            },
+            "total_code_lines": 96,
+            "total_comment_lines": 0
+        }
+    }
+}

@@ -1,13 +1,13 @@
 {
     "version": {
-        "id": 2028490,
+        "id": 2368598,
         "crate": "zynq7000-rt",
-        "num": "0.2.0",
-        "dl_path": "/api/v1/crates/zynq7000-rt/0.2.0/download",
-        "readme_path": "/api/v1/crates/zynq7000-rt/0.2.0/readme",
-        "updated_at": "2026-02-14T18:13:47.914777Z",
-        "created_at": "2026-02-14T18:13:47.914777Z",
-        "downloads": 37,
+        "num": "0.3.0",
+        "dl_path": "/api/v1/crates/zynq7000-rt/0.3.0/download",
+        "readme_path": "/api/v1/crates/zynq7000-rt/0.3.0/readme",
+        "updated_at": "2026-05-08T15:20:45.162928Z",
+        "created_at": "2026-05-08T15:20:45.162928Z",
+        "downloads": 13,
         "features": {
             "default": [
                 "rt"
@@ -21,11 +21,11 @@
         "lib_links": null,
         "license": "MIT OR Apache-2.0",
         "links": {
-            "dependencies": "/api/v1/crates/zynq7000-rt/0.2.0/dependencies",
-            "version_downloads": "/api/v1/crates/zynq7000-rt/0.2.0/downloads",
-            "authors": "/api/v1/crates/zynq7000-rt/0.2.0/authors"
+            "dependencies": "/api/v1/crates/zynq7000-rt/0.3.0/dependencies",
+            "version_downloads": "/api/v1/crates/zynq7000-rt/0.3.0/downloads",
+            "authors": "/api/v1/crates/zynq7000-rt/0.3.0/authors"
         },
-        "crate_size": 28959,
+        "crate_size": 28923,
         "published_by": {
             "id": 124403,
             "login": "robamu",
@@ -43,10 +43,10 @@
                     "avatar": "https://avatars.githubusercontent.com/u/31589589?v=4",
                     "url": "https://github.com/robamu"
                 },
-                "time": "2026-02-14T18:13:47.914777Z"
+                "time": "2026-05-08T15:20:45.162928Z"
             }
         ],
-        "checksum": "3a6446ad40ead6754a1f576abcb018245a5e10eb8011f7a38093f80b67c829de",
+        "checksum": "f5de992f4695ed070fa0f110bdc59eb6b6f9db31f7d282a614599eaea9977d26",
         "rust_version": null,
         "has_lib": true,
         "bin_names": [],
@@ -59,12 +59,12 @@
         "linecounts": {
             "languages": {
                 "Rust": {
-                    "code_lines": 4472,
+                    "code_lines": 4474,
                     "comment_lines": 24,
                     "files": 5
                 }
             },
-            "total_code_lines": 4472,
+            "total_code_lines": 4474,
             "total_comment_lines": 24
         }
     }

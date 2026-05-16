@@ -7,7 +7,7 @@
         "readme_path": "/api/v1/crates/zydis/4.1.1/readme",
         "updated_at": "2024-03-09T17:08:57.459449Z",
         "created_at": "2024-03-09T17:08:57.459449Z",
-        "downloads": 82107,
+        "downloads": 83843,
         "features": {
             "alloc": [],
             "default": [
